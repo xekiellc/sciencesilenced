@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — Science Silenced</title>
+<meta name="description" content="What Science Silenced is, why it exists, and what we believe about the state of modern science.">
+<meta property="og:title" content="About — Science Silenced">
+<meta property="og:description" content="What Science Silenced is, why it exists, and what we believe about the state of modern science.">
+<meta property="og:url" content="https://sciencesilenced.com/about">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://sciencesilenced.com/og.png">
+<link rel="icon" type="image/png" href="/favicon.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNRDVWQCPK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FNRDVWQCPK');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --paper:#cfc4aa;
+  --paper-dark:#c0b498;
+  --paper-mid:#b8aa90;
+  --ink:#18120a;
+  --ink-light:#3a2e18;
+  --ink-muted:#6b5e42;
+  --ink-faint:#8b7040;
+  --rule:#a09070;
+  --red:#8b1010;
+  --red-light:#f0e8d0;
+  --green:#2a5a1a;
+  --green-light:#d0e8c0;
+  --blue:#104878;
+  --blue-light:#d0e0f8;
+  --amber:#8b6010;
+}
+html{scroll-behavior:smooth;}
+body{
+  background:var(--paper);
+  background-image:repeating-linear-gradient(0deg,transparent,transparent 27px,rgba(0,0,0,0.022) 28px);
+  color:var(--ink);
+  font-family:'Courier Prime',monospace;
+  min-height:100vh;
+  font-size:14px;
+  line-height:1.6;
+}
+a{color:inherit;text-decoration:none;}
+.top-bar{
+  background:var(--ink);
+  color:#7a6e58;
+  padding:5px 2rem;
+  display:flex;
+  justify-content:space-between;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+}
+.masthead{
+  background:var(--paper);
+  border-bottom:3px solid var(--ink);
+  padding:1.4rem 2rem 0;
+}
+.masthead-grid{
+  display:grid;
+  grid-template-columns:150px 1fr 150px;
+  align-items:center;
+  gap:.5rem;
+  margin-bottom:1rem;
+}
+.mast-side{
+  font-size:8px;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  line-height:2.2;
+  white-space:nowrap;
+}
+.mast-side.right{text-align:right;}
+.logo-wrap{text-align:center;}
+.logo-science{
+  font-family:'Courier Prime',monospace;
+  font-size:9px;
+  letter-spacing:.55em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  display:block;
+  margin-bottom:1px;
+}
+.logo-silenced{
+  font-family:'Oswald',sans-serif;
+  font-size:58px;
+  font-weight:700;
+  letter-spacing:.03em;
+  color:var(--ink);
+  display:block;
+  line-height:.85;
+  position:relative;
+}
+.logo-silenced::after{
+  content:'';
+  position:absolute;
+  left:-4px;right:-4px;top:44%;
+  height:7px;
+  background:var(--red);
+  transform:rotate(-.6deg);
+}
+.logo-tag{
+  font-family:'Special Elite',cursive;
+  font-size:9px;
+  color:var(--ink-muted);
+  letter-spacing:.03em;
+  margin-top:5px;
+  display:block;
+}
+nav.main-nav{
+  display:flex;
+  border-top:1px solid var(--rule);
+  overflow-x:auto;
+  scrollbar-width:none;
+}
+nav.main-nav::-webkit-scrollbar{display:none;}
+nav.main-nav a{
+  font-family:'Courier Prime',monospace;
+  font-size:8.5px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--ink);
+  padding:9px 13px;
+  border-right:1px solid var(--rule);
+  white-space:nowrap;
+  transition:background .12s,color .12s;
+  flex-shrink:0;
+}
+nav.main-nav a:hover{background:var(--ink);color:var(--paper);}
+nav.main-nav a.active{background:var(--red);color:var(--red-light);}
+.page-hero{
+  background:var(--ink);
+  padding:2.5rem 2rem;
+  border-bottom:3px solid var(--red);
+}
+.hero-eyebrow{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:#8b7a60;
+  margin-bottom:8px;
+}
+.hero-title{
+  font-family:'Oswald',sans-serif;
+  font-size:52px;
+  font-weight:700;
+  color:#f0e0c0;
+  line-height:.95;
+  margin-bottom:12px;
+}
+.hero-title span{color:var(--red);}
+main{
+  padding:2rem;
+  max-width:860px;
+}
+.back-link{
+  display:inline-block;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--red);
+  border-bottom:1px solid var(--red);
+  padding-bottom:1px;
+  margin-bottom:2rem;
+}
+.section-label{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin-bottom:1.25rem;
+  margin-top:2rem;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+.section-label::after{content:'';flex:1;height:1px;background:var(--rule);}
+.body-text{
+  font-family:'Special Elite',cursive;
+  font-size:14px;
+  line-height:2;
+  color:var(--ink-light);
+  margin-bottom:1.25rem;
+}
+.body-text strong{color:var(--red);font-weight:normal;}
+.pull-quote{
+  border-left:6px solid var(--red);
+  padding:1rem 1.5rem;
+  margin:1.5rem 0;
+  background:var(--paper-dark);
+}
+.pull-quote p{
+  font-family:'Oswald',sans-serif;
+  font-size:22px;
+  font-weight:700;
+  color:var(--ink);
+  line-height:1.2;
+}
+.principles{
+  border:2px solid var(--ink);
+  margin:1.5rem 0;
+}
+.principle-item{
+  padding:1rem 1.25rem;
+  border-bottom:1px solid var(--rule);
+  display:grid;
+  grid-template-columns:auto 1fr;
+  gap:1rem;
+  align-items:start;
+}
+.principle-item:last-child{border-bottom:none;}
+.principle-num{
+  font-family:'Oswald',sans-serif;
+  font-size:28px;
+  font-weight:700;
+  color:#c0b498;
+  line-height:1;
+  min-width:32px;
+}
+.principle-text{}
+.principle-title{
+  font-family:'Oswald',sans-serif;
+  font-size:16px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:4px;
+}
+.principle-body{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.75;
+  color:var(--ink-light);
+}
+.what-we-are{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:1px;
+  background:var(--rule);
+  border:2px solid var(--ink);
+  margin:1.5rem 0;
+}
+.wwa-col{
+  background:var(--paper);
+  padding:1.25rem;
+}
+.wwa-col.dark{background:var(--paper-dark);}
+.wwa-head{
+  font-family:'Oswald',sans-serif;
+  font-size:16px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:10px;
+  padding-bottom:8px;
+  border-bottom:1px solid var(--rule);
+}
+.wwa-head.red{color:var(--red);}
+.wwa-list{list-style:none;}
+.wwa-list li{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.7;
+  color:var(--ink-light);
+  padding:5px 0;
+  border-bottom:1px solid rgba(160,144,112,.3);
+}
+.wwa-list li:last-child{border-bottom:none;}
+.wwa-list li::before{content:'▪ ';color:var(--red);}
+.wwa-list.green li::before{color:var(--green);}
+.contact-block{
+  background:var(--paper-dark);
+  border:2px solid var(--ink);
+  padding:1.5rem;
+  margin-top:1.5rem;
+}
+.contact-head{
+  font-family:'Oswald',sans-serif;
+  font-size:20px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:10px;
+}
+.contact-body{
+  font-family:'Special Elite',cursive;
+  font-size:13px;
+  line-height:1.8;
+  color:var(--ink-light);
+  margin-bottom:12px;
+}
+.contact-email{
+  display:inline-block;
+  font-family:'Courier Prime',monospace;
+  font-size:12px;
+  letter-spacing:.1em;
+  color:var(--blue);
+  border-bottom:1px solid var(--blue);
+  padding-bottom:2px;
+}
+footer{
+  background:var(--ink);
+  color:#5a4e3a;
+  padding:1.25rem 2rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  font-size:9px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  flex-wrap:wrap;
+  gap:.5rem;
+}
+footer a{color:#7a6e58;border-bottom:1px solid #3a3020;padding-bottom:1px;}
+footer a:hover{color:var(--red-light);}
+@media(max-width:768px){
+  .masthead-grid{grid-template-columns:1fr;text-align:center;}
+  .mast-side{display:none;}
+  .what-we-are{grid-template-columns:1fr;}
+  main{padding:1.25rem;}
+}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <span id="today-date">Science Silenced</span>
+  <span>What they buried — aggregated daily</span>
+</div>
+
+<div class="masthead">
+  <div class="masthead-grid">
+    <div class="mast-side">
+      Suppressed research daily<br>
+      Medical &amp; scientific<br>
+      No pharma funding
+    </div>
+    <div class="logo-wrap">
+      <span class="logo-science">Science</span>
+      <span class="logo-silenced">SILENCED</span>
+      <span class="logo-tag">The studies they didn't want you to read.</span>
+    </div>
+    <div class="mast-side right">
+      No approved narratives<br>
+      No pharma ads<br>
+      No censored conclusions
+    </div>
+  </div>
+  <nav class="main-nav">
+    <a href="index.html">Latest</a>
+    <a href="suppressed.html">Suppressed</a>
+    <a href="exposed.html">Exposed</a>
+    <a href="vindicated.html">Vindicated</a>
+    <a href="uncaged.html">Uncaged</a>
+    <a href="doesitwork.html">Does It Work</a>
+    <a href="fauci.html">Fauci Files</a>
+    <a href="podcasts.html">Podcasts</a>
+    <a href="videos.html">Videos</a>
+    <a href="archive.html">Archive</a>
+    <a href="about.html" class="active">About</a>
+    <a href="submit.html">Submit a Story &#8599;</a>
+  </nav>
+</div>
+
+<div class="page-hero">
+  <div class="hero-eyebrow">&#9632; About This Site</div>
+  <div class="hero-title">Why <span>Science Silenced</span> Exists.</div>
+</div>
+
+<main>
+  <a href="index.html" class="back-link">&#8592; Back to Latest</a>
+
+  <div class="section-label">The Problem</div>
+
+  <p class="body-text">The system that is supposed to produce reliable scientific knowledge — peer review, grant funding, journal publication, regulatory approval — has been captured. Not by bad scientists. By <strong>incentive structures</strong> that reward confirming the approved narrative and punish challenging it.</p>
+
+  <p class="body-text">A researcher who finds that a blockbuster drug doesn't work faces a choice: publish and lose future funding, or bury the data and keep the grants coming. A journal editor who accepts a paper challenging dietary guidelines faces pressure from advertisers and institutional donors. An NIH reviewer who scores a heterodox grant application too high gets removed from the panel.</p>
+
+  <p class="body-text">None of this requires conspiracy. It requires only <strong>money, career pressure, and institutional inertia.</strong> The result is a scientific literature that systematically overrepresents positive findings, underrepresents negative ones, and actively suppresses research that threatens profitable orthodoxies.</p>
+
+  <div class="pull-quote">
+    <p>"Over 70% of researchers have failed to reproduce another scientist's results. Over 50% have failed to reproduce their own."</p>
+  </div>
+
+  <p class="body-text">The replication crisis is not a fringe concern. It is a <strong>documented, systemic failure</strong> of the scientific enterprise — acknowledged by Nature, Science, and the researchers themselves. Yet the guidelines, the clinical protocols, and the approved treatments built on this unreliable literature continue to shape the care of hundreds of millions of patients.</p>
+
+  <div class="section-label">What We Do</div>
+
+  <p class="body-text">Science Silenced aggregates the studies, researchers, whistleblowers, and data that the establishment would prefer you never encounter. We pull from medical journals, FOIA releases, congressional testimony, independent researchers, and the podcasts and videos where credentialed scientists say things off-script that they cannot say in their institution's press releases.</p>
+
+  <p class="body-text">We also cover the <strong>positive story</strong> — the research happening outside the captured system, funded by private donors, military grants, and independent institutions, producing results that pharma has no interest in because there is no patent at the end of it. Metabolic cancer therapies. Longevity compounds. Psychedelic medicine. The microbiome. These are not fringe ideas. They are peer-reviewed science being ignored because the business model doesn't support them.</p>
+
+  <p class="body-text">And we cover wellness trends honestly. When the evidence is strong — sauna, creatine, magnesium — we say so clearly. When it's weak — alkaline water, most detox protocols — we say that too. We have no supplement deals, no device partnerships, no pharma advertising. <strong>Our only interest is the accurate state of the evidence.</strong></p>
+
+  <div class="section-label">Our Principles</div>
+
+  <div class="principles">
+    <div class="principle-item">
+      <div class="principle-num">01</div>
+      <div class="principle-text">
+        <div class="principle-title">Primary Sources Only</div>
+        <div class="principle-body">Every claim on this site is tied to a named source — a FOIA document, a peer-reviewed paper, a congressional transcript, or a direct quote. We do not traffic in rumor. The record either exists or it doesn't.</div>
+      </div>
+    </div>
+    <div class="principle-item">
+      <div class="principle-num">02</div>
+      <div class="principle-text">
+        <div class="principle-title">No Financial Conflicts</div>
+        <div class="principle-body">We accept no pharmaceutical advertising, no supplement industry partnerships, no device manufacturer sponsorships, and no grant funding from institutions with skin in the scientific game. Independence is not negotiable.</div>
+      </div>
+    </div>
+    <div class="principle-item">
+      <div class="principle-num">03</div>
+      <div class="principle-text">
+        <div class="principle-title">Credentials Don't Determine Truth</div>
+        <div class="principle-body">We take seriously the work of Nobel Prize winners who were called cranks and the findings of independent researchers who were defunded for inconvenient results. The institutional imprimatur is not the same as being correct.</div>
+      </div>
+    </div>
+    <div class="principle-item">
+      <div class="principle-num">04</div>
+      <div class="principle-text">
+        <div class="principle-title">Honest About Uncertainty</div>
+        <div class="principle-body">We distinguish between strong evidence, promising-but-preliminary findings, and outright debunking. We do not overstate what the science shows. When a study is small, or animal-only, or funded by industry, we say so.</div>
+      </div>
+    </div>
+    <div class="principle-item">
+      <div class="principle-num">05</div>
+      <div class="principle-text">
+        <div class="principle-title">The Science Itself Cannot Be Silenced</div>
+        <div class="principle-body">Institutions can be captured. Journals can be pressured. Grants can be denied. Careers can be ended. But the data itself — the raw results, the FOIA emails, the congressional testimony — exists. We put it in one place.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-label">What We Are and Are Not</div>
+
+  <div class="what-we-are">
+    <div class="wwa-col">
+      <div class="wwa-head red">We Are Not</div>
+      <ul class="wwa-list">
+        <li>Anti-science or anti-medicine</li>
+        <li>A conspiracy theory platform</li>
+        <li>Anti-vaccine categorically</li>
+        <li>Affiliated with any political party</li>
+        <li>Funded by supplement or pharma companies</li>
+        <li>A substitute for medical advice</li>
+        <li>Claiming all mainstream science is wrong</li>
+      </ul>
+    </div>
+    <div class="wwa-col dark">
+      <div class="wwa-head">We Are</div>
+      <ul class="wwa-list green">
+        <li>Pro-evidence, anti-capture</li>
+        <li>Documenting institutional corruption with primary sources</li>
+        <li>Covering suppressed research that deserves a hearing</li>
+        <li>Editorially independent with no financial conflicts</li>
+        <li>Honest when evidence is strong, weak, or absent</li>
+        <li>Covering the positive story of science outside the system</li>
+        <li>Aggregating what credentialed researchers say off-script</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section-label">Contact</div>
+
+  <div class="contact-block">
+    <div class="contact-head">Get In Touch</div>
+    <p class="contact-body">Have a suppressed study we should cover? Know a researcher whose work is being ignored? Are you a whistleblower with documentation? Use the form below or email us directly. All submissions are reviewed. Whistleblower communications are handled with discretion.</p>
+    <a href="mailto:info@sciencesilenced.com" class="contact-email">info@sciencesilenced.com</a>
+    &nbsp;&nbsp;
+    <a href="submit.html" style="display:inline-block;margin-top:8px;font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--red);border-bottom:1px solid var(--red);padding-bottom:1px;">Submit a Story &#8599;</a>
+  </div>
+
+</main>
+
+<footer>
+  <span>ScienceSilenced.com &mdash; 2026</span>
+  <span>No pharma ads &nbsp;&#9632;&nbsp; No approved narratives &nbsp;&#9632;&nbsp; No permission needed</span>
+  <span><a href="about.html">About</a> &nbsp;&nbsp; <a href="submit.html">Submit a Story</a> &nbsp;&nbsp; <a href="mailto:info@sciencesilenced.com">Contact</a></span>
+</footer>
+
+<script>
+(function(){
+  const d=new Date();
+  const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('today-date').textContent=days[d.getDay()]+', '+months[d.getMonth()]+' '+d.getDate()+', '+d.getFullYear();
+})();
+</script>
+</body>
+</html>
