@@ -1,0 +1,69 @@
+{
+  "updated": "2026-05-01T00:00:00Z",
+  "items": [
+    {
+      "show": "Shawn Ryan Show",
+      "title": "Louisa Nicola: Alzheimer's Research Was Junk — Hundreds of Millions in NIH Funding Wasted on Fabricated Science",
+      "guest": "Louisa Nicola — Neuroathletics",
+      "type": "video",
+      "topic": "neurology",
+      "url": "https://www.youtube.com/@ShawnRyanShow"
+    },
+    {
+      "show": "The Drive — Peter Attia MD",
+      "title": "Statin NNT Data: What Your Doctor Isn't Showing You About Primary Prevention Numbers",
+      "guest": "Peter Attia MD",
+      "type": "audio",
+      "topic": "cardiovascular",
+      "url": "https://peterattiamd.com/podcast/"
+    },
+    {
+      "show": "Tucker Carlson",
+      "title": "Marty Makary: The FDA Is Captured. I Have the Paper Trail.",
+      "guest": "Marty Makary MD — Johns Hopkins",
+      "type": "video",
+      "topic": "institutional",
+      "url": "https://tuckercarlson.com"
+    },
+    {
+      "show": "Huberman Lab",
+      "title": "Rhonda Patrick: The Sauna Evidence Is Overwhelming. Why Isn't This a Clinical Recommendation?",
+      "guest": "Rhonda Patrick PhD",
+      "type": "video",
+      "topic": "longevity",
+      "url": "https://www.hubermanlab.com"
+    },
+    {
+      "show": "Joe Rogan Experience",
+      "title": "Peter McCullough: COVID Treatment Suppression, Early Intervention, and the Capture of Medical Journals",
+      "guest": "Peter McCullough MD",
+      "type": "video",
+      "topic": "covid",
+      "url": "https://www.youtube.com/@joerogan"
+    },
+    {
+      "show": "Jordan Peterson Podcast",
+      "title": "Chris Palmer MD: Brain Energy — Mental Illness as Metabolic Disease, Not Chemical Imbalance",
+      "guest": "Chris Palmer MD — Harvard",
+      "type": "video",
+      "topic": "psychiatry",
+      "url": "https://www.jordanbpeterson.com/podcast/"
+    },
+    {
+      "show": "Found My Fitness — Rhonda Patrick",
+      "title": "Thomas Seyfried: The Metabolic Theory of Cancer and Why NIH Won't Fund It",
+      "guest": "Thomas Seyfried PhD — Boston College",
+      "type": "audio",
+      "topic": "cancer",
+      "url": "https://www.foundmyfitness.com"
+    },
+    {
+      "show": "Breaking Points",
+      "title": "Vinay Prasad: FDA Drug Approvals Are Based on Surrogate Endpoints That Don't Predict Survival",
+      "guest": "Vinay Prasad MD — UCSF",
+      "type": "video",
+      "topic": "pharma",
+      "url": "https://www.breakingpoints.com"
+    }
+  ]
+}
