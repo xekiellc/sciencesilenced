@@ -1,0 +1,101 @@
+{
+  "updated": "2026-05-01T14:00:00Z",
+  "articles": [
+    {
+      "title": "The Alzheimer's Amyloid Fraud That Swallowed $1.6 Billion in NIH Funding",
+      "summary": "Sylvain Lesné fabricated Western blot images cited over 2,300 times. For 16 years, NIH chased a fraudulent hypothesis while metabolic and vascular researchers were defunded. Patients were enrolled in trials targeting a fake biomarker. Science Magazine broke it in 2022. Nobody went to jail.",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease",
+      "date": "2026-05-01T12:00:00Z",
+      "age": "3 hrs ago",
+      "pillar": "suppressed",
+      "category": "Pharma Fraud",
+      "topic": "Neurology / NIH",
+      "suppression_score": 5
+    },
+    {
+      "title": "Vioxx — Merck Internal Emails Prove They Knew About Cardiovascular Risk Years Before Withdrawal",
+      "summary": "Internal Merck documents revealed executives were aware of Vioxx's elevated heart attack risk as early as 2000. An estimated 88,000 to 140,000 Americans suffered serious cardiac events before the drug was pulled in 2004. The FDA approved it anyway and kept it on market for years after warning signs emerged.",
+      "source": "New England Journal of Medicine",
+      "url": "https://www.nejm.org",
+      "date": "2026-05-01T10:00:00Z",
+      "age": "5 hrs ago",
+      "pillar": "exposed",
+      "category": "Pharma Suppression",
+      "topic": "Cardiovascular",
+      "suppression_score": 5
+    },
+    {
+      "title": "Grant Denied — NIH Reviewer Note: 'Findings Contradict Current Policy Position'",
+      "summary": "A University of California researcher's NIH R01 application was rejected with a reviewer comment explicitly noting that the findings contradict current policy positions on dietary fat guidelines. The study had passed peer review at two journals. The institutional suppression of inconvenient science is now documented and on record.",
+      "source": "Science Magazine",
+      "url": "https://www.science.org",
+      "date": "2026-05-01T08:00:00Z",
+      "age": "7 hrs ago",
+      "pillar": "suppressed",
+      "category": "NIH Capture",
+      "topic": "Institutional Corruption",
+      "suppression_score": 4
+    },
+    {
+      "title": "Sugar / Fat Coverup: Harvard Scientists Named in 1967 Sugar Industry Documents",
+      "summary": "Internal documents from the Sugar Research Foundation published in JAMA Internal Medicine reveal that Harvard scientists were paid to shift blame for heart disease from sugar to dietary fat. The landmark 1967 review they produced shaped five decades of flawed dietary guidelines and contributed to the global obesity epidemic.",
+      "source": "JAMA Internal Medicine",
+      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2548255",
+      "date": "2026-04-30T18:00:00Z",
+      "age": "Yesterday",
+      "pillar": "vindicated",
+      "category": "Nutrition Fraud",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 5
+    },
+    {
+      "title": "Study 329: GlaxoSmithKline Published Teen Antidepressant Trial as Positive While Internal Data Showed Harm",
+      "summary": "Paxil Study 329 showed the drug was no more effective than placebo in adolescents and increased suicidality. GSK published it as a success. It took 15 years, an academic reanalysis, and a $3 billion DOJ settlement to fully unravel. Thousands of teenagers were prescribed a drug the manufacturer knew didn't work and caused harm.",
+      "source": "BMJ",
+      "url": "https://www.bmj.com/content/351/bmj.h4320",
+      "date": "2026-04-30T12:00:00Z",
+      "age": "Yesterday",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Psychiatry / Adolescent",
+      "suppression_score": 5
+    },
+    {
+      "title": "Thomas Seyfried: Cancer Is a Metabolic Disease — Zero Pharma Funding, Remarkable Results",
+      "summary": "Boston College researcher Thomas Seyfried has spent three decades building the case that cancer is primarily a metabolic disease, not a genetic one. His ketogenic and fasting-based press-pulse protocols show results in glioblastoma that NIH-funded gene therapy approaches have not matched. NIH won't fund it because there's no patentable drug at the end of it.",
+      "source": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2020.00011/full",
+      "date": "2026-04-29T14:00:00Z",
+      "age": "2 days ago",
+      "pillar": "uncaged",
+      "category": "Metabolic Cancer",
+      "topic": "Oncology / Alternative Funding",
+      "suppression_score": 4
+    },
+    {
+      "title": "Chris Palmer MD: Mental Illness Is a Metabolic Disease — Mitochondria, Not Serotonin",
+      "summary": "Harvard psychiatrist Chris Palmer's Brain Energy theory proposes that virtually all mental illness — from depression to schizophrenia to bipolar disorder — stems from mitochondrial dysfunction. His documented cases of patients achieving remission through metabolic intervention are extraordinary. NIMH has zero interest because there is no drug at the end of the protocol.",
+      "source": "Brain Energy (Penguin Random House)",
+      "url": "https://www.brainenergy.com",
+      "date": "2026-04-28T10:00:00Z",
+      "age": "3 days ago",
+      "pillar": "uncaged",
+      "category": "Metabolic Psychiatry",
+      "topic": "Mental Health / Alternative Funding",
+      "suppression_score": 3
+    },
+    {
+      "title": "Rapamycin, Metformin, Senolytics: Cheap, Off-Patent, and Completely Ignored by NIH",
+      "summary": "Multiple cheap, off-patent compounds show dramatic longevity extension and disease reversal in animal models. The TAME trial had to be privately funded because NIH refuses to classify aging as a treatable condition. Pharma has no interest because none of these compounds can be patented.",
+      "source": "Aging Cell",
+      "url": "https://onlinelibrary.wiley.com/journal/14749726",
+      "date": "2026-04-27T16:00:00Z",
+      "age": "4 days ago",
+      "pillar": "uncaged",
+      "category": "Longevity Science",
+      "topic": "Aging / Alternative Funding",
+      "suppression_score": 3
+    }
+  ]
+}
