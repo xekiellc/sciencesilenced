@@ -1,0 +1,65 @@
+{
+  "updated": "2026-05-01T00:00:00Z",
+  "items": [
+    {
+      "name": "Sauna",
+      "verdict": "strong",
+      "verdict_label": "Strong",
+      "summary": "Finnish cohort studies show 4–7x weekly sauna use correlates with 40% lower cardiovascular mortality. Mechanisms are well-established: heat shock proteins, BDNF upregulation, plasma volume expansion, and growth hormone release. One of the most evidence-backed wellness interventions in existence."
+    },
+    {
+      "name": "Cold Plunge",
+      "verdict": "strong",
+      "verdict_label": "Strong*",
+      "summary": "Søberg et al. documented 300% norepinephrine spike, brown adipose tissue activation, and dopamine elevation lasting hours post-exposure. Real caveat no influencer mentions: cold immersion within one hour of strength training significantly blunts hypertrophy gains. Timing is everything."
+    },
+    {
+      "name": "Creatine",
+      "verdict": "strong",
+      "verdict_label": "Strong",
+      "summary": "Thousands of peer-reviewed studies. ATP regeneration mechanism is textbook biochemistry, not theory. Emerging brain benefits in TBI recovery, depression, and cognitive performance under sleep deprivation. The medical establishment's lingering kidney concerns have been definitively debunked. Their skepticism is the story."
+    },
+    {
+      "name": "Peptides (BPC-157)",
+      "verdict": "moderate",
+      "verdict_label": "Moderate*",
+      "summary": "Remarkable tissue repair and anti-inflammatory data in animal models. Mechanism plausible and consistent. Zero US clinical trials because it is unpatentable and unsponsored. FDA removed it from compounding pharmacy availability in 2023 citing safety concerns — with zero documented safety incidents cited in the ruling."
+    },
+    {
+      "name": "Red Light Therapy",
+      "verdict": "moderate",
+      "verdict_label": "Moderate",
+      "summary": "Photobiomodulation is real science. NASA originally researched it for wound healing in zero-gravity. Cytochrome c oxidase in mitochondria absorbs red and near-infrared light and increases ATP production. Consumer-grade facial devices are typically underpowered relative to clinical panels. Mechanism is solid; device efficacy varies enormously."
+    },
+    {
+      "name": "Collagen Supplements",
+      "verdict": "moderate",
+      "verdict_label": "Moderate",
+      "summary": "Probably effective, but the industry consistently oversimplifies the mechanism. The Vitamin C cofactor requirement for collagen synthesis is almost never disclosed. Without adequate C, synthesis is incomplete. Some legitimate RCT data on joint pain and skin elasticity exists but is methodologically mixed."
+    },
+    {
+      "name": "Cold Showers",
+      "verdict": "moderate",
+      "verdict_label": "Moderate",
+      "summary": "Meaningful but overhyped relative to full immersion. Surface area, water temperature, and duration all matter significantly. Some norepinephrine and alertness benefit is real. Not equivalent to cold plunge — the physiological response is substantially weaker at typical shower temperatures."
+    },
+    {
+      "name": "Magnesium Glycinate",
+      "verdict": "strong",
+      "verdict_label": "Strong",
+      "summary": "Magnesium deficiency affects an estimated 50% or more of Americans. Glycinate form has superior bioavailability and tolerability. Documented benefits in sleep quality, anxiety reduction, muscle function, and cardiovascular health. Criminally underappreciated by mainstream medicine. No pharma interest — it costs $15."
+    },
+    {
+      "name": "Infrared Sauna",
+      "verdict": "moderate",
+      "verdict_label": "Moderate",
+      "summary": "Less evidence than traditional Finnish sauna but the mechanism — deep tissue heating via infrared wavelength penetration — is biologically plausible. Some cardiovascular and recovery benefits documented. Weaker evidence base than traditional sauna but a solid option if traditional sauna is unavailable."
+    },
+    {
+      "name": "Alkaline Water",
+      "verdict": "weak",
+      "verdict_label": "Weak",
+      "summary": "Your body regulates blood pH within a tight range regardless of what you drink. The stomach immediately acidifies anything you swallow. There is no credible peer-reviewed evidence that alkaline water provides meaningful health benefits beyond adequate hydration. This is marketing, not science."
+    }
+  ]
+}
