@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fauci Files — Science Silenced</title>
+<meta name="description" content="38 years. One man. A documented trail of suppression. The complete Fauci record — sourced, timestamped, primary documents only.">
+<meta property="og:title" content="The Fauci Files — Science Silenced">
+<meta property="og:description" content="AIDS/AZT. Gain of Function. Lab Leak suppression. Beagle experiments. The full record.">
+<meta property="og:url" content="https://sciencesilenced.com/fauci">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://sciencesilenced.com/og.png">
+<link rel="icon" type="image/png" href="/favicon.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNRDVWQCPK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FNRDVWQCPK');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --paper:#cfc4aa;
+  --paper-dark:#c0b498;
+  --paper-mid:#b8aa90;
+  --ink:#18120a;
+  --ink-light:#3a2e18;
+  --ink-muted:#6b5e42;
+  --ink-faint:#8b7040;
+  --rule:#a09070;
+  --red:#8b1010;
+  --red-light:#f0e8d0;
+  --green:#2a5a1a;
+  --green-light:#d0e8c0;
+  --blue:#104878;
+  --blue-light:#d0e0f8;
+  --amber:#8b6010;
+}
+html{scroll-behavior:smooth;}
+body{
+  background:var(--paper);
+  background-image:repeating-linear-gradient(0deg,transparent,transparent 27px,rgba(0,0,0,0.022) 28px);
+  color:var(--ink);
+  font-family:'Courier Prime',monospace;
+  min-height:100vh;
+  font-size:14px;
+  line-height:1.6;
+}
+a{color:inherit;text-decoration:none;}
+.top-bar{
+  background:var(--ink);
+  color:#7a6e58;
+  padding:5px 2rem;
+  display:flex;
+  justify-content:space-between;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+}
+.masthead{
+  background:var(--paper);
+  border-bottom:3px solid var(--ink);
+  padding:1.4rem 2rem 0;
+}
+.masthead-grid{
+  display:grid;
+  grid-template-columns:150px 1fr 150px;
+  align-items:center;
+  gap:.5rem;
+  margin-bottom:1rem;
+}
+.mast-side{
+  font-size:8px;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  line-height:2.2;
+  white-space:nowrap;
+}
+.mast-side.right{text-align:right;}
+.logo-wrap{text-align:center;}
+.logo-science{
+  font-family:'Courier Prime',monospace;
+  font-size:9px;
+  letter-spacing:.55em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  display:block;
+  margin-bottom:1px;
+}
+.logo-silenced{
+  font-family:'Oswald',sans-serif;
+  font-size:58px;
+  font-weight:700;
+  letter-spacing:.03em;
+  color:var(--ink);
+  display:block;
+  line-height:.85;
+  position:relative;
+}
+.logo-silenced::after{
+  content:'';
+  position:absolute;
+  left:-4px;right:-4px;top:44%;
+  height:7px;
+  background:var(--red);
+  transform:rotate(-.6deg);
+}
+.logo-tag{
+  font-family:'Special Elite',cursive;
+  font-size:9px;
+  color:var(--ink-muted);
+  letter-spacing:.03em;
+  margin-top:5px;
+  display:block;
+}
+nav.main-nav{
+  display:flex;
+  border-top:1px solid var(--rule);
+  overflow-x:auto;
+  scrollbar-width:none;
+}
+nav.main-nav::-webkit-scrollbar{display:none;}
+nav.main-nav a{
+  font-family:'Courier Prime',monospace;
+  font-size:8.5px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--ink);
+  padding:9px 13px;
+  border-right:1px solid var(--rule);
+  white-space:nowrap;
+  transition:background .12s,color .12s;
+  flex-shrink:0;
+}
+nav.main-nav a:hover{background:var(--ink);color:var(--paper);}
+nav.main-nav a.active{background:var(--red);color:var(--red-light);}
+.page-hero{
+  background:var(--ink);
+  padding:3rem 2rem;
+  display:grid;
+  grid-template-columns:auto 1fr;
+  gap:2rem;
+  align-items:center;
+}
+.hero-stamp{
+  transform:rotate(-5deg);
+  border:5px solid rgba(139,16,16,.85);
+  padding:12px 20px;
+  font-family:'Oswald',sans-serif;
+  font-size:36px;
+  color:rgba(139,16,16,.85);
+  letter-spacing:.1em;
+  line-height:1.1;
+  text-align:center;
+  white-space:nowrap;
+  flex-shrink:0;
+}
+.hero-text{}
+.hero-eyebrow{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:#8b7a60;
+  margin-bottom:8px;
+}
+.hero-title{
+  font-family:'Oswald',sans-serif;
+  font-size:48px;
+  font-weight:700;
+  color:#f0e0c0;
+  line-height:.95;
+  margin-bottom:12px;
+  letter-spacing:.02em;
+}
+.hero-title span{color:var(--red);}
+.hero-sub{
+  font-family:'Special Elite',cursive;
+  font-size:13px;
+  color:#8b7a60;
+  line-height:1.8;
+  max-width:600px;
+}
+.stats-row{
+  background:var(--paper-dark);
+  border-bottom:2px solid var(--ink);
+  padding:1rem 2rem;
+  display:flex;
+  gap:0;
+}
+.stat-item{
+  flex:1;
+  text-align:center;
+  border-right:1px solid var(--rule);
+  padding:.5rem 1rem;
+}
+.stat-item:last-child{border-right:none;}
+.stat-num{
+  font-family:'Oswald',sans-serif;
+  font-size:32px;
+  font-weight:700;
+  color:var(--red);
+  display:block;
+  line-height:1;
+}
+.stat-label{
+  font-size:8px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  display:block;
+  margin-top:4px;
+}
+main{padding:2rem;}
+.section-label{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin-bottom:1.25rem;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+.section-label::after{content:'';flex:1;height:1px;background:var(--rule);}
+.said-vs-reality{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:1px;
+  background:var(--rule);
+  border:2px solid var(--ink);
+  margin-bottom:2rem;
+}
+.svr-header{
+  background:var(--ink);
+  color:var(--paper);
+  padding:.6rem 1rem;
+  font-size:9px;
+  letter-spacing:.25em;
+  text-transform:uppercase;
+  text-align:center;
+}
+.svr-header.red{background:var(--red);}
+.svr-item-said{
+  background:var(--paper-dark);
+  padding:1rem;
+  border-bottom:1px solid var(--rule);
+}
+.svr-item-reality{
+  background:var(--paper);
+  padding:1rem;
+  border-bottom:1px solid var(--rule);
+}
+.svr-quote{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.7;
+  color:var(--ink-light);
+  margin-bottom:6px;
+  font-style:italic;
+}
+.svr-source{
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--ink-faint);
+}
+.svr-source.red{color:var(--red);}
+.timeline{
+  position:relative;
+  padding-left:2rem;
+  margin-bottom:2rem;
+}
+.timeline::before{
+  content:'';
+  position:absolute;
+  left:7px;
+  top:0;bottom:0;
+  width:2px;
+  background:var(--rule);
+}
+.tl-item{
+  position:relative;
+  margin-bottom:1.5rem;
+  padding:1.25rem;
+  border:2px solid var(--ink);
+  background:var(--paper);
+}
+.tl-item::before{
+  content:'';
+  position:absolute;
+  left:-1.75rem;
+  top:1.25rem;
+  width:12px;height:12px;
+  border-radius:50%;
+  background:var(--red);
+  border:2px solid var(--paper);
+}
+.tl-item.vindicated::before{background:var(--green);}
+.tl-item.ongoing::before{background:var(--amber);}
+.tl-era{
+  font-size:8px;
+  letter-spacing:.25em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin-bottom:4px;
+}
+.tl-era.green{color:var(--green);}
+.tl-era.amber{color:var(--amber);}
+.tl-title{
+  font-family:'Oswald',sans-serif;
+  font-size:18px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:8px;
+  line-height:1.1;
+}
+.tl-body{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.8;
+  color:var(--ink-light);
+}
+.tl-source{
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--ink-faint);
+  margin-top:8px;
+  padding-top:8px;
+  border-top:1px solid var(--rule);
+}
+.tl-source a{color:var(--blue);border-bottom:1px solid var(--blue);}
+.three-col{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:1px;
+  background:var(--rule);
+  border:2px solid var(--ink);
+  margin-bottom:2rem;
+}
+.col-card{
+  background:var(--paper);
+  padding:1.1rem;
+}
+.col-head{
+  font-family:'Oswald',sans-serif;
+  font-size:15px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:8px;
+  padding-bottom:8px;
+  border-bottom:1px solid var(--rule);
+}
+.col-list{
+  list-style:none;
+}
+.col-list li{
+  font-family:'Special Elite',cursive;
+  font-size:11px;
+  line-height:1.7;
+  color:var(--ink-light);
+  padding:4px 0;
+  border-bottom:1px solid rgba(160,144,112,.3);
+}
+.col-list li::before{
+  content:'▪ ';
+  color:var(--red);
+}
+.col-list li:last-child{border-bottom:none;}
+.manifesto{
+  background:var(--paper-mid);
+  border:2px solid var(--ink);
+  border-left:6px solid var(--red);
+  padding:1.5rem 2rem;
+  margin-bottom:2rem;
+}
+.manifesto-text{
+  font-family:'Special Elite',cursive;
+  font-size:14px;
+  line-height:2;
+  color:var(--ink-light);
+}
+.manifesto-text strong{color:var(--red);font-weight:normal;}
+.back-link{
+  display:inline-block;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--red);
+  border-bottom:1px solid var(--red);
+  padding-bottom:1px;
+  margin-bottom:2rem;
+}
+footer{
+  background:var(--ink);
+  color:#5a4e3a;
+  padding:1.25rem 2rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  font-size:9px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  flex-wrap:wrap;
+  gap:.5rem;
+}
+footer a{color:#7a6e58;border-bottom:1px solid #3a3020;padding-bottom:1px;}
+footer a:hover{color:var(--red-light);}
+@media(max-width:768px){
+  .masthead-grid{grid-template-columns:1fr;text-align:center;}
+  .mast-side{display:none;}
+  .page-hero{grid-template-columns:1fr;}
+  .hero-stamp{display:none;}
+  .said-vs-reality{grid-template-columns:1fr;}
+  .three-col{grid-template-columns:1fr;}
+  .stats-row{flex-wrap:wrap;}
+}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <span id="today-date">Science Silenced</span>
+  <span>What they buried — aggregated daily</span>
+</div>
+
+<div class="masthead">
+  <div class="masthead-grid">
+    <div class="mast-side">
+      Suppressed research daily<br>
+      Medical &amp; scientific<br>
+      No pharma funding
+    </div>
+    <div class="logo-wrap">
+      <span class="logo-science">Science</span>
+      <span class="logo-silenced">SILENCED</span>
+      <span class="logo-tag">The studies they didn't want you to read.</span>
+    </div>
+    <div class="mast-side right">
+      No approved narratives<br>
+      No pharma ads<br>
+      No censored conclusions
+    </div>
+  </div>
+  <nav class="main-nav">
+    <a href="index.html">Latest</a>
+    <a href="suppressed.html">Suppressed</a>
+    <a href="exposed.html">Exposed</a>
+    <a href="vindicated.html">Vindicated</a>
+    <a href="uncaged.html">Uncaged</a>
+    <a href="doesitwork.html">Does It Work</a>
+    <a href="fauci.html" class="active">Fauci Files</a>
+    <a href="podcasts.html">Podcasts</a>
+    <a href="videos.html">Videos</a>
+    <a href="archive.html">Archive</a>
+    <a href="about.html">About</a>
+    <a href="submit.html">Submit a Story &#8599;</a>
+  </nav>
+</div>
+
+<div class="page-hero">
+  <div class="hero-stamp">FAUCI<br>FILES</div>
+  <div class="hero-text">
+    <div class="hero-eyebrow">&#9632; Documented Record — Primary Sources Only</div>
+    <div class="hero-title">38 Years.<br>One Man.<br><span>A Trail of Suppression.</span></div>
+    <div class="hero-sub">Anthony Fauci directed the National Institute of Allergy and Infectious Diseases from 1984 to 2022 — 38 years controlling what gets funded, what gets published, and whose career survives. This is the documented record. Every entry sourced. Every claim tied to FOIA documents, congressional testimony, or peer-reviewed rebuttals.</div>
+  </div>
+</div>
+
+<div class="stats-row">
+  <div class="stat-item">
+    <span class="stat-num">38</span>
+    <span class="stat-label">Years directing NIAID</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">$480K</span>
+    <span class="stat-label">Salary — highest paid fed</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">$350M</span>
+    <span class="stat-label">NIH royalties undisclosed</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">6 ft</span>
+    <span class="stat-label">Rule invented — not studied</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">0</span>
+    <span class="stat-label">Accountability actions taken</span>
+  </div>
+</div>
+
+<main>
+
+  <a href="index.html" class="back-link">&#8592; Back to Latest</a>
+
+  <div class="section-label">Said vs. Reality</div>
+  <div class="said-vs-reality">
+    <div class="svr-header">What He Said</div>
+    <div class="svr-header red">What the Documents Show</div>
+
+    <div class="svr-item-said">
+      <div class="svr-quote">"There is no scientific basis for concern about gain of function research at the Wuhan Institute of Virology."</div>
+      <div class="svr-source">Congressional testimony, May 2021</div>
+    </div>
+    <div class="svr-item-reality">
+      <div class="svr-quote">Internal NIH documents released via FOIA show EcoHealth Alliance grants funded research at WIV that met the definition of enhanced potential pandemic pathogen research — the definition NIH used for gain of function.</div>
+      <div class="svr-source red">NIH FOIA release, October 2021</div>
+    </div>
+
+    <div class="svr-item-said">
+      <div class="svr-quote">"Masks are really for infected people to prevent them from spreading infection to people who are not infected."</div>
+      <div class="svr-source">Email to colleague, February 5, 2020</div>
+    </div>
+    <div class="svr-item-reality">
+      <div class="svr-quote">Within weeks he became the primary advocate for universal masking mandates, including outdoors. The randomized controlled trial evidence for community masking that he cited was, by his own later admission, "not the strongest."</div>
+      <div class="svr-source red">Cochrane Review 2023 — masks show no statistically significant benefit</div>
+    </div>
+
+    <div class="svr-item-said">
+      <div class="svr-quote">"The six feet of social distance — we sort of just put it out there."</div>
+      <div class="svr-source">Fauci advisor Deborah Birx, congressional testimony 2024</div>
+    </div>
+    <div class="svr-item-reality">
+      <div class="svr-quote">The six-foot distancing rule, which shuttered businesses, closed schools, and restructured society for two years, was acknowledged to have no scientific study behind it. It was invented by committee and presented as settled science.</div>
+      <div class="svr-source red">House Select Subcommittee on COVID, 2024</div>
+    </div>
+
+    <div class="svr-item-said">
+      <div class="svr-quote">"NIAID does not fund gain of function research."</div>
+      <div class="svr-source">Senate hearing, July 2021</div>
+    </div>
+    <div class="svr-item-reality">
+      <div class="svr-quote">NIH later confirmed in writing to Rep. James Comer that EcoHealth Alliance did conduct research that "could be classified as gain of function." A perjury referral was submitted to the DOJ. No action was taken.</div>
+      <div class="svr-source red">NIH letter to Congress, October 2021</div>
+    </div>
+  </div>
+
+  <div class="section-label">The Timeline — 38 Years of Documented Suppression</div>
+  <div class="timeline">
+
+    <div class="tl-item">
+      <div class="tl-era">1984 — AIDS Era Begins</div>
+      <div class="tl-title">Fauci Takes Control of NIAID — And AIDS Research Funding</div>
+      <div class="tl-body">Anthony Fauci is appointed director of NIAID at age 43. He immediately becomes the dominant force in AIDS research funding. Researchers who challenge the HIV=AIDS orthodoxy — including Nobel Prize winner Kary Mullis and UC Berkeley's Peter Duesberg — find themselves defunded and professionally destroyed. Duesberg's publication record, one of the most cited in virology, goes dark after he publishes his alternative hypothesis.</div>
+      <div class="tl-source">Source: Robert F. Kennedy Jr., The Real Anthony Fauci (2021) — 2,194 footnotes</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">1987 — AZT Approved</div>
+      <div class="tl-title">Fauci Champions AZT at Doses Now Known to Be Toxic</div>
+      <div class="tl-body">AZT is approved as the only permitted AIDS treatment. Fauci pushes high-dose protocols that researchers later document caused severe toxicity in patients already immunocompromised. Alternative treatments — including drugs showing promise in compassionate use — are blocked from trials. ACT UP protesters accuse Fauci of letting patients die to protect monopoly treatment. Some of those protesters later acknowledge Fauci eventually became an ally — but only after years of obstruction.</div>
+      <div class="tl-source">Source: Peter Staley, ACT UP oral histories; Celia Farber, Serious Adverse Events (2006)</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">2014 — Gain of Function</div>
+      <div class="tl-title">NIH Funds EcoHealth Alliance — Grants Flow to Wuhan</div>
+      <div class="tl-body">NIAID under Fauci awards grants to EcoHealth Alliance, led by Peter Daszak, for coronavirus research. Funding is routed to the Wuhan Institute of Virology. When the Obama administration implements a moratorium on gain of function research in 2014, the WIV work continues — NIH later claims it didn't meet the definition. Internal documents released via FOIA suggest otherwise.</div>
+      <div class="tl-source">Source: NIH grant records; FOIA releases via The Intercept, September 2021</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">February 2020 — Lab Leak Suppression</div>
+      <div class="tl-title">Private Calls Show Scientists Believed Lab Origin — Then Published the Opposite</div>
+      <div class="tl-body">On February 1, 2020, Fauci holds a conference call with top virologists including Kristian Andersen, Eddie Holmes, and Andrew Rambaut. Their private communications — released via FOIA — show they believed the virus showed signs of engineering. Within days, they co-author "The Proximal Origin of SARS-CoV-2" in Nature Medicine, concluding natural origin. The scientists who wrote it subsequently received millions in NIH grant funding. Andersen's grant alone: $8.9 million.</div>
+      <div class="tl-source">Source: FOIA emails released via House Oversight; Nature Medicine, March 2020</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">2020 — COVID Policy</div>
+      <div class="tl-title">Six Feet. Masks. School Closures. All Invented — None Studied.</div>
+      <div class="tl-body">The three signature COVID interventions Fauci championed — six-foot distancing, universal masking, and school closures — were all later acknowledged to lack robust scientific basis. Fauci's own staff admitted to Congress the six-foot rule "just appeared." His February 2020 email explicitly says masks don't work for the uninfected. The school closure data showing generational educational and psychological harm to children was available in real time and ignored.</div>
+      <div class="tl-source">Source: House Select Subcommittee on COVID, 2023–2024; Cochrane Review, January 2023</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">2020–2021 — Remdesivir</div>
+      <div class="tl-title">Fauci Champions $3,000 Drug WHO Said Didn't Work</div>
+      <div class="tl-body">Fauci designates remdesivir as standard of care for COVID hospitalization despite the WHO's own Solidarity Trial showing no mortality benefit. The drug costs over $3,000 per treatment course. Gilead Sciences, remdesivir's manufacturer, had financial relationships with researchers in Fauci's orbit. Generic alternatives showing comparable or superior outcomes in some studies received no comparable institutional support.</div>
+      <div class="tl-source">Source: WHO Solidarity Trial, October 2020; NIH treatment guidelines history</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">2021 — Beagle Experiments</div>
+      <div class="tl-title">NIAID Funded Painful Experiments on Beagle Puppies — Then Denied It</div>
+      <div class="tl-body">White Coat Waste Project uncovers via FOIA that NIAID under Fauci funded experiments in which beagle puppies were subjected to painful parasite studies, including sandflies allowed to feed on sedated dogs in mesh cages. Some experiments were conducted in Tunisia in ways that would be illegal in the US. Fauci's office initially denied funding the experiments. FOIA documents proved otherwise. A bipartisan letter signed by 24 members of Congress demanded answers.</div>
+      <div class="tl-source">Source: White Coat Waste Project FOIA; Congressional letter, October 2021</div>
+    </div>
+
+    <div class="tl-item">
+      <div class="tl-era">2022 — Retirement</div>
+      <div class="tl-title">Fauci Retires — Perjury Referrals Filed, No Action Taken</div>
+      <div class="tl-body">Fauci retires from NIAID in December 2022 after 38 years as director and 54 years with the federal government. At retirement he is the highest-paid employee in the entire federal government at $480,654 — more than the President. Multiple perjury referrals have been submitted to the DOJ for his congressional testimony about gain of function funding. As of 2026, no charges have been filed.</div>
+      <div class="tl-source">Source: Federal salary database; Congressional perjury referrals, 2021–2023</div>
+    </div>
+
+    <div class="tl-item ongoing">
+      <div class="tl-era amber">Ongoing — NIH Royalties</div>
+      <div class="tl-title">$350 Million in Undisclosed NIH Royalties — Including Fauci's Institute</div>
+      <div class="tl-body">OpenSecrets obtained records via FOIA showing NIH scientists received $350 million in undisclosed royalty payments from pharmaceutical companies between 2010 and 2020. NIAID — Fauci's institute — was among the recipients. NIH owns partial patents on mRNA vaccine technology and stands to collect royalties on COVID vaccine sales. The full breakdown of individual payments remains heavily redacted.</div>
+      <div class="tl-source">Source: OpenSecrets FOIA analysis, 2022; NIH patent records</div>
+    </div>
+
+  </div>
+
+  <div class="section-label">The Suppressed Researchers — Careers He Ended</div>
+  <div class="three-col">
+    <div class="col-card">
+      <div class="col-head">Defunded &amp; Destroyed</div>
+      <ul class="col-list">
+        <li>Peter Duesberg — UC Berkeley virologist, one of most cited researchers in field before challenging HIV orthodoxy. Funding gone. Career ended.</li>
+        <li>Kary Mullis — Nobel Prize winner (PCR inventor), vocal Fauci critic. Called him "a bureaucrat who doesn't know anything about anything." Died August 2019.</li>
+        <li>Luc Montagnier — Nobel Prize winner, co-discoverer of HIV, COVID policy critic. Called "contrarian" in obituaries. Died 2022.</li>
+        <li>Peter McCullough — cardiologist, early treatment advocate. Hospital privileges challenged. Professional organizations pressured.</li>
+      </ul>
+    </div>
+    <div class="col-card">
+      <div class="col-head">Institutional Capture</div>
+      <ul class="col-list">
+        <li>38 years = 38 years of shaping grant review panels, journal editorial boards, and conference invitations.</li>
+        <li>Researchers who challenge NIH orthodoxy don't just lose arguments — they lose funding, positions, and journal access.</li>
+        <li>The Proximal Origin authors received millions in new NIH grants within months of publishing the natural origin paper.</li>
+        <li>Peter Daszak of EcoHealth Alliance continued receiving NIH funding for years after the WIV controversy began.</li>
+      </ul>
+    </div>
+    <div class="col-card">
+      <div class="col-head">The Playbook</div>
+      <ul class="col-list">
+        <li>Step 1: Control grant funding — decide who gets money and who doesn't.</li>
+        <li>Step 2: Influence journal editorial boards — decide what gets published.</li>
+        <li>Step 3: Define the consensus — appear on media as the singular voice of science.</li>
+        <li>Step 4: Marginalize dissent — label critics as anti-science regardless of credentials.</li>
+        <li>Step 5: Never be held accountable — retire with full pension and no charges.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section-label">Primary Sources</div>
+  <div class="three-col" style="margin-bottom:2rem;">
+    <div class="col-card">
+      <div class="col-head">FOIA Documents</div>
+      <ul class="col-list">
+        <li><a href="https://www.documentcloud.org/documents/21066990-leopold-nih-foia-anthony-fauci-emails" target="_blank" rel="noopener" style="color:var(--blue);border-bottom:1px solid var(--blue);">Fauci emails — BuzzFeed/DocumentCloud FOIA</a></li>
+        <li><a href="https://theintercept.com/2021/09/09/covid-origins-gain-of-function-research/" target="_blank" rel="noopener" style="color:var(--blue);border-bottom:1px solid var(--blue);">EcoHealth/WIV grant documents — The Intercept</a></li>
+        <li><a href="https://www.whitecoadwaste.org" target="_blank" rel="noopener" style="color:var(--blue);border-bottom:1px solid var(--blue);">Beagle experiment FOIA — White Coat Waste Project</a></li>
+      </ul>
+    </div>
+    <div class="col-card">
+      <div class="col-head">Congressional Record</div>
+      <ul class="col-list">
+        <li>Senate HELP Committee — Rand Paul vs. Fauci exchanges, 2021–2022</li>
+        <li>House Select Subcommittee on COVID — six-foot rule admission, 2024</li>
+        <li>Perjury referrals to DOJ — filed by Rep. Brad Wenstrup, 2023</li>
+        <li>NIH letter to Rep. James Comer confirming GoF research, October 2021</li>
+      </ul>
+    </div>
+    <div class="col-card">
+      <div class="col-head">Key Reading</div>
+      <ul class="col-list">
+        <li>Robert F. Kennedy Jr. — The Real Anthony Fauci (2021)</li>
+        <li>Cochrane Review — Physical interventions to interrupt the spread of respiratory viruses (2023)</li>
+        <li>OpenSecrets — NIH royalty payments analysis (2022)</li>
+        <li>Proximal Origin paper — Nature Medicine, March 2020</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="manifesto">
+    <p class="manifesto-text">
+      This is not opinion. Every entry on this page has a named source, a FOIA document, a congressional transcript, or a peer-reviewed rebuttal. <strong>The record exists.</strong> It has always existed. It was scattered, buried under press releases, and dismissed by the same institutions that benefited from the narrative. We are putting it in one place. <strong>The science itself cannot be silenced.</strong>
+    </p>
+  </div>
+
+</main>
+
+<footer>
+  <span>ScienceSilenced.com &mdash; 2026</span>
+  <span>No pharma ads &nbsp;&#9632;&nbsp; No approved narratives &nbsp;&#9632;&nbsp; No permission needed</span>
+  <span><a href="about.html">About</a> &nbsp;&nbsp; <a href="submit.html">Submit a Story</a> &nbsp;&nbsp; <a href="mailto:info@sciencesilenced.com">Contact</a></span>
+</footer>
+
+<script>
+(function(){
+  const d=new Date();
+  const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('today-date').textContent=days[d.getDay()]+', '+months[d.getMonth()]+' '+d.getDate()+', '+d.getFullYear();
+})();
+</script>
+</body>
+</html>
