@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Does It Work — Science Silenced</title>
+<meta name="description" content="Honest evidence reviews of popular wellness trends. Saunas, cold plunges, creatine, peptides, red light therapy and more. What the science actually says.">
+<meta property="og:title" content="Does It Work — Science Silenced">
+<meta property="og:description" content="Honest evidence reviews. No supplement industry funding. No approved narratives. Just the science.">
+<meta property="og:url" content="https://sciencesilenced.com/doesitwork">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://sciencesilenced.com/og.png">
+<link rel="icon" type="image/png" href="/favicon.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNRDVWQCPK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FNRDVWQCPK');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --paper:#cfc4aa;
+  --paper-dark:#c0b498;
+  --paper-mid:#b8aa90;
+  --ink:#18120a;
+  --ink-light:#3a2e18;
+  --ink-muted:#6b5e42;
+  --ink-faint:#8b7040;
+  --rule:#a09070;
+  --red:#8b1010;
+  --red-light:#f0e8d0;
+  --green:#2a5a1a;
+  --green-light:#d0e8c0;
+  --blue:#104878;
+  --blue-light:#d0e0f8;
+  --amber:#8b6010;
+  --purple:#5a3a8a;
+  --purple-light:#e0d0f8;
+}
+html{scroll-behavior:smooth;}
+body{
+  background:var(--paper);
+  background-image:repeating-linear-gradient(0deg,transparent,transparent 27px,rgba(0,0,0,0.022) 28px);
+  color:var(--ink);
+  font-family:'Courier Prime',monospace;
+  min-height:100vh;
+  font-size:14px;
+  line-height:1.6;
+}
+a{color:inherit;text-decoration:none;}
+.top-bar{
+  background:var(--ink);
+  color:#7a6e58;
+  padding:5px 2rem;
+  display:flex;
+  justify-content:space-between;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+}
+.masthead{
+  background:var(--paper);
+  border-bottom:3px solid var(--ink);
+  padding:1.4rem 2rem 0;
+}
+.masthead-grid{
+  display:grid;
+  grid-template-columns:150px 1fr 150px;
+  align-items:center;
+  gap:.5rem;
+  margin-bottom:1rem;
+}
+.mast-side{
+  font-size:8px;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  line-height:2.2;
+  white-space:nowrap;
+}
+.mast-side.right{text-align:right;}
+.logo-wrap{text-align:center;}
+.logo-science{
+  font-family:'Courier Prime',monospace;
+  font-size:9px;
+  letter-spacing:.55em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  display:block;
+  margin-bottom:1px;
+}
+.logo-silenced{
+  font-family:'Oswald',sans-serif;
+  font-size:58px;
+  font-weight:700;
+  letter-spacing:.03em;
+  color:var(--ink);
+  display:block;
+  line-height:.85;
+  position:relative;
+}
+.logo-silenced::after{
+  content:'';
+  position:absolute;
+  left:-4px;right:-4px;top:44%;
+  height:7px;
+  background:var(--red);
+  transform:rotate(-.6deg);
+}
+.logo-tag{
+  font-family:'Special Elite',cursive;
+  font-size:9px;
+  color:var(--ink-muted);
+  letter-spacing:.03em;
+  margin-top:5px;
+  display:block;
+}
+nav.main-nav{
+  display:flex;
+  border-top:1px solid var(--rule);
+  overflow-x:auto;
+  scrollbar-width:none;
+}
+nav.main-nav::-webkit-scrollbar{display:none;}
+nav.main-nav a{
+  font-family:'Courier Prime',monospace;
+  font-size:8.5px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--ink);
+  padding:9px 13px;
+  border-right:1px solid var(--rule);
+  white-space:nowrap;
+  transition:background .12s,color .12s;
+  flex-shrink:0;
+}
+nav.main-nav a:hover{background:var(--ink);color:var(--paper);}
+nav.main-nav a.active{background:var(--red);color:var(--red-light);}
+.page-hero{
+  background:var(--ink);
+  padding:2.5rem 2rem;
+}
+.hero-eyebrow{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:#8b7a60;
+  margin-bottom:8px;
+}
+.hero-title{
+  font-family:'Oswald',sans-serif;
+  font-size:48px;
+  font-weight:700;
+  color:#f0e0c0;
+  line-height:.95;
+  margin-bottom:12px;
+}
+.hero-title span{color:var(--red);}
+.hero-sub{
+  font-family:'Special Elite',cursive;
+  font-size:13px;
+  color:#8b7a60;
+  line-height:1.8;
+  max-width:680px;
+}
+.filter-bar{
+  background:var(--paper-dark);
+  border-bottom:2px solid var(--ink);
+  padding:.75rem 2rem;
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  align-items:center;
+}
+.filter-label{
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  margin-right:4px;
+}
+.filter-btn{
+  font-family:'Courier Prime',monospace;
+  font-size:9px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  padding:5px 12px;
+  border:1px solid var(--rule);
+  background:var(--paper);
+  color:var(--ink);
+  cursor:pointer;
+  transition:all .12s;
+}
+.filter-btn:hover{background:var(--ink);color:var(--paper);border-color:var(--ink);}
+.filter-btn.active{background:var(--red);color:var(--red-light);border-color:var(--red);}
+main{padding:2rem;}
+.section-label{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin-bottom:1.25rem;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+.section-label::after{content:'';flex:1;height:1px;background:var(--rule);}
+.diw-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:1px;
+  background:var(--rule);
+  border:2px solid var(--ink);
+  margin-bottom:2rem;
+}
+.diw-card{
+  background:var(--paper);
+  padding:1.25rem;
+  transition:background .12s;
+}
+.diw-card:hover{background:var(--paper-dark);}
+.diw-card.hidden{display:none;}
+.diw-name{
+  font-family:'Oswald',sans-serif;
+  font-size:20px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:6px;
+}
+.verdict-row{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  margin-bottom:10px;
+}
+.verdict-bar-bg{
+  height:6px;
+  background:var(--rule);
+  flex:1;
+  position:relative;
+}
+.verdict-bar-fill{
+  height:6px;
+  position:absolute;
+  left:0;top:0;
+}
+.verdict-bar-fill.strong{background:var(--green);}
+.verdict-bar-fill.moderate{background:var(--amber);}
+.verdict-bar-fill.weak{background:var(--red);}
+.verdict-lbl{
+  font-size:8px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  font-weight:700;
+  white-space:nowrap;
+}
+.verdict-lbl.strong{color:var(--green);}
+.verdict-lbl.moderate{color:var(--amber);}
+.verdict-lbl.weak{color:var(--red);}
+.diw-summary{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.75;
+  color:var(--ink-light);
+  margin-bottom:10px;
+}
+.diw-bottom{
+  border-top:1px solid var(--rule);
+  padding-top:8px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.diw-category{
+  font-size:8px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--ink-faint);
+}
+.verdict-badge{
+  display:inline-block;
+  font-size:7px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  padding:3px 8px;
+  font-weight:700;
+}
+.verdict-badge.strong{background:var(--green);color:var(--green-light);}
+.verdict-badge.moderate{background:var(--amber);color:#faeeda;}
+.verdict-badge.weak{background:var(--red);color:var(--red-light);}
+.legend{
+  background:var(--paper-dark);
+  border:2px solid var(--ink);
+  padding:1.25rem 1.5rem;
+  margin-bottom:2rem;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:1rem;
+}
+.legend-item{display:flex;align-items:flex-start;gap:10px;}
+.legend-dot{
+  width:12px;height:12px;
+  border-radius:50%;
+  flex-shrink:0;
+  margin-top:3px;
+}
+.legend-dot.strong{background:var(--green);}
+.legend-dot.moderate{background:var(--amber);}
+.legend-dot.weak{background:var(--red);}
+.legend-text{}
+.legend-title{
+  font-family:'Oswald',sans-serif;
+  font-size:13px;
+  font-weight:700;
+  color:var(--ink);
+  display:block;
+}
+.legend-desc{
+  font-family:'Special Elite',cursive;
+  font-size:11px;
+  color:var(--ink-muted);
+  line-height:1.5;
+}
+.disclaimer{
+  background:var(--paper-mid);
+  border:2px solid var(--ink);
+  border-left:6px solid var(--amber);
+  padding:1.25rem 1.5rem;
+  margin-bottom:2rem;
+}
+.disclaimer-text{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.8;
+  color:var(--ink-light);
+}
+.disclaimer-text strong{color:var(--amber);font-weight:normal;}
+.back-link{
+  display:inline-block;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--red);
+  border-bottom:1px solid var(--red);
+  padding-bottom:1px;
+  margin-bottom:2rem;
+}
+footer{
+  background:var(--ink);
+  color:#5a4e3a;
+  padding:1.25rem 2rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  font-size:9px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  flex-wrap:wrap;
+  gap:.5rem;
+}
+footer a{color:#7a6e58;border-bottom:1px solid #3a3020;padding-bottom:1px;}
+footer a:hover{color:var(--red-light);}
+.loading{
+  font-family:'Special Elite',cursive;
+  font-size:13px;
+  color:var(--ink-muted);
+  text-align:center;
+  padding:2rem;
+  letter-spacing:.1em;
+  grid-column:1/-1;
+}
+@media(max-width:768px){
+  .masthead-grid{grid-template-columns:1fr;text-align:center;}
+  .mast-side{display:none;}
+  .diw-grid{grid-template-columns:1fr;}
+  .legend{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <span id="today-date">Science Silenced</span>
+  <span>Honest evidence reviews — no supplement industry funding</span>
+</div>
+
+<div class="masthead">
+  <div class="masthead-grid">
+    <div class="mast-side">
+      Suppressed research daily<br>
+      Medical &amp; scientific<br>
+      No pharma funding
+    </div>
+    <div class="logo-wrap">
+      <span class="logo-science">Science</span>
+      <span class="logo-silenced">SILENCED</span>
+      <span class="logo-tag">The studies they didn't want you to read.</span>
+    </div>
+    <div class="mast-side right">
+      No approved narratives<br>
+      No pharma ads<br>
+      No censored conclusions
+    </div>
+  </div>
+  <nav class="main-nav">
+    <a href="index.html">Latest</a>
+    <a href="suppressed.html">Suppressed</a>
+    <a href="exposed.html">Exposed</a>
+    <a href="vindicated.html">Vindicated</a>
+    <a href="uncaged.html">Uncaged</a>
+    <a href="doesitwork.html" class="active">Does It Work</a>
+    <a href="fauci.html">Fauci Files</a>
+    <a href="podcasts.html">Podcasts</a>
+    <a href="videos.html">Videos</a>
+    <a href="archive.html">Archive</a>
+    <a href="about.html">About</a>
+    <a href="submit.html">Submit a Story &#8599;</a>
+  </nav>
+</div>
+
+<div class="page-hero">
+  <div class="hero-eyebrow">&#9632; Honest Evidence Reviews</div>
+  <div class="hero-title">Does It <span>Work?</span></div>
+  <div class="hero-sub">The wellness industry is a $5 trillion machine of exaggerated claims and cherry-picked studies. The medical establishment dismisses everything that doesn't have a patent attached. We read the actual research and give you a straight answer — no supplement deals, no pharma bias, no approved conclusions.</div>
+</div>
+
+<div class="filter-bar">
+  <span class="filter-label">Filter:</span>
+  <button class="filter-btn active" onclick="filterCards('all',this)">All</button>
+  <button class="filter-btn" onclick="filterCards('strong',this)">Strong Evidence</button>
+  <button class="filter-btn" onclick="filterCards('moderate',this)">Moderate Evidence</button>
+  <button class="filter-btn" onclick="filterCards('weak',this)">Weak / Debunked</button>
+</div>
+
+<main>
+  <a href="index.html" class="back-link">&#8592; Back to Latest</a>
+
+  <div class="legend">
+    <div class="legend-item">
+      <div class="legend-dot strong"></div>
+      <div class="legend-text">
+        <span class="legend-title">Strong Evidence</span>
+        <span class="legend-desc">Multiple high-quality RCTs or robust cohort studies. Mechanism well established. Consistent results across independent labs.</span>
+      </div>
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot moderate"></div>
+      <div class="legend-text">
+        <span class="legend-title">Moderate Evidence</span>
+        <span class="legend-desc">Plausible mechanism with promising data. May be limited by small samples, animal-only studies, or industry funding gaps.</span>
+      </div>
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot weak"></div>
+      <div class="legend-text">
+        <span class="legend-title">Weak / Debunked</span>
+        <span class="legend-desc">No credible peer-reviewed support. Claims contradict basic physiology. This is marketing, not science.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-label">Evidence Reviews</div>
+  <div class="diw-grid" id="diw-grid">
+    <div class="loading">Loading evidence reviews...</div>
+  </div>
+
+  <div class="disclaimer">
+    <p class="disclaimer-text">
+      <strong>Important:</strong> These reviews are for informational purposes only and do not constitute medical advice. Consult a qualified healthcare provider before starting any new supplement, therapy, or wellness protocol. Evidence ratings reflect the current state of peer-reviewed literature and are updated periodically as new research emerges. We have no financial relationships with supplement companies, device manufacturers, or pharmaceutical companies.
+    </p>
+  </div>
+
+</main>
+
+<footer>
+  <span>ScienceSilenced.com &mdash; 2026</span>
+  <span>No pharma ads &nbsp;&#9632;&nbsp; No approved narratives &nbsp;&#9632;&nbsp; No permission needed</span>
+  <span><a href="about.html">About</a> &nbsp;&nbsp; <a href="submit.html">Submit a Story</a> &nbsp;&nbsp; <a href="mailto:info@sciencesilenced.com">Contact</a></span>
+</footer>
+
+<script>
+(function(){
+  const d=new Date();
+  const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('today-date').textContent=days[d.getDay()]+', '+months[d.getMonth()]+' '+d.getDate()+', '+d.getFullYear();
+})();
+
+function verdictWidth(v){return v==='strong'?'90%':v==='moderate'?'60%':'25%';}
+
+function categoryLabel(name){
+  const map={
+    'Sauna':'Heat Therapy','Cold Plunge':'Cold Therapy',
+    'Cold Showers':'Cold Therapy','Infrared Sauna':'Heat Therapy',
+    'Creatine':'Supplementation','Magnesium Glycinate':'Supplementation',
+    'Collagen Supplements':'Supplementation','Peptides (BPC-157)':'Peptide Therapy',
+    'Red Light Therapy':'Photobiomodulation','Alkaline Water':'Hydration',
+  };
+  return map[name]||'Wellness';
+}
+
+function renderDIW(items){
+  const el=document.getElementById('diw-grid');
+  if(!el) return;
+  el.innerHTML=items.map(item=>`
+    <div class="diw-card" data-verdict="${item.verdict}">
+      <div class="diw-name">${item.name}</div>
+      <div class="verdict-row">
+        <div class="verdict-bar-bg">
+          <div class="verdict-bar-fill ${item.verdict}" style="width:${verdictWidth(item.verdict)}"></div>
+        </div>
+        <span class="verdict-lbl ${item.verdict}">${item.verdict_label}</span>
+      </div>
+      <p class="diw-summary">${item.summary}</p>
+      <div class="diw-bottom">
+        <span class="diw-category">${categoryLabel(item.name)}</span>
+        <span class="verdict-badge ${item.verdict}">${item.verdict_label}</span>
+      </div>
+    </div>`).join('');
+}
+
+function filterCards(verdict, btn){
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.diw-card').forEach(card=>{
+    if(verdict==='all'||card.dataset.verdict===verdict){
+      card.classList.remove('hidden');
+    } else {
+      card.classList.add('hidden');
+    }
+  });
+}
+
+async function loadDIW(){
+  try{
+    const res=await fetch('doesitwork.json');
+    const data=await res.json();
+    renderDIW(data.items||data);
+  } catch(e){
+    document.getElementById('diw-grid').innerHTML='<div class="loading">Content loading shortly.</div>';
+  }
+}
+
+loadDIW();
+</script>
+</body>
+</html>
