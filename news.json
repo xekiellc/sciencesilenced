@@ -1,9 +1,105 @@
 {
-  "updated": "2026-05-01T14:00:00Z",
+  "updated": "2026-05-01T20:50:10.349543+00:00",
   "articles": [
     {
+      "title": "NIH Purges COVID Lab Leak Pioneer Ralph Baric After Cover-Up Exposed",
+      "summary": "The NIH has removed Ralph Baric\u2014the University of North Carolina researcher whose gain-of-function work helped create the pandemic\u2014from ALL federal grants after his ties to COVID origins became undeniable. This is retaliation disguised as accountability, protecting the real architects while sacrificing their frontman.",
+      "source": "RealClearInvestigations",
+      "url": "https://www.realclearinvestigations.com/articles/2026/04/28/covid_cover-up_campaign_to_hide_star_researcher_ralph_barics_ties_to_global_pandemic_1179562.html",
+      "date": "2026-04-28",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Gain of Function",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Fauci's Right-Hand Man Indicted for Hiding COVID Research Communications",
+      "summary": "Dr. David Morens, 78-year-old former Fauci advisor, faces federal charges for using private email to dodge public records laws while orchestrating the COVID cover-up from inside NIH. The smoking gun evidence of deliberate concealment finally surfaces\u2014but where are the charges against his boss?",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/28/former-fauci-advisor-indicted-for-hiding-communications-related-to-covid-research/",
+      "date": "2026-04-28",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "COVID Origins",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Senator Johnson Exposes Biden Officials' COVID Vaccine Safety Cover-Up",
+      "summary": "GOP Senator Ron Johnson drags Biden administration officials into the hot seat over suppressed COVID vaccine safety signals. The CDC and FDA have been sitting on adverse event data while Americans suffered in silence\u2014classic regulatory capture in action.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/29/ron-johnson-covid-vaccine-safety-signals-biden-administration-fda-cdc/",
+      "date": "2026-04-29",
+      "pillar": "exposed",
+      "category": "CDC/FDA Corruption",
+      "topic": "Vaccine Safety",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Revolutionary Manifesto Exposes Century of Medical Tyranny and Holistic Healing Suppression",
+      "summary": "\"Echoes of Courage\" documents the systematic destruction of natural medicine from the Flexner Report to modern FDA persecution of alternative therapies. This manifesto names the corporate-government alliance that has criminalized healing for profit\u2014required reading for medical freedom fighters.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-04-30-echoes-of-courage-a-manifesto-medical-tyranny.html",
+      "date": "2026-04-30",
+      "pillar": "uncaged",
+      "category": "Medical Tyranny",
+      "topic": "Alternative Medicine",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Oral Microbiome Predicts Lifespan\u2014Why Your Doctor Ignores This Life-Saving Science",
+      "summary": "Groundbreaking research proves mouth bacteria imbalances predict accelerated aging, cancer, and heart disease even without obvious gum disease. The medical establishment ignores this systemic health window because there's no patentable drug\u2014just basic oral hygiene that Big Pharma can't monetize.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-04-30-mouth-secret-oral-microbiome-predict-your-lifespan.html",
+      "date": "2026-04-30",
+      "pillar": "suppressed",
+      "category": "Longevity",
+      "topic": "Microbiome",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Fasting Durably Reprograms T Cells\u2014Nature Study Reveals Nutritional Immunotherapy Gold Mine",
+      "summary": "Nature publishes definitive proof that fasting and refeeding creates persistent immune enhancement in both mice and humans through metabolic reprogramming. This validates ancient healing wisdom while pointing toward nutritional interventions that threaten the cancer industry's chemotherapy monopoly.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10432-8",
+      "date": "2026-04-30",
+      "pillar": "vindicated",
+      "category": "Nutrition Science",
+      "topic": "Immunotherapy",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Mitochondrial Healing Cures Chronic Nerve Pain\u2014Big Pharma's Opioid Scam Exposed",
+      "summary": "Natural mitochondrial repair protocols successfully treat diabetic neuropathy, fibromyalgia, and chemo-induced nerve damage\u2014conditions that generate billions in opioid profits. The medical establishment pushes addictive painkillers while suppressing cellular healing that actually works.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-04-28-chronic-nerve-pain-natural-ways-heal-mitochondria.html",
+      "date": "2026-04-28",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Neurology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "NAD+ Precursor Cures Rare Blood Disorder\u2014Nature Medicine Validates Anti-Aging Supplement",
+      "summary": "Phase 2 trial proves low-dose nicotinamide mononucleotide (NMN) restores platelet counts in immune thrombocytopenia by boosting NAD+ levels. This validates the longevity supplement industry while exposing why the FDA has tried to ban NMN\u2014it actually works without Big Pharma's permission.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04366-x",
+      "date": "2026-04-30",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "NAD+ Therapy",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
       "title": "The Alzheimer's Amyloid Fraud That Swallowed $1.6 Billion in NIH Funding",
-      "summary": "Sylvain Lesné fabricated Western blot images cited over 2,300 times. For 16 years, NIH chased a fraudulent hypothesis while metabolic and vascular researchers were defunded. Patients were enrolled in trials targeting a fake biomarker. Science Magazine broke it in 2022. Nobody went to jail.",
+      "summary": "Sylvain Lesn\u00e9 fabricated Western blot images cited over 2,300 times. For 16 years, NIH chased a fraudulent hypothesis while metabolic and vascular researchers were defunded. Patients were enrolled in trials targeting a fake biomarker. Science Magazine broke it in 2022. Nobody went to jail.",
       "source": "Science Magazine",
       "url": "https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease",
       "date": "2026-05-01T12:00:00Z",
@@ -14,7 +110,7 @@
       "suppression_score": 5
     },
     {
-      "title": "Vioxx — Merck Internal Emails Prove They Knew About Cardiovascular Risk Years Before Withdrawal",
+      "title": "Vioxx \u2014 Merck Internal Emails Prove They Knew About Cardiovascular Risk Years Before Withdrawal",
       "summary": "Internal Merck documents revealed executives were aware of Vioxx's elevated heart attack risk as early as 2000. An estimated 88,000 to 140,000 Americans suffered serious cardiac events before the drug was pulled in 2004. The FDA approved it anyway and kept it on market for years after warning signs emerged.",
       "source": "New England Journal of Medicine",
       "url": "https://www.nejm.org",
@@ -26,7 +122,7 @@
       "suppression_score": 5
     },
     {
-      "title": "Grant Denied — NIH Reviewer Note: 'Findings Contradict Current Policy Position'",
+      "title": "Grant Denied \u2014 NIH Reviewer Note: 'Findings Contradict Current Policy Position'",
       "summary": "A University of California researcher's NIH R01 application was rejected with a reviewer comment explicitly noting that the findings contradict current policy positions on dietary fat guidelines. The study had passed peer review at two journals. The institutional suppression of inconvenient science is now documented and on record.",
       "source": "Science Magazine",
       "url": "https://www.science.org",
@@ -62,7 +158,7 @@
       "suppression_score": 5
     },
     {
-      "title": "Thomas Seyfried: Cancer Is a Metabolic Disease — Zero Pharma Funding, Remarkable Results",
+      "title": "Thomas Seyfried: Cancer Is a Metabolic Disease \u2014 Zero Pharma Funding, Remarkable Results",
       "summary": "Boston College researcher Thomas Seyfried has spent three decades building the case that cancer is primarily a metabolic disease, not a genetic one. His ketogenic and fasting-based press-pulse protocols show results in glioblastoma that NIH-funded gene therapy approaches have not matched. NIH won't fund it because there's no patentable drug at the end of it.",
       "source": "Frontiers in Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2020.00011/full",
@@ -74,8 +170,8 @@
       "suppression_score": 4
     },
     {
-      "title": "Chris Palmer MD: Mental Illness Is a Metabolic Disease — Mitochondria, Not Serotonin",
-      "summary": "Harvard psychiatrist Chris Palmer's Brain Energy theory proposes that virtually all mental illness — from depression to schizophrenia to bipolar disorder — stems from mitochondrial dysfunction. His documented cases of patients achieving remission through metabolic intervention are extraordinary. NIMH has zero interest because there is no drug at the end of the protocol.",
+      "title": "Chris Palmer MD: Mental Illness Is a Metabolic Disease \u2014 Mitochondria, Not Serotonin",
+      "summary": "Harvard psychiatrist Chris Palmer's Brain Energy theory proposes that virtually all mental illness \u2014 from depression to schizophrenia to bipolar disorder \u2014 stems from mitochondrial dysfunction. His documented cases of patients achieving remission through metabolic intervention are extraordinary. NIMH has zero interest because there is no drug at the end of the protocol.",
       "source": "Brain Energy (Penguin Random House)",
       "url": "https://www.brainenergy.com",
       "date": "2026-04-28T10:00:00Z",

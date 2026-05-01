@@ -1,16 +1,116 @@
 {
-  "updated": "2026-05-01T00:00:00Z",
+  "updated": "2026-05-01T20:50:11.852008+00:00",
   "items": [
     {
+      "show": "Chrome for Developers",
+      "title": "What is the Chrome DevTools MCP server",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/IBh3Wz5YIR8",
+      "date": "2026-05-01T15:25:01+00:00",
+      "age": "5 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Building an extension in Antigravity in 6 minutes",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=i1OCGChwO_I",
+      "date": "2026-04-30T14:34:32+00:00",
+      "age": "Yesterday"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "The annual session prep for Google I/O",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/LfLqurgEWh0",
+      "date": "2026-04-29T20:32:34+00:00",
+      "age": "2 days ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Build a Basic LLM Judge",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/hKmdToAMQcY",
+      "date": "2026-04-29T16:00:00+00:00",
+      "age": "2 days ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "How Chrome deprecates and removes features",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=cdOJDYXPXQI",
+      "date": "2026-04-27T16:00:00+00:00",
+      "age": "4 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Is Industrial Processing the Real Problem With Seed Oils? | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=Tsqzx3L6UWs",
+      "date": "2026-01-23T17:00:47+00:00",
+      "age": "98 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Why Ingredient Changes Don\u2019t Always Mean Healthier Food | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/IC7iP7uGiQ4",
+      "date": "2026-01-22T17:00:20+00:00",
+      "age": "99 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Cooking with Lard vs Seed Oils | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=7_cbaDXAWYM",
+      "date": "2026-01-21T17:00:21+00:00",
+      "age": "100 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "The Evolutionary Argument Against Eating Seed Oils | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/H8rDAQeJ1UM",
+      "date": "2026-01-20T17:00:26+00:00",
+      "age": "101 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Seed Oils, Saturated Fat, and the Tradeoff People Miss | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/HSVkWSoACwU",
+      "date": "2026-01-19T17:00:34+00:00",
+      "age": "102 days ago"
+    },
+    {
       "show": "Shawn Ryan Show",
-      "title": "Louisa Nicola: Alzheimer's Research Was Junk — Hundreds of Millions in NIH Funding Wasted on Fabricated Science",
-      "guest": "Louisa Nicola — Neuroathletics",
+      "title": "Louisa Nicola: Alzheimer's Research Was Junk \u2014 Hundreds of Millions in NIH Funding Wasted on Fabricated Science",
+      "guest": "Louisa Nicola \u2014 Neuroathletics",
       "type": "video",
       "topic": "neurology",
       "url": "https://www.youtube.com/@ShawnRyanShow"
     },
     {
-      "show": "The Drive — Peter Attia MD",
+      "show": "The Drive \u2014 Peter Attia MD",
       "title": "Statin NNT Data: What Your Doctor Isn't Showing You About Primary Prevention Numbers",
       "guest": "Peter Attia MD",
       "type": "audio",
@@ -20,7 +120,7 @@
     {
       "show": "Tucker Carlson",
       "title": "Marty Makary: The FDA Is Captured. I Have the Paper Trail.",
-      "guest": "Marty Makary MD — Johns Hopkins",
+      "guest": "Marty Makary MD \u2014 Johns Hopkins",
       "type": "video",
       "topic": "institutional",
       "url": "https://tuckercarlson.com"
@@ -43,16 +143,16 @@
     },
     {
       "show": "Jordan Peterson Podcast",
-      "title": "Chris Palmer MD: Brain Energy — Mental Illness as Metabolic Disease, Not Chemical Imbalance",
-      "guest": "Chris Palmer MD — Harvard",
+      "title": "Chris Palmer MD: Brain Energy \u2014 Mental Illness as Metabolic Disease, Not Chemical Imbalance",
+      "guest": "Chris Palmer MD \u2014 Harvard",
       "type": "video",
       "topic": "psychiatry",
       "url": "https://www.jordanbpeterson.com/podcast/"
     },
     {
-      "show": "Found My Fitness — Rhonda Patrick",
+      "show": "Found My Fitness \u2014 Rhonda Patrick",
       "title": "Thomas Seyfried: The Metabolic Theory of Cancer and Why NIH Won't Fund It",
-      "guest": "Thomas Seyfried PhD — Boston College",
+      "guest": "Thomas Seyfried PhD \u2014 Boston College",
       "type": "audio",
       "topic": "cancer",
       "url": "https://www.foundmyfitness.com"
@@ -60,7 +160,7 @@
     {
       "show": "Breaking Points",
       "title": "Vinay Prasad: FDA Drug Approvals Are Based on Surrogate Endpoints That Don't Predict Survival",
-      "guest": "Vinay Prasad MD — UCSF",
+      "guest": "Vinay Prasad MD \u2014 UCSF",
       "type": "video",
       "topic": "pharma",
       "url": "https://www.breakingpoints.com"
