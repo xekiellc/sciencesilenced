@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Submit a Story — Science Silenced</title>
+<meta name="description" content="Submit a suppressed study, whistleblower tip, or story of scientific censorship to Science Silenced.">
+<meta property="og:title" content="Submit a Story — Science Silenced">
+<meta property="og:description" content="Know a suppressed study? A researcher whose work is being ignored? A whistleblower story? Tell us.">
+<meta property="og:url" content="https://sciencesilenced.com/submit">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://sciencesilenced.com/og.png">
+<link rel="icon" type="image/png" href="/favicon.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNRDVWQCPK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FNRDVWQCPK');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --paper:#cfc4aa;
+  --paper-dark:#c0b498;
+  --paper-mid:#b8aa90;
+  --ink:#18120a;
+  --ink-light:#3a2e18;
+  --ink-muted:#6b5e42;
+  --ink-faint:#8b7040;
+  --rule:#a09070;
+  --red:#8b1010;
+  --red-light:#f0e8d0;
+  --green:#2a5a1a;
+  --green-light:#d0e8c0;
+  --blue:#104878;
+  --blue-light:#d0e0f8;
+  --amber:#8b6010;
+}
+html{scroll-behavior:smooth;}
+body{
+  background:var(--paper);
+  background-image:repeating-linear-gradient(0deg,transparent,transparent 27px,rgba(0,0,0,0.022) 28px);
+  color:var(--ink);
+  font-family:'Courier Prime',monospace;
+  min-height:100vh;
+  font-size:14px;
+  line-height:1.6;
+}
+a{color:inherit;text-decoration:none;}
+.top-bar{
+  background:var(--ink);
+  color:#7a6e58;
+  padding:5px 2rem;
+  display:flex;
+  justify-content:space-between;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+}
+.masthead{
+  background:var(--paper);
+  border-bottom:3px solid var(--ink);
+  padding:1.4rem 2rem 0;
+}
+.masthead-grid{
+  display:grid;
+  grid-template-columns:150px 1fr 150px;
+  align-items:center;
+  gap:.5rem;
+  margin-bottom:1rem;
+}
+.mast-side{
+  font-size:8px;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  line-height:2.2;
+  white-space:nowrap;
+}
+.mast-side.right{text-align:right;}
+.logo-wrap{text-align:center;}
+.logo-science{
+  font-family:'Courier Prime',monospace;
+  font-size:9px;
+  letter-spacing:.55em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  display:block;
+  margin-bottom:1px;
+}
+.logo-silenced{
+  font-family:'Oswald',sans-serif;
+  font-size:58px;
+  font-weight:700;
+  letter-spacing:.03em;
+  color:var(--ink);
+  display:block;
+  line-height:.85;
+  position:relative;
+}
+.logo-silenced::after{
+  content:'';
+  position:absolute;
+  left:-4px;right:-4px;top:44%;
+  height:7px;
+  background:var(--red);
+  transform:rotate(-.6deg);
+}
+.logo-tag{
+  font-family:'Special Elite',cursive;
+  font-size:9px;
+  color:var(--ink-muted);
+  letter-spacing:.03em;
+  margin-top:5px;
+  display:block;
+}
+nav.main-nav{
+  display:flex;
+  border-top:1px solid var(--rule);
+  overflow-x:auto;
+  scrollbar-width:none;
+}
+nav.main-nav::-webkit-scrollbar{display:none;}
+nav.main-nav a{
+  font-family:'Courier Prime',monospace;
+  font-size:8.5px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  color:var(--ink);
+  padding:9px 13px;
+  border-right:1px solid var(--rule);
+  white-space:nowrap;
+  transition:background .12s,color .12s;
+  flex-shrink:0;
+}
+nav.main-nav a:hover{background:var(--ink);color:var(--paper);}
+nav.main-nav a.active{background:var(--red);color:var(--red-light);}
+.page-hero{
+  background:var(--ink);
+  padding:2.5rem 2rem;
+  border-bottom:3px solid var(--red);
+}
+.hero-eyebrow{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:#8b7a60;
+  margin-bottom:8px;
+}
+.hero-title{
+  font-family:'Oswald',sans-serif;
+  font-size:48px;
+  font-weight:700;
+  color:#f0e0c0;
+  line-height:.95;
+  margin-bottom:12px;
+}
+.hero-title span{color:var(--red);}
+.hero-sub{
+  font-family:'Special Elite',cursive;
+  font-size:13px;
+  color:#8b7a60;
+  line-height:1.8;
+  max-width:600px;
+}
+main{
+  padding:2rem;
+  display:grid;
+  grid-template-columns:1fr 300px;
+  gap:2rem;
+  align-items:start;
+}
+.back-link{
+  display:inline-block;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--red);
+  border-bottom:1px solid var(--red);
+  padding-bottom:1px;
+  margin-bottom:2rem;
+}
+.section-label{
+  font-size:9px;
+  letter-spacing:.3em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin-bottom:1.25rem;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+.section-label::after{content:'';flex:1;height:1px;background:var(--rule);}
+.form-wrap{
+  border:2px solid var(--ink);
+  background:var(--paper-dark);
+  padding:1.5rem;
+}
+.form-group{margin-bottom:1.25rem;}
+.form-label{
+  display:block;
+  font-size:9px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--ink-muted);
+  margin-bottom:6px;
+}
+.form-label span{color:var(--red);}
+.form-input,
+.form-select,
+.form-textarea{
+  width:100%;
+  font-family:'Courier Prime',monospace;
+  font-size:12px;
+  padding:9px 12px;
+  border:2px solid var(--rule);
+  background:var(--paper);
+  color:var(--ink);
+  letter-spacing:.03em;
+  transition:border-color .12s;
+  appearance:none;
+}
+.form-input:focus,
+.form-select:focus,
+.form-textarea:focus{
+  outline:none;
+  border-color:var(--ink);
+  background:#fff;
+}
+.form-textarea{
+  min-height:120px;
+  resize:vertical;
+  line-height:1.6;
+}
+.form-select{
+  cursor:pointer;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%2318120a' stroke-width='2' fill='none'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;
+  background-position:right 12px center;
+  padding-right:32px;
+}
+.form-hint{
+  font-family:'Special Elite',cursive;
+  font-size:11px;
+  color:var(--ink-faint);
+  margin-top:5px;
+  line-height:1.5;
+}
+.form-submit{
+  width:100%;
+  background:var(--red);
+  color:var(--red-light);
+  border:none;
+  padding:13px 24px;
+  font-family:'Courier Prime',monospace;
+  font-size:11px;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  cursor:pointer;
+  transition:opacity .12s;
+  margin-top:.5rem;
+}
+.form-submit:hover{opacity:.85;}
+.form-divider{
+  border:none;
+  border-top:1px solid var(--rule);
+  margin:1.25rem 0;
+}
+.anon-notice{
+  background:var(--paper-mid);
+  border:1px solid var(--rule);
+  border-left:4px solid var(--amber);
+  padding:.75rem 1rem;
+  margin-bottom:1.25rem;
+}
+.anon-notice p{
+  font-family:'Special Elite',cursive;
+  font-size:11px;
+  line-height:1.7;
+  color:var(--ink-light);
+}
+.anon-notice strong{color:var(--amber);font-weight:normal;}
+.sidebar{}
+.sidebar-block{
+  border:2px solid var(--ink);
+  background:var(--paper-dark);
+  padding:1.25rem;
+  margin-bottom:1.5rem;
+}
+.sidebar-head{
+  font-family:'Oswald',sans-serif;
+  font-size:16px;
+  font-weight:700;
+  color:var(--ink);
+  margin-bottom:10px;
+  padding-bottom:8px;
+  border-bottom:1px solid var(--rule);
+}
+.sidebar-list{list-style:none;}
+.sidebar-list li{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.7;
+  color:var(--ink-light);
+  padding:5px 0;
+  border-bottom:1px solid rgba(160,144,112,.3);
+}
+.sidebar-list li:last-child{border-bottom:none;}
+.sidebar-list li::before{content:'▪ ';color:var(--red);}
+.sidebar-text{
+  font-family:'Special Elite',cursive;
+  font-size:12px;
+  line-height:1.75;
+  color:var(--ink-light);
+}
+.sidebar-email{
+  display:inline-block;
+  font-family:'Courier Prime',monospace;
+  font-size:11px;
+  letter-spacing:.08em;
+  color:var(--blue);
+  border-bottom:1px solid var(--blue);
+  padding-bottom:1px;
+  margin-top:8px;
+}
+.success-msg{
+  display:none;
+  background:var(--green);
+  color:var(--green-light);
+  padding:1rem 1.25rem;
+  font-family:'Special Elite',cursive;
+  font-size:13px;
+  line-height:1.7;
+  margin-bottom:1rem;
+}
+footer{
+  background:var(--ink);
+  color:#5a4e3a;
+  padding:1.25rem 2rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  font-size:9px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  flex-wrap:wrap;
+  gap:.5rem;
+}
+footer a{color:#7a6e58;border-bottom:1px solid #3a3020;padding-bottom:1px;}
+footer a:hover{color:var(--red-light);}
+@media(max-width:768px){
+  .masthead-grid{grid-template-columns:1fr;text-align:center;}
+  .mast-side{display:none;}
+  main{grid-template-columns:1fr;padding:1.25rem;}
+}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <span id="today-date">Science Silenced</span>
+  <span>What they buried — aggregated daily</span>
+</div>
+
+<div class="masthead">
+  <div class="masthead-grid">
+    <div class="mast-side">
+      Suppressed research daily<br>
+      Medical &amp; scientific<br>
+      No pharma funding
+    </div>
+    <div class="logo-wrap">
+      <span class="logo-science">Science</span>
+      <span class="logo-silenced">SILENCED</span>
+      <span class="logo-tag">The studies they didn't want you to read.</span>
+    </div>
+    <div class="mast-side right">
+      No approved narratives<br>
+      No pharma ads<br>
+      No censored conclusions
+    </div>
+  </div>
+  <nav class="main-nav">
+    <a href="index.html">Latest</a>
+    <a href="suppressed.html">Suppressed</a>
+    <a href="exposed.html">Exposed</a>
+    <a href="vindicated.html">Vindicated</a>
+    <a href="uncaged.html">Uncaged</a>
+    <a href="doesitwork.html">Does It Work</a>
+    <a href="fauci.html">Fauci Files</a>
+    <a href="podcasts.html">Podcasts</a>
+    <a href="videos.html">Videos</a>
+    <a href="archive.html">Archive</a>
+    <a href="about.html">About</a>
+    <a href="submit.html" class="active">Submit a Story &#8599;</a>
+  </nav>
+</div>
+
+<div class="page-hero">
+  <div class="hero-eyebrow">&#9632; Tips, Submissions &amp; Whistleblowers</div>
+  <div class="hero-title">Submit a <span>Story.</span></div>
+  <div class="hero-sub">Know about a suppressed study? A researcher being defunded for inconvenient findings? A whistleblower story with documentation? We review every submission. Your identity is never published without your explicit consent.</div>
+</div>
+
+<main>
+  <div class="form-col">
+    <a href="index.html" class="back-link">&#8592; Back to Latest</a>
+    <div class="section-label">Submission Form</div>
+
+    <div class="anon-notice">
+      <p><strong>Anonymity:</strong> You are not required to provide your name or contact information. If you are a whistleblower or insider, we strongly recommend submitting without identifying information. We do not log IP addresses on form submissions.</p>
+    </div>
+
+    <div class="success-msg" id="success-msg">
+      &#9632; Submission received. Thank you. We review every tip and will follow up if we have questions — but only if you provided contact information. Your submission may take several days to review.
+    </div>
+
+    <div class="form-wrap">
+      <form
+        name="submit-story"
+        method="POST"
+        data-netlify="true"
+        netlify-honeypot="bot-field"
+        onsubmit="handleSubmit(event)"
+      >
+        <input type="hidden" name="form-name" value="submit-story">
+        <input type="hidden" name="bot-field" style="display:none">
+
+        <div class="form-group">
+          <label class="form-label">Story Type <span>*</span></label>
+          <select name="story_type" class="form-select" required>
+            <option value="">— Select one —</option>
+            <option value="suppressed-study">Suppressed or retracted study</option>
+            <option value="pharma-fraud">Pharma fraud / buried trial data</option>
+            <option value="nih-fda">NIH / FDA / CDC corruption</option>
+            <option value="whistleblower">Whistleblower tip</option>
+            <option value="researcher">Researcher being defunded or silenced</option>
+            <option value="vindicated">Research that was suppressed but proved right</option>
+            <option value="uncaged">Promising research outside the system</option>
+            <option value="does-it-work">Does It Work — wellness evidence review request</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Headline / Summary <span>*</span></label>
+          <input
+            type="text"
+            name="headline"
+            class="form-input"
+            placeholder="One sentence describing what was suppressed and by whom"
+            required
+          >
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Full Details <span>*</span></label>
+          <textarea
+            name="details"
+            class="form-textarea"
+            placeholder="Tell us everything. Who, what, when, where. What was suppressed, who suppressed it, what the evidence shows, what the impact on patients or the public has been."
+            required
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Source Links / Documentation</label>
+          <textarea
+            name="sources"
+            class="form-textarea"
+            style="min-height:80px;"
+            placeholder="Paste any links to studies, FOIA documents, news articles, congressional records, or other primary sources. One per line."
+          ></textarea>
+          <div class="form-hint">Primary sources make your submission much more likely to be published. FOIA documents, peer-reviewed papers, congressional transcripts, and named whistleblowers all carry significant weight.</div>
+        </div>
+
+        <hr class="form-divider">
+
+        <div class="form-group">
+          <label class="form-label">Your Name <span style="color:var(--ink-faint);font-size:8px;">(optional — not published without consent)</span></label>
+          <input type="text" name="name" class="form-input" placeholder="Anonymous submissions accepted">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Email <span style="color:var(--ink-faint);font-size:8px;">(optional — for follow-up questions only)</span></label>
+          <input type="email" name="email" class="form-input" placeholder="We will never publish your email">
+          <div class="form-hint">Only provide an email if you are comfortable with follow-up contact. We will never publish it or share it with third parties.</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Are you a whistleblower or insider?</label>
+          <select name="whistleblower" class="form-select">
+            <option value="no">No — I'm submitting publicly available information</option>
+            <option value="yes-named">Yes — and I am willing to be named</option>
+            <option value="yes-anon">Yes — and I wish to remain anonymous</option>
+            <option value="yes-contact">Yes — please contact me to discuss</option>
+          </select>
+        </div>
+
+        <button type="submit" class="form-submit">Submit Story &#8599;</button>
+      </form>
+    </div>
+  </div>
+
+  <div class="sidebar">
+    <div class="sidebar-block">
+      <div class="sidebar-head">What We're Looking For</div>
+      <ul class="sidebar-list">
+        <li>Suppressed or retracted peer-reviewed studies</li>
+        <li>Negative trial data buried by pharma</li>
+        <li>NIH / FDA grant denials citing political reasons</li>
+        <li>Researchers defunded for inconvenient findings</li>
+        <li>FOIA documents revealing institutional suppression</li>
+        <li>Whistleblower accounts with documentation</li>
+        <li>Promising research ignored because no patent exists</li>
+        <li>Wellness claims with strong evidence being dismissed</li>
+      </ul>
+    </div>
+
+    <div class="sidebar-block">
+      <div class="sidebar-head">What Makes a Strong Tip</div>
+      <ul class="sidebar-list">
+        <li>Named individuals and institutions</li>
+        <li>Primary source documentation</li>
+        <li>Clear description of what was suppressed and why</li>
+        <li>Documented patient or public health impact</li>
+        <li>Timeline of events</li>
+      </ul>
+    </div>
+
+    <div class="sidebar-block">
+      <div class="sidebar-head">Prefer Email?</div>
+      <p class="sidebar-text">You can also submit tips directly by email. Whistleblower communications are handled with discretion. We do not share sources.</p>
+      <a href="mailto:info@sciencesilenced.com" class="sidebar-email">info@sciencesilenced.com</a>
+    </div>
+
+    <div class="sidebar-block">
+      <div class="sidebar-head">Our Standards</div>
+      <p class="sidebar-text">Every submission is reviewed against our editorial standards. We require primary sources for any claim we publish. Anonymous tips are accepted but require corroborating documentation to proceed to publication.</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <span>ScienceSilenced.com &mdash; 2026</span>
+  <span>No pharma ads &nbsp;&#9632;&nbsp; No approved narratives &nbsp;&#9632;&nbsp; No permission needed</span>
+  <span><a href="about.html">About</a> &nbsp;&nbsp; <a href="submit.html">Submit a Story</a> &nbsp;&nbsp; <a href="mailto:info@sciencesilenced.com">Contact</a></span>
+</footer>
+
+<script>
+(function(){
+  const d=new Date();
+  const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('today-date').textContent=days[d.getDay()]+', '+months[d.getMonth()]+' '+d.getDate()+', '+d.getFullYear();
+})();
+
+function handleSubmit(e){
+  e.preventDefault();
+  const form=e.target;
+  const data=new FormData(form);
+  fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(data).toString()})
+    .then(()=>{
+      form.style.display='none';
+      document.getElementById('success-msg').style.display='block';
+      window.scrollTo({top:document.getElementById('success-msg').offsetTop-100,behavior:'smooth'});
+    })
+    .catch(()=>{
+      alert('Submission error. Please email us directly at info@sciencesilenced.com');
+    });
+}
+</script>
+</body>
+</html>
