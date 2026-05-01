@@ -1,1 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exposed — Science Silenced</title>
+<meta name="description" content="Pharma fraud, NIH capture, FDA corruption, and the documented trail of institutional suppression.">
+<meta property="og:title" content="Exposed — Science Silenced">
+<meta property="og:description" content="Pharma fraud, NIH capture, FDA corruption, and the documented trail of institutional suppression.">
+<meta property="og:url" content="https://sciencesilenced.com/exposed">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://sciencesilenced.com/og.png">
+<link rel="icon" type="image/png" href="/favicon.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNRDVWQCPK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FNRDVWQCPK');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --paper:#cfc4aa;--paper-dark:#c0b498;--paper-mid:#b8aa90;--ink:#18120a;--ink-light:#3a2e18;--ink-muted:#6b5e42;--ink-faint:#8b7040;--rule:#a09070;--red:#8b1010;--red-light:#f0e8d0;--green:#2a5a1a;--green-light:#d0e8c0;--blue:#104878;--blue-light:#d0e0f8;--amber:#8b6010;--purple:#5a3a8a;--purple-light:#e0d0f8;
+}
+html{scroll-behavior:smooth;}
+body{background:var(--paper);background-image:repeating-linear-gradient(0deg,transparent,transparent 27px,rgba(0,0,0,0.022) 28px);color:var(--ink);font-family:'Courier Prime',monospace;min-height:100vh;font-size:14px;line-height:1.6;}
+a{color:inherit;text-decoration:none;}
+.top-bar{background:var(--ink);color:#7a6e58;padding:5px 2rem;display:flex;justify-content:space-between;font-size:9px;letter-spacing:.2em;text-transform:uppercase;}
+.masthead{background:var(--paper);border-bottom:3px solid var(--ink);padding:1.4rem 2rem 0;}
+.masthead-grid{display:grid;grid-template-columns:150px 1fr 150px;align-items:center;gap:.5rem;margin-bottom:1rem;}
+.mast-side{font-size:8px;letter-spacing:.11em;text-transform:uppercase;color:var(--ink-muted);line-height:2.2;white-space:nowrap;}
+.mast-side.right{text-align:right;}
+.logo-wrap{text-align:center;}
+.logo-science{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.55em;text-transform:uppercase;color:var(--ink-muted);display:block;margin-bottom:1px;}
+.logo-silenced{font-family:'Oswald',sans-serif;font-size:58px;font-weight:700;letter-spacing:.03em;color:var(--ink);display:block;line-height:.85;position:relative;}
+.logo-silenced::after{content:'';position:absolute;left:-4px;right:-4px;top:44%;height:7px;background:var(--red);transform:rotate(-.6deg);}
+.logo-tag{font-family:'Special Elite',cursive;font-size:9px;color:var(--ink-muted);letter-spacing:.03em;margin-top:5px;display:block;}
+nav.main-nav{display:flex;border-top:1px solid var(--rule);overflow-x:auto;scrollbar-width:none;}
+nav.main-nav::-webkit-scrollbar{display:none;}
+nav.main-nav a{font-family:'Courier Prime',monospace;font-size:8.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--ink);padding:9px 13px;border-right:1px solid var(--rule);white-space:nowrap;transition:background .12s,color .12s;flex-shrink:0;}
+nav.main-nav a:hover{background:var(--ink);color:var(--paper);}
+nav.main-nav a.active{background:var(--red);color:var(--red-light);}
+.ticker{background:var(--red);padding:6px 0;overflow:hidden;white-space:nowrap;}
+.ticker-inner{display:inline-block;animation:ticker 45s linear infinite;font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:#fff;font-weight:700;}
+@keyframes ticker{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+.page-hero{background:var(--ink);padding:2.5rem 2rem;border-bottom:4px solid var(--red);}
+.hero-eyebrow{font-size:9px;letter-spacing:.3em;text-transform:uppercase;color:#8b7a60;margin-bottom:8px;}
+.hero-title{font-family:'Oswald',sans-serif;font-size:52px;font-weight:700;color:#f0e0c0;line-height:.95;margin-bottom:12px;}
+.hero-title span{color:var(--red);}
+.hero-sub{font-family:'Special Elite',cursive;font-size:13px;color:#8b7a60;line-height:1.8;max-width:680px;}
+.hero-stats{display:flex;gap:2rem;margin-top:1.5rem;}
+.hero-stat-num{font-family:'Oswald',sans-serif;font-size:28px;font-weight:700;color:var(--red);display:block;line-height:1;}
+.hero-stat-label{font-size:8px;letter-spacing:.15em;text-transform:uppercase;color:#6b5e42;display:block;margin-top:3px;}
+main{padding:1.75rem 2rem;}
+.section-label{font-size:9px;letter-spacing:.3em;text-transform:uppercase;color:var(--red);margin-bottom:1rem;display:flex;align-items:center;gap:8px;}
+.section-label::after{content:'';flex:1;height:1px;background:var(--rule);}
+.updated{font-size:9px;color:var(--ink-faint);letter-spacing:.15em;text-transform:uppercase;text-align:right;margin-bottom:1rem;}
+.hero-grid{display:grid;grid-template-columns:1fr 260px;gap:1.5rem;margin-bottom:1.75rem;padding-bottom:1.75rem;border-bottom:2px solid var(--ink);}
+.hero-label{font-size:9px;letter-spacing:.3em;text-transform:uppercase;color:var(--red);margin-bottom:8px;display:flex;align-items:center;gap:8px;}
+.hero-label::before{content:'';width:18px;height:1px;background:var(--red);}
+.hero-art-title{font-family:'Oswald',sans-serif;font-size:38px;font-weight:700;line-height:.96;color:var(--ink);margin-bottom:12px;padding-bottom:12px;border-bottom:1px solid var(--rule);}
+.hero-excerpt{font-family:'Special Elite',cursive;font-size:13px;line-height:1.85;color:var(--ink-light);margin-bottom:10px;}
+.hero-meta{font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);display:flex;gap:10px;flex-wrap:wrap;}
+.hero-link{display:inline-block;margin-top:10px;font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--red);border-bottom:1px solid var(--red);padding-bottom:1px;}
+.file-panel{border:2px solid var(--ink);background:var(--paper-dark);padding:1rem;position:relative;}
+.file-panel-hdr{font-size:9px;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-muted);border-bottom:1px solid var(--rule);padding-bottom:7px;margin-bottom:10px;}
+.file-item{border-bottom:1px solid var(--rule);padding:9px 0;cursor:pointer;transition:opacity .12s;}
+.file-item:hover{opacity:.75;}
+.file-item:last-child{border-bottom:none;padding-bottom:0;}
+.file-title{font-family:'Special Elite',cursive;font-size:12px;line-height:1.45;color:var(--ink);margin-bottom:4px;}
+.file-meta{font-size:9px;color:var(--ink-faint);letter-spacing:.08em;}
+.stamp{position:absolute;top:8px;right:8px;transform:rotate(12deg);border:3px solid rgba(139,16,16,.65);padding:4px 9px;font-family:'Oswald',sans-serif;font-size:15px;color:rgba(139,16,16,.65);letter-spacing:.1em;pointer-events:none;}
+.tag{display:inline-block;font-size:7px;letter-spacing:.18em;text-transform:uppercase;padding:2px 6px;margin-bottom:6px;}
+.tag.red{background:var(--red);color:var(--red-light);}
+.tag.ink{background:var(--ink);color:var(--paper);}
+.tag.grn{background:var(--green);color:var(--green-light);}
+.tag.blu{background:var(--blue);color:var(--blue-light);}
+.tag.amb{background:var(--amber);color:#faeeda;}
+.tag.pur{background:var(--purple);color:var(--purple-light);}
+.articles-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--rule);border:2px solid var(--ink);margin-bottom:1.75rem;}
+.article-card{background:var(--paper);padding:1.1rem;cursor:pointer;transition:background .12s;}
+.article-card:hover{background:var(--paper-dark);}
+.art-num{font-family:'Oswald',sans-serif;font-size:38px;color:#c0b498;line-height:1;margin-bottom:-5px;font-weight:700;}
+.art-title{font-family:'Oswald',sans-serif;font-size:15px;font-weight:700;line-height:1.1;color:var(--ink);margin-bottom:7px;}
+.art-excerpt{font-family:'Special Elite',cursive;font-size:11px;line-height:1.7;color:#5a4e38;}
+.art-meta{font-size:9px;color:var(--ink-faint);letter-spacing:.08em;margin-top:8px;}
+.score-dots{display:flex;gap:3px;margin-top:6px;}
+.score-dot{width:8px;height:8px;border-radius:50%;background:var(--rule);}
+.score-dot.filled{background:var(--red);}
+.empty-state{font-family:'Special Elite',cursive;font-size:14px;color:var(--ink-muted);text-align:center;padding:3rem;grid-column:1/-1;letter-spacing:.05em;}
+.load-more{display:block;width:100%;background:var(--paper-dark);border:2px solid var(--ink);padding:12px;font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink);cursor:pointer;margin-bottom:1.75rem;transition:background .12s;}
+.load-more:hover{background:var(--ink);color:var(--paper);}
+.back-link{display:inline-block;font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--red);border-bottom:1px solid var(--red);padding-bottom:1px;margin-bottom:1.5rem;}
+.fauci-banner{background:var(--ink);padding:1.25rem 2rem;margin-bottom:1.75rem;display:grid;grid-template-columns:auto 1fr auto;gap:1.5rem;align-items:center;}
+.fauci-stamp{transform:rotate(-4deg);border:4px solid rgba(139,16,16,.8);padding:8px 14px;font-family:'Oswald',sans-serif;font-size:24px;color:rgba(139,16,16,.85);letter-spacing:.1em;line-height:1.1;text-align:center;white-space:nowrap;flex-shrink:0;}
+.fauci-head{font-family:'Oswald',sans-serif;font-size:18px;font-weight:700;color:#f0e0c0;margin-bottom:4px;}
+.fauci-sub{font-family:'Special Elite',cursive;font-size:12px;color:#8b7a60;line-height:1.6;}
+.fauci-btn{background:var(--red);color:var(--red-light);border:none;padding:10px 16px;font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;cursor:pointer;white-space:nowrap;text-decoration:none;display:inline-block;}
+footer{background:var(--ink);color:#5a4e3a;padding:1.25rem 2rem;display:flex;justify-content:space-between;align-items:center;font-size:9px;letter-spacing:.18em;text-transform:uppercase;flex-wrap:wrap;gap:.5rem;}
+footer a{color:#7a6e58;border-bottom:1px solid #3a3020;padding-bottom:1px;}
+footer a:hover{color:var(--red-light);}
+.loading{font-family:'Special Elite',cursive;font-size:13px;color:var(--ink-muted);text-align:center;padding:2rem;letter-spacing:.1em;grid-column:1/-1;}
+@media(max-width:768px){.masthead-grid{grid-template-columns:1fr;text-align:center;}.mast-side{display:none;}.hero-grid{grid-template-columns:1fr;}.file-panel{display:none;}.articles-grid{grid-template-columns:1fr 1fr;}.fauci-banner{grid-template-columns:1fr;}.fauci-stamp{display:none;}}
+</style>
+</head>
+<body>
 
+<div class="top-bar">
+  <span id="today-date">Science Silenced</span>
+  <span>What they buried — aggregated daily</span>
+</div>
+
+<div class="masthead">
+  <div class="masthead-grid">
+    <div class="mast-side">Suppressed research daily<br>Medical &amp; scientific<br>No pharma funding</div>
+    <div class="logo-wrap">
+      <span class="logo-science">Science</span>
+      <span class="logo-silenced">SILENCED</span>
+      <span class="logo-tag">The studies they didn't want you to read.</span>
+    </div>
+    <div class="mast-side right">No approved narratives<br>No pharma ads<br>No censored conclusions</div>
+  </div>
+  <nav class="main-nav">
+    <a href="index.html">Latest</a>
+    <a href="suppressed.html">Suppressed</a>
+    <a href="exposed.html" class="active">Exposed</a>
+    <a href="vindicated.html">Vindicated</a>
+    <a href="uncaged.html">Uncaged</a>
+    <a href="doesitwork.html">Does It Work</a>
+    <a href="fauci.html">Fauci Files</a>
+    <a href="podcasts.html">Podcasts</a>
+    <a href="videos.html">Videos</a>
+    <a href="archive.html">Archive</a>
+    <a href="about.html">About</a>
+    <a href="submit.html">Submit a Story &#8599;</a>
+  </nav>
+</div>
+
+<div class="ticker">
+  <span class="ticker-inner">&#9632;&nbsp; FDA withheld trial data &nbsp;&#9632;&nbsp; NIH killed the study &nbsp;&#9632;&nbsp; Researcher fired after publishing &nbsp;&#9632;&nbsp; Pharma buried negative trial &nbsp;&#9632;&nbsp; Grant denied — wrong conclusion &nbsp;&#9632;&nbsp; Vioxx — they knew &nbsp;&#9632;&nbsp; Study 329 — GSK hid teen antidepressant data &nbsp;&#9632;&nbsp; Opioid crisis — Purdue buried addiction data &nbsp;&#9632;&nbsp; FDA withheld trial data &nbsp;&#9632;&nbsp; NIH killed the study &nbsp;&#9632;&nbsp; Researcher fired after publishing &nbsp;&#9632;&nbsp; Pharma buried negative trial &nbsp;&#9632;&nbsp; Grant denied — wrong conclusion &nbsp;&#9632;&nbsp; Vioxx — they knew &nbsp;&#9632;&nbsp; Study 329 — GSK hid teen antidepressant data &nbsp;&#9632;&nbsp; Opioid crisis — Purdue buried addiction data &nbsp;</span>
+</div>
+
+<div class="page-hero">
+  <div class="hero-eyebrow">&#9632; Pillar 02 of 05</div>
+  <div class="hero-title"><span>Exposed.</span></div>
+  <div class="hero-sub">Pharma fraud. NIH capture. FDA corruption. The documented trail of institutional suppression — named individuals, FOIA documents, congressional testimony, and primary sources. Not opinion. The record.</div>
+  <div class="hero-stats">
+    <div><span class="hero-stat-num" id="stat-count">—</span><span class="hero-stat-label">Stories tracked</span></div>
+    <div><span class="hero-stat-num">$480K</span><span class="hero-stat-label">Fauci's peak salary</span></div>
+    <div><span class="hero-stat-num">$3B</span><span class="hero-stat-label">GSK DOJ settlement</span></div>
+  </div>
+</div>
+
+<main>
+  <a href="index.html" class="back-link">&#8592; Back to Latest</a>
+  <div class="updated" id="updated-time">Last updated: —</div>
+
+  <div class="section-label">Featured — Exposed</div>
+  <div class="hero-grid" id="hero-section">
+    <div class="loading">Loading...</div>
+  </div>
+
+  <div class="section-label">All Exposed Stories</div>
+  <div class="articles-grid" id="articles-grid">
+    <div class="loading">Loading...</div>
+  </div>
+  <button class="load-more" id="load-more-btn" style="display:none" onclick="loadMore()">Load More Stories &#8595;</button>
+
+  <div class="fauci-banner">
+    <div class="fauci-stamp">FAUCI<br>FILES</div>
+    <div>
+      <div class="fauci-head">38 Years. One Man. A Documented Trail of Suppression.</div>
+      <div class="fauci-sub">AIDS / AZT. Gain of Function. Lab Leak suppression. Beagle experiments. Six-foot rule invented. The full record — sourced, timestamped, primary documents only.</div>
+    </div>
+    <a href="fauci.html" class="fauci-btn">Enter the Files &#8594;</a>
+  </div>
+</main>
+
+<footer>
+  <span>ScienceSilenced.com &mdash; 2026</span>
+  <span>No pharma ads &nbsp;&#9632;&nbsp; No approved narratives &nbsp;&#9632;&nbsp; No permission needed</span>
+  <span><a href="about.html">About</a> &nbsp;&nbsp; <a href="submit.html">Submit a Story</a> &nbsp;&nbsp; <a href="mailto:info@sciencesilenced.com">Contact</a></span>
+</footer>
+
+<script>
+(function(){
+  const d=new Date();
+  const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('today-date').textContent=days[d.getDay()]+', '+months[d.getMonth()]+' '+d.getDate()+', '+d.getFullYear();
+})();
+
+const PILLAR='exposed';
+const PAGE_SIZE=6;
+let allArticles=[];
+let shown=0;
+
+function tagHTML(t){
+  const map={suppressed:'red',exposed:'ink',vindicated:'grn',uncaged:'amb','does-it-work':'blu',pharma:'red',nih:'ink',nutrition:'amb',psychiatry:'pur',replication:'blu'};
+  return `<span class="tag ${map[t]||'ink'}">${t.replace(/-/g,' ')}</span>`;
+}
+function scoreHTML(n){
+  let d='<div class="score-dots">';
+  for(let i=1;i<=5;i++) d+=`<div class="score-dot${i<=n?' filled':''}"></div>`;
+  return d+'</div>';
+}
+function renderHero(item){
+  document.getElementById('hero-section').innerHTML=`
+    <div>
+      <div class="hero-label">${item.category||'Exposed'}</div>
+      <div class="hero-art-title">${item.title}</div>
+      <p class="hero-excerpt">${item.summary}</p>
+      <div class="hero-meta">
+        <span>${item.age||item.date}</span><span>&mdash;</span><span>${item.source}</span>
+        ${item.topic?`<span>&mdash;</span><span>${item.topic}</span>`:''}
+      </div>
+      ${item.url?`<a href="${item.url}" target="_blank" rel="noopener" class="hero-link">Read Source &#8599;</a>`:''}
+      ${scoreHTML(item.suppression_score||5)}
+    </div>
+    <div class="file-panel">
+      <div class="stamp">EXPOSED</div>
+      <div class="file-panel-hdr">&#9632; Also Exposed</div>
+      ${allArticles.slice(1,4).map(a=>`
+        <div class="file-item" onclick="window.open('${a.url||'#'}','_blank')">
+          ${tagHTML(a.pillar||'exposed')}
+          <div class="file-title">${a.title}</div>
+          <div class="file-meta">${a.age||a.date} &mdash; ${a.source}</div>
+        </div>`).join('')}
+    </div>`;
+}
+function renderCards(items){
+  const el=document.getElementById('articles-grid');
+  if(!items.length){el.innerHTML='<div class="empty-state">No exposed stories found yet. The pipeline updates 4x daily.</div>';return;}
+  el.innerHTML=items.slice(0,shown).map((item,i)=>`
+    <div class="article-card" onclick="window.open('${item.url||'#'}','_blank')">
+      <div class="art-num">${String(i+1).padStart(2,'0')}</div>
+      ${tagHTML(item.pillar||'exposed')}
+      <div class="art-title">${item.title}</div>
+      <p class="art-excerpt">${(item.summary||'').substring(0,160)}...</p>
+      <div class="art-meta">${item.age||item.date} &mdash; ${item.source}</div>
+      ${scoreHTML(item.suppression_score||3)}
+    </div>`).join('');
+  document.getElementById('load-more-btn').style.display=shown<items.length?'block':'none';
+}
+function loadMore(){shown+=PAGE_SIZE;renderCards(allArticles);}
+async function loadAll(){
+  try{
+    const res=await fetch('news.json');
+    const data=await res.json();
+    const articles=(data.articles||data).sort((a,b)=>new Date(b.date)-new Date(a.date));
+    allArticles=articles.filter(a=>a.pillar===PILLAR);
+    document.getElementById('stat-count').textContent=allArticles.length||'—';
+    if(allArticles.length>0) renderHero(allArticles[0]);
+    else document.getElementById('hero-section').innerHTML='<div class="loading">Stories loading — pipeline runs 4x daily.</div>';
+    shown=PAGE_SIZE;
+    renderCards(allArticles);
+    const updated=data.updated||articles[0]?.date;
+    if(updated){
+      const d=new Date(updated);
+      document.getElementById('updated-time').textContent='Last updated: '+d.toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',hour:'2-digit',minute:'2-digit'});
+    }
+  }catch(e){
+    document.querySelectorAll('.loading').forEach(el=>el.textContent='Content loading shortly.');
+  }
+}
+loadAll();
+</script>
+</body>
+</html>
