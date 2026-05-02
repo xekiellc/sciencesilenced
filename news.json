@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-02T02:58:03.111190+00:00",
+  "updated": "2026-05-02T07:50:11.118371+00:00",
   "articles": [
+    {
+      "title": "Strawberry Compound Fisetin Crushes 'Zombie Cells' \u2014 Big Pharma Ignores Nature's Anti-Aging Breakthrough",
+      "summary": "Fisetin from strawberries eliminates senescent cells and reverses vascular aging, but don't expect pharma giants to promote this unpatentable natural compound. Studies show dramatic reductions in inflammation and restoration of youthful blood vessel function \u2014 ignored by the medical establishment pushing expensive synthetic drugs.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-01-study-strawberry-fisetin-reverses-aging-blood-vessels.html",
+      "date": "2026-05-01",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Cardiovascular",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Century-Long Medical Tyranny Exposed: From Flexner Report to FDA's War on Natural Healing",
+      "summary": "New manifesto documents how corporations and government systematically dismantled holistic medicine starting with the 1910 Flexner Report. The FDA's persecution of alternative therapies and suppression of naturopathy pioneers like Benedict Lust reveals a calculated campaign to monopolize healthcare.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-30-echoes-of-courage-a-manifesto-medical-tyranny.html",
+      "date": "2026-04-30",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Medical Freedom",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Oral Microbiome Predicts Lifespan \u2014 Medical Establishment Ignores Revolutionary Longevity Biomarker",
+      "summary": "Mouth bacteria correlations with aging, cancer, and heart disease prove oral health is a systemic health predictor, yet mainstream medicine treats it as separate. This groundbreaking research linking oral microbiome to lifespan gets buried while Big Pharma pushes expensive diagnostic tests.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-04-30-mouth-secret-oral-microbiome-predict-your-lifespan.html",
+      "date": "2026-04-30",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Preventive Medicine",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Senator Johnson Exposes Biden Officials' COVID Vaccine Safety Cover-Up",
+      "summary": "GOP Senator Ron Johnson grills Biden administration officials over suppressed COVID-19 vaccine safety signals at explosive hearing. The FDA and CDC's handling of adverse event data finally faces congressional scrutiny after years of censorship and denial.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/04/29/ron-johnson-covid-vaccine-safety-signals-biden-administration-fda-cdc/",
+      "date": "2026-04-29",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Vaccine Safety",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Star COVID Researcher Ralph Baric Scrubbed From NIH Grants \u2014 Gain-of-Function Cover-Up Intensifies",
+      "summary": "Ralph Baric, key figure in coronavirus gain-of-function research, suddenly removed from ALL NIH grants as cover-up campaign intensifies. His career now imperiled after his dangerous research ties to the pandemic became impossible to hide from investigators.",
+      "source": "Realclearinvestigations.com",
+      "url": "https://www.realclearinvestigations.com/articles/2026/04/28/covid_cover-up_campaign_to_hide_star_researcher_ralph_barics_ties_to_global_pandemic_1179562.html",
+      "date": "2026-04-28",
+      "pillar": "exposed",
+      "category": "Fauci / Gain of Function / Lab Leak",
+      "topic": "COVID Origins",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Fasting and Refeeding Supercharges T Cell Immunity \u2014 Nutrition Research Big Pharma Won't Touch",
+      "summary": "Groundbreaking Nature study proves fasting followed by refeeding durably enhances T cell function through immunometabolic reprogramming. This powerful nutritional intervention for immunity gets buried while pharma pushes expensive immunotherapy drugs with severe side effects.",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10432-8",
+      "date": "2026-04-29",
+      "pillar": "uncaged",
+      "category": "Nutrition Science",
+      "topic": "Immunology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "NIH's Greg Folkers Should Face Indictment for COVID Cover-Up Conspiracy",
+      "summary": "Brownstone Institute names NIH Deputy Director Greg Folkers as key architect of COVID origin cover-up who should face criminal charges. Folkers orchestrated the suppression of lab leak evidence and silencing of dissenting scientists during the pandemic response.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/the-next-indictment-should-be-against-greg-folkers/",
+      "date": "2026-04-29",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "COVID Origins",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Peer Review System Completely Broken \u2014 Academic Gatekeepers Suppress Inconvenient Science",
+      "summary": "Comprehensive takedown reveals how peer review has become a censorship tool to block research challenging establishment narratives. The academic gatekeeping system systematically suppresses innovative science while rubber-stamping politically acceptable mediocrity.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/peer-review-is-broken-heres-how-to-fix-it/",
+      "date": "2026-04-29",
+      "pillar": "exposed",
+      "category": "Replication Crisis",
+      "topic": "Scientific Publishing",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Natural Medicine Manifesto Exposes Century of Medical Tyranny \u2014 From Flexner Report to FDA Persecution",
       "summary": "New manifesto documents the systematic dismantling of holistic healing through corporate capture, tracing how the Flexner Report weaponized medical education to destroy naturopathy and alternative therapies. FDA persecution of natural healers continues this century-long campaign to eliminate competition to pharma profits.",
@@ -119,18 +215,6 @@
       "category": "Whistleblower",
       "topic": "COVID Origins",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Senator Johnson Exposes Biden Officials' COVID Vaccine Safety Cover-Up",
-      "summary": "GOP Senator Ron Johnson drags Biden administration officials into the hot seat over suppressed COVID vaccine safety signals. The CDC and FDA have been sitting on adverse event data while Americans suffered in silence\u2014classic regulatory capture in action.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/04/29/ron-johnson-covid-vaccine-safety-signals-biden-administration-fda-cdc/",
-      "date": "2026-04-29",
-      "pillar": "exposed",
-      "category": "CDC/FDA Corruption",
-      "topic": "Vaccine Safety",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -275,18 +359,6 @@
       "pillar": "uncaged",
       "category": "Metabolic Psychiatry",
       "topic": "Mental Health / Alternative Funding",
-      "suppression_score": 3
-    },
-    {
-      "title": "Rapamycin, Metformin, Senolytics: Cheap, Off-Patent, and Completely Ignored by NIH",
-      "summary": "Multiple cheap, off-patent compounds show dramatic longevity extension and disease reversal in animal models. The TAME trial had to be privately funded because NIH refuses to classify aging as a treatable condition. Pharma has no interest because none of these compounds can be patented.",
-      "source": "Aging Cell",
-      "url": "https://onlinelibrary.wiley.com/journal/14749726",
-      "date": "2026-04-27T16:00:00Z",
-      "age": "4 days ago",
-      "pillar": "uncaged",
-      "category": "Longevity Science",
-      "topic": "Aging / Alternative Funding",
       "suppression_score": 3
     }
   ]
