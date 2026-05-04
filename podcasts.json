@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-01T20:50:11.852008+00:00",
+  "updated": "2026-05-04T19:45:27.120664+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "WebMCP: teach Agents to browse your site",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/bpP2Qo0_-qU",
+      "date": "2026-05-04T15:43:25+00:00",
+      "age": "4 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "What is the Chrome DevTools MCP server",
