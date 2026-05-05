@@ -1,6 +1,26 @@
 {
-  "updated": "2026-05-04T19:45:27.120664+00:00",
+  "updated": "2026-05-05T19:26:56.055299+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Align and test your LLM judge",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/vsGqb7PL3-I",
+      "date": "2026-05-05T17:52:42+00:00",
+      "age": "1 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "When Google I/O prep gets exhausting, the Chrome Dino reminds us who we're building for \ud83e\udd96",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/8sSh0mG6nPg",
+      "date": "2026-05-05T15:30:00+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "WebMCP: teach Agents to browse your site",
