@@ -1,6 +1,36 @@
 {
-  "updated": "2026-05-06T03:30:18.473410+00:00",
+  "updated": "2026-05-08T03:27:22.894319+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Translator API: on-device translation made easy",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/PCQhSAQqnmc",
+      "date": "2026-05-08T00:27:11+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Build your AI testing pipeline",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/fPj-nOcUVyk",
+      "date": "2026-05-07T20:46:25+00:00",
+      "age": "6 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "What is Chrome's feature removal process",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/2OQ-gjH_8JA",
+      "date": "2026-05-07T20:00:39+00:00",
+      "age": "7 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "What is browser feature removal",
