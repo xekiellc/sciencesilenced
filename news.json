@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-13T08:49:57.739741+00:00",
+  "updated": "2026-05-13T14:42:40.562339+00:00",
   "articles": [
+    {
+      "title": "Parkinson's Disease Starts in the Gut \u2014 Big Pharma's Brain-Only Drug Model Exposed as Fraud",
+      "summary": "New research proves Parkinson's originates from misfolded proteins in the appendix and gut, traveling via vagus nerve years before symptoms appear. This gut-brain axis discovery demolishes the pharmaceutical industry's lucrative brain-focused treatment paradigm that has failed patients for decades.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-05-12-parkinsons-research-exposes-big-pharma-lie.html",
+      "date": "2026-05-12",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Neurology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Young Gut Bacteria Reverses Liver Aging \u2014 Mainstream Medicine Ignores Microbiome Revolution",
+      "summary": "Scientists successfully reversed liver aging in mice using preserved youthful gut bacteria, reducing inflammation and preventing liver cancer. This groundbreaking longevity research challenges the pharmaceutical industry's expensive drug-dependent aging model.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
+      "date": "2026-05-09",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Metabolic Research",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Tulsi Gabbard Exposes Pentagon's Secret 120+ Bioweapons Labs Worldwide",
+      "summary": "DNI Gabbard launches investigation into over 120 US-funded biological laboratories conducting risky viral experiments abroad. This probe threatens to expose decades of gain-of-function research hidden from public oversight and congressional accountability.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/11/us-news/dni-tulsi-gabbard-probes-us-funding-to-more-than-120-biolabs-abroad/",
+      "date": "2026-05-11",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Gain of Function",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Rand Paul's Final Push \u2014 Fauci Criminal Referral Expires as Statute of Limitations Runs Out",
+      "summary": "Senator Paul races against time as statute of limitations expires on Fauci's criminal referral for lying about gain-of-function research. The DOJ's inaction protects the architect of pandemic policies that killed millions while enriching Big Pharma.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/rand-paul-vows-keep-pressure-fauci-statute-limitations-criminal-referral-expires-monday",
+      "date": "2026-05-12",
+      "pillar": "suppressed",
+      "category": "Whistleblower",
+      "topic": "Gain of Function",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "WHO Building Global Vaccine Dictatorship \u2014 Gates Foundation Partnership Exposed",
+      "summary": "The World Health Organization constructs supranational vaccine authorization mechanism in partnership with Bill Gates, bypassing national sovereignty. This creates a global pharmaceutical cartel with power to mandate experimental treatments without democratic oversight.",
+      "source": "Global Research",
+      "url": "https://www.globalresearch.ca/who-supranational-vaccine-authorization-mechanism/5925947",
+      "date": "2026-05-11",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Vaccine Policy",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Irish Health Service Demands Silence from Parents of Children Poisoned by Antipsychotics",
+      "summary": "Ireland's HSE requested parents sign non-disclosure agreements after vulnerable children were wrongly prescribed dangerous antipsychotic drugs at North Kerry CAMHS. The health authority prioritized reputation management over accountability for psychiatric medication harm.",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.com/news/article-15804595/Shameful-request-HSE-desperate-parents-vulnerable-children-WRONGLY-prescribed-anti-psychotic-drugs.html",
+      "date": "2026-05-11",
+      "pillar": "exposed",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Near-Infrared Light Triggers Brain Melatonin Production \u2014 Medical Establishment Ignores Non-Drug Breakthrough",
+      "summary": "Research reveals near-infrared light absorbed by mitochondria produces local melatonin in the brain, offering neuroprotective benefits independent of sleep cycles. This non-pharmaceutical approach to brain health threatens the medical industry's drug-dependent treatment model.",
+      "source": "Global Research",
+      "url": "https://www.globalresearch.ca/optimizing-brain-biology-near-infrared-induced-mitochondrial-melatonin-synthesis/5925854",
+      "date": "2026-05-11",
+      "pillar": "uncaged",
+      "category": "Suppressed Research",
+      "topic": "Neurology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "RNA Imbalance Identified as Key Driver of Cellular Aging \u2014 Nature Study Challenges Anti-Aging Industry",
+      "summary": "Nature publishes groundbreaking research identifying RNA imbalance as fundamental hallmark of cellular aging, challenging the pharmaceutical industry's expensive supplement-based anti-aging paradigm. This research points to molecular mechanisms ignored by mainstream longevity medicine.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41556-026-01946-4",
+      "date": "2026-05-10",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Cellular Biology",
+      "suppression_score": 2,
+      "age": ""
+    },
     {
       "title": "Parkinson's Gut Connection Proves Big Pharma's Brain-First Model is a Billion-Dollar Lie",
       "summary": "Groundbreaking research exposes that Parkinson's originates in the gut and appendix, not the brain, demolishing decades of pharma's symptom-focused treatments. The alpha-synuclein protein spreads via the vagus nerve years before motor symptoms, yet Big Pharma continues pushing dopamine drugs instead of addressing root causes.",
@@ -134,18 +230,6 @@
       "age": ""
     },
     {
-      "title": "Irish Health Service Demands Silence from Parents of Children Poisoned by Antipsychotics",
-      "summary": "Ireland's HSE made shameful requests to desperate parents whose vulnerable children were wrongly prescribed dangerous antipsychotic drugs. The health service prioritized covering up psychiatric medication harm over protecting children's lives.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15804595/Shameful-request-HSE-desperate-parents-vulnerable-children-WRONGLY-prescribed-anti-psychotic-drugs.html",
-      "date": "2026-05-11",
-      "pillar": "exposed",
-      "category": "Psychiatry",
-      "topic": "Mental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
       "title": "FDA Crushes ImmunityBio Cancer Claims, $2 Billion Market Cap Evaporates Overnight",
       "summary": "The FDA flagged ImmunityBio for misleading cancer treatment claims, triggering a 21% stock plunge and $2 billion in losses. Another biotech promising miracle cures exposed as hype-driven fraud preying on desperate patients.",
       "source": "PRNewswire",
@@ -274,90 +358,6 @@
       "pillar": "uncaged",
       "category": "Alternative Medicine",
       "topic": "Neurology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "One-Size-Fits-All Medicine Ignores Sex Differences in Immune Aging \u2014 Patients Pay the Price",
-      "summary": "Major study reveals men and women age immunologically in completely different ways, yet medical establishment continues dangerous one-size-fits-all treatment protocols. Decades of ignoring biological sex differences to serve standardized pharmaceutical dosing schedules.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003763",
-      "date": "2026-05-11",
-      "pillar": "exposed",
-      "category": "Replication Crisis",
-      "topic": "Immunology",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Fauci's Perjury Clock Runs Out \u2014 DOJ Lets America's Top COVID Liar Walk Free",
-      "summary": "The five-year statute of limitations expires on Anthony Fauci's criminal perjury referral for lying to Congress about gain-of-function research. Despite Sen. Rand Paul's urgent push for prosecution, the DOJ appears ready to let America's most documented COVID coverup artist escape justice completely.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/rand-paul-vows-keep-pressure-fauci-statute-limitations-criminal-referral-expires-monday",
-      "date": "2026-05-11",
-      "pillar": "exposed",
-      "category": "Fauci/Gain-of-Function",
-      "topic": "COVID Origins",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Three Days Left to Nail Fauci \u2014 Will America's Justice System Prove Completely Captured?",
-      "summary": "With just three days before the statute of limitations expires, Anthony Fauci faces his final window for prosecution over perjury to Congress. The looming deadline exposes whether the DOJ has any independence left or if public health's biggest liar will walk free.",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/3-days-left-prosecute-anthony-fauci/5925694",
-      "date": "2026-05-11",
-      "pillar": "exposed",
-      "category": "Fauci/Gain-of-Function",
-      "topic": "COVID Origins",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Young Gut Bacteria Reverses Liver Aging \u2014 Why Isn't This Longevity Breakthrough Front Page News?",
-      "summary": "Researchers successfully reversed liver aging in mice using preserved youthful gut bacteria, reducing inflammation and potentially preventing liver cancer. This stunning anti-aging discovery using microbiome restoration gets buried while Big Pharma pushes expensive interventions with far weaker evidence.",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
-      "date": "2026-05-09",
-      "pillar": "suppressed",
-      "category": "Longevity",
-      "topic": "Anti-Aging",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Near-Infrared Light Triggers Brain's Own Melatonin Factory \u2014 Natural Neuroprotection They Don't Want You to Know",
-      "summary": "Groundbreaking research reveals near-infrared light absorbed by mitochondria triggers local melatonin production, creating powerful antioxidant cascades for neuroprotection. This natural, accessible brain optimization method threatens the psychiatric pharmaceutical complex's stranglehold on mental health solutions.",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/optimizing-brain-biology-near-infrared-induced-mitochondrial-melatonin-synthesis/5925854",
-      "date": "2026-05-11",
-      "pillar": "uncaged",
-      "category": "Wellness Practices",
-      "topic": "Neurology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Ancient Ayurvedic Formula Gets Rigorous Clinical Trial While FDA Ignores Traditional Medicine",
-      "summary": "Researchers launch double-blind, placebo-controlled trial of Trikatu for dyslipidemia, investigating gut microbiota effects alongside lipid parameters. Meanwhile, the FDA continues its systematic suppression of traditional medicine despite growing evidence of efficacy and better safety profiles than statins.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348058",
-      "date": "2026-05-11",
-      "pillar": "vindicated",
-      "category": "Alternative Medicine",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Hormone Therapy's 60% Disease Risk Reduction \u2014 Why Your Doctor Won't Tell You the Optimal Timing",
-      "summary": "New longevity research reveals hormone therapy can lower disease risk by 60% when started at the right age. The medical establishment's hormone phobia, driven by flawed studies and liability fears, continues denying women life-extending treatments with proven benefits.",
-      "source": "mindbodygreen.com",
-      "url": "https://www.mindbodygreen.com/articles/age-when-hormone-therapy-has-biggest-impact-on-longevity-inside-the-study",
-      "date": "2026-05-11",
-      "pillar": "suppressed",
-      "category": "Longevity",
-      "topic": "Hormone Health",
       "suppression_score": 4,
       "age": ""
     }
