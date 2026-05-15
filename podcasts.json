@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-15T03:46:44.306019+00:00",
+  "updated": "2026-05-15T19:43:08.195631+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "How to test web platforms with Chrome Dev",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Meb87FCisHo",
+      "date": "2026-05-15T16:00:18+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Build an expert LLM judge",
