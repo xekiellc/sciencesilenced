@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-17T03:46:18.019361+00:00",
+  "updated": "2026-05-17T08:25:44.203395+00:00",
   "articles": [
+    {
+      "title": "FDA Blocks Promising Melanoma Drug as Makary Inherits Agency Chaos",
+      "summary": "FDA bureaucrats blocked a genetically engineered melanoma treatment that shrank tumors in a third of clinical trial patients. The suppression happened under previous leadership, exposing the agency's pattern of burying breakthrough therapies that threaten established cancer treatment protocols.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fda-blocked-melanoma-drug-under-makary/",
+      "date": "2026-05-15",
+      "pillar": "suppressed",
+      "category": "FDA Capture",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "25-Year Government Fraud Buried Hyperbaric Therapy for Veterans",
+      "summary": "Government-funded research deliberately used biologically active placebos that increased stem cells by 300%, corrupting decades of hyperbaric therapy data. This multimillion-dollar fraud kept proven healing treatments from wounded veterans who desperately needed them.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-05-14-fraud-keeps-hyperbaric-therapy-from-healing-veterans.html",
+      "date": "2026-05-14",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Neurological",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "UNC's Hidden Role in COVID Origins Finally Under Scrutiny",
+      "summary": "North Carolina's flagship university may have played a direct role in COVID research origins, funded by taxpayer dollars. After years of stonewalling, investigators are finally demanding answers about UNC's gain-of-function collaboration.",
+      "source": "American Thinker",
+      "url": "https://www.americanthinker.com/articles/2026/05/what_role_did_unc_play_in_covid.html",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Gain of Function",
+      "topic": "Viral Origins",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "FDA Flags Cancer Company for False Claims After $2B Market Cap Wipeout",
+      "summary": "ImmunityBio faces lawsuits after FDA finally flagged their misleading cancer treatment claims, causing shares to plunge 21%. The agency's delayed response cost investors billions while patients were misled about unproven therapies.",
+      "source": "Globe Newswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/15/3296006/32716/en/IBRX-INVESTOR-NOTICE-ImmunityBio-IBRX-Facing-Lawsuit-After-FDA-Flags-Misleading-Cancer-Claims-Shares-Plunge-21-2B-Market-Cap-Lost-Hagens-Berman.html",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Texas Hospital Secretly Continued Child Sex Changes Despite State Ban",
+      "summary": "Texas Children's Hospital allegedly performed sex-rejection procedures on minors even after Texas law prohibited them, with Governor Abbott calling such interventions child abuse. The hospital finally agreed to end the procedures and fund a detransition clinic.",
+      "source": "EWTN News",
+      "url": "https://www.ewtnnews.com/world/us/texas-hospital-agrees-to-end-pediatric-sex-rejecting-procedures-and-fund-detransition-clinic",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Medical Ethics",
+      "topic": "Pediatric Care",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "AI Research Papers Flood Academic Journals, Corrupting Peer Review",
+      "summary": "AI-generated research papers are overwhelming scientific journals with fake citations and manufactured data, creating a crisis in peer review. The corruption threatens the entire foundation of evidence-based medicine as junk studies proliferate unchecked.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Replication Crisis",
+      "topic": "Research Integrity",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "COVID Excess Mortality Data Reveals Devastating Truth About Pandemic Response",
+      "summary": "Analysis of 2020-2025 excess mortality data exposes eight pivotal facts about COVID-period deaths that contradict official narratives. The comprehensive review challenges fundamental assumptions about pandemic interventions and their deadly consequences.",
+      "source": "Global Research",
+      "url": "https://www.globalresearch.ca/eight-pivotal-facts-covid-period-excess-mortality/5926530",
+      "date": "2026-05-15",
+      "pillar": "vindicated",
+      "category": "COVID Response",
+      "topic": "Public Health",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Federal Probe Exposes Taxpayer Funding of Child Gender Transitions",
+      "summary": "Senate Republicans launch investigation into whether federal dollars illegally fund gender transition procedures on minors and legal defenses for providers. The probe targets federally funded health providers secretly offering banned services to children.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/new-federal-probe-examines-whether-taxpayer-dollars-fund-child-gender-transitions-legal-defenses",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Medical Ethics",
+      "topic": "Pediatric Care",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Makary's FDA Blocks Melanoma Drug Despite 33% Tumor Shrinkage Rate",
       "summary": "The FDA under new leadership blocked a promising melanoma treatment called RP1 that showed one-third of patients experiencing tumor shrinkage in clinical trials. The agency's decision reveals the same bureaucratic roadblocks that have plagued cancer treatment access for decades.",
@@ -23,18 +119,6 @@
       "category": "Research Fraud",
       "topic": "Mental Health",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "UNC's Hidden Role in COVID Origins Finally Under Scrutiny",
-      "summary": "North Carolina taxpayers funded gain-of-function research at UNC that may have contributed to COVID-19's creation. The university's connections to the Wuhan lab and NIH funding streams are finally being investigated after years of institutional cover-up.",
-      "source": "American Thinker",
-      "url": "https://www.americanthinker.com/articles/2026/05/what_role_did_unc_play_in_covid.html",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "Gain of Function",
-      "topic": "Virology",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Pharmaceutical Harm",
       "topic": "Cardiovascular",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "COVID Excess Mortality Truth Buried \u2014 Eight Pivotal Facts Establishment Won't Discuss",
-      "summary": "Comprehensive analysis reveals suppressed data on 2020-2025 excess mortality patterns that contradict official COVID narratives. Critical facts about pandemic-period deaths systematically hidden from public discourse.",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/eight-pivotal-facts-covid-period-excess-mortality/5926530",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "COVID Suppression",
-      "topic": "Mortality Data",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Government Buried 25-Year Hyperbaric Therapy Fraud That Denies Veterans Life-Saving Treatment",
-      "summary": "For over 25 years, government-funded hyperbaric medicine research deliberately used biologically active placebos that generate 300% stem cell increases, corrupting all data to suppress veteran treatment options. This systematic fraud keeps proven healing therapy from wounded warriors while protecting pharmaceutical interests.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-14-fraud-keeps-hyperbaric-therapy-from-healing-veterans.html",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "Research Fraud",
-      "topic": "Veterans Health",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "98.8% of Americans Contaminated With Cancer-Linked PFAS While EPA Sits Idle",
-      "summary": "New study reveals toxic 'forever chemicals' PFAS found in nearly all U.S. blood samples, with most carrying five or more cancer-causing variants. Federal regulators continue their deadly delay tactics while corporate polluters escape accountability.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-14-toxic-pfas-blood-samples-federal-inaction.html",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "Regulatory Capture",
-      "topic": "Environmental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Big Pharma's Anticholinergic Death Trap Hidden in Your Medicine Cabinet",
-      "summary": "Everyday drugs for allergies, depression, and sleep disorders block acetylcholine and dramatically increase cardiovascular disease risk. The medical establishment continues pushing these heart-damaging medications while burying the mounting evidence of harm.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/05/14/anticholinergic-drugs-cardiovascular-disease.aspx",
-      "date": "2026-05-14",
-      "pillar": "suppressed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "CIA Whistleblower Exposes Fauci's COVID Origins Cover-Up in Senate Bombshell",
-      "summary": "Decorated CIA officer testifies that Anthony Fauci deliberately manipulated intelligence community analyses, steering investigators away from lab leak evidence toward predetermined natural origin conclusions. The deep state conspiracy to hide COVID's true origins finally exposed.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/rand-paul-brings-cia-whistleblower-senate-hearing-alleging-deep-state-covid-19-conspiracy",
-      "date": "2026-05-14",
-      "pillar": "vindicated",
-      "category": "Whistleblower",
-      "topic": "COVID Origins",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "University of North Carolina's Dirty Role in COVID Creation Finally Under Scrutiny",
-      "summary": "North Carolina taxpayers demand answers about their flagship university's involvement in gain-of-function research that may have created the pandemic. UNC's collaboration with Wuhan lab and federal funding of dangerous viral research faces long-overdue investigation.",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/articles/2026/05/what_role_did_unc_play_in_covid.html",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "Research Corruption",
-      "topic": "Gain of Function",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Biden Administration Hid FDA Doctors' Reports Linking COVID Shots to Child Deaths",
-      "summary": "Federal officials deliberately suppressed internal FDA documents showing doctors linked pediatric fatalities to COVID-19 injections. The administration concealed these deadly connections from the public while mandating shots for children.",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/05/they-never-told-public-biden-concealed-fact-fda/",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "FDA Corruption",
-      "topic": "Vaccine Safety",
-      "suppression_score": 5,
       "age": ""
     }
   ]
