@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-17T13:27:51.978512+00:00",
+  "updated": "2026-05-17T19:14:33.366058+00:00",
   "articles": [
+    {
+      "title": "FDA Blocks Promising Melanoma Drug While One-Third of Patients See Tumor Shrinkage",
+      "summary": "The FDA blocked a genetically engineered melanoma treatment called RP1 despite clinical trial data showing tumors shrank in a third of patients. The agency's interference under Makary demonstrates the familiar pattern of regulatory capture blocking patient access to potentially life-saving treatments.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fda-blocked-melanoma-drug-under-makary/",
+      "date": "2026-05-14",
+      "pillar": "suppressed",
+      "category": "FDA Capture",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "25-Year Government Fraud: Corrupted Hyperbaric Therapy Research Denies Veterans Healing",
+      "summary": "For over 25 years, government-funded hyperbaric medicine research used a biologically active placebo that generates 300% increases in circulating stem cells, corrupting all trial data. This multimillion-dollar fraud has systematically blocked veterans from accessing proven hyperbaric oxygen therapy for PTSD and brain injuries.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-05-14-fraud-keeps-hyperbaric-therapy-from-healing-veterans.html",
+      "date": "2026-05-14",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Neurology",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "UNC's Hidden Role in COVID Origins: What North Carolina Taxpayers Weren't Told",
+      "summary": "North Carolina's flagship public university may have played an undisclosed role in COVID research, yet taxpayers and families remain in the dark. The investigation reveals another layer of institutional cover-up surrounding gain-of-function research and pandemic origins.",
+      "source": "American Thinker",
+      "url": "https://www.americanthinker.com/articles/2026/05/what_role_did_unc_play_in_covid.html",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Fauci / Gain of Function",
+      "topic": "Virology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Autism-Vaccine Researcher Arraigned as Medical Literature Plagued by Fake Studies",
+      "summary": "An autism-vaccine researcher faces criminal charges while 'accidental watermarks' expose widespread fraud in medical literature. Mass resignations hit zombie journals as the replication crisis deepens, revealing the systematic corruption of medical publishing.",
+      "source": "Retraction Watch",
+      "url": "https://retractionwatch.com/2026/05/16/weekend-reads-autism-vaccine-researcher-arraigned-accidental-watermarks-in-medical-literature-mass-resignations-and-zombie-journals/",
+      "date": "2026-05-16",
+      "pillar": "exposed",
+      "category": "Replication Crisis",
+      "topic": "Medical Publishing",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Texas Hospital Secretly Continued Child Sex-Change Surgeries Despite State Ban",
+      "summary": "Texas Children's Hospital doctors allegedly performed procedures on children despite Texas law prohibiting such interventions, with Governor Abbott calling them 'child abuse.' The hospital has now agreed to end the procedures and fund a detransition clinic, exposing systematic defiance of child protection laws.",
+      "source": "EWTN News",
+      "url": "https://www.ewtnnews.com/world/us/texas-hospital-agrees-to-end-pediatric-sex-rejecting-procedures-and-fund-detransition-clinic",
+      "date": "2026-05-14",
+      "pillar": "exposed",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "FDA Slams ImmunityBio for Unsupported Cancer Claims, Stock Crashes 21%",
+      "summary": "The FDA issued warnings against ImmunityBio for allegedly misleading cancer treatment claims, wiping out $2 billion in market cap. The regulatory action exposes how biotech companies manipulate data and mislead investors about treatment efficacy while patients suffer.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/ibrx-12-day-deadline-alert-immunitybio-ibrx-investors-face-losses-amid-fda-warning-regarding-unsupported-cancer-treatment-claims----hagens-berman-302772615.html",
+      "date": "2026-05-14",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Federal Probe Targets Taxpayer-Funded Child Gender Transitions and Legal Cover-Ups",
+      "summary": "Republican Senate health committee chairman demands answers from federally funded health providers allegedly offering gender transition services to minors. The probe reveals how taxpayer dollars fund both harmful procedures and the legal defenses protecting them from scrutiny.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/new-federal-probe-examines-whether-taxpayer-dollars-fund-child-gender-transitions-legal-defenses",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Eight Pivotal Facts Expose COVID-Era Excess Mortality Cover-Up",
+      "summary": "New analysis reveals eight critical facts about 2020-2025 excess mortality that authorities have systematically ignored or suppressed. The data exposes how public health agencies buried inconvenient death statistics that contradict official pandemic narratives.",
+      "source": "Global Research",
+      "url": "https://www.globalresearch.ca/eight-pivotal-facts-covid-period-excess-mortality/5926530",
+      "date": "2026-05-15",
+      "pillar": "vindicated",
+      "category": "CDC Corruption",
+      "topic": "Epidemiology",
+      "suppression_score": 5,
+      "age": ""
+    },
     {
       "title": "FDA Blocks Promising Melanoma Drug as New Director Makary Faces First Test",
       "summary": "The FDA blocked a genetically engineered melanoma treatment that shrank tumors in a third of clinical trial patients. This early decision under Makary reveals whether the agency will continue protecting Big Pharma's market monopolies over actual patient outcomes.",
@@ -83,18 +179,6 @@
       "category": "Whistleblower",
       "topic": "Mental Health",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Eight Pivotal Facts Expose COVID-Era Excess Mortality Cover-Up",
-      "summary": "New analysis reveals eight critical facts about 2020-2025 excess mortality that health authorities refuse to acknowledge. The data exposes systematic suppression of deaths potentially linked to interventions rather than the virus itself.",
-      "source": "Global Research",
-      "url": "https://www.globalresearch.ca/eight-pivotal-facts-covid-period-excess-mortality/5926530",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "CDC Capture",
-      "topic": "Epidemiology",
-      "suppression_score": 5,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Medical Fraud",
       "topic": "Alternative Medicine",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "CIA Whistleblower Exposes Fauci's COVID Origins Cover-Up \u2014 Intelligence Community Corrupted",
-      "summary": "Decorated CIA officer testified that Anthony Fauci deliberately manipulated intelligence analyses on COVID-19 origins, steering investigators away from lab leak theory. The deep state's corruption of pandemic investigations is finally being exposed in Senate hearings.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/rand-paul-brings-cia-whistleblower-senate-hearing-alleging-deep-state-covid-19-conspiracy",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "Whistleblower",
-      "topic": "COVID Origins",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "UNC's Secret Role in COVID Creation \u2014 Taxpayer-Funded Gain-of-Function Research Exposed",
-      "summary": "North Carolina's flagship university may have played a direct role in COVID-19 research that led to the pandemic. Taxpayers funded the very gain-of-function research that potentially created the virus that destroyed their lives and economy.",
-      "source": "American Thinker",
-      "url": "https://www.americanthinker.com/articles/2026/05/what_role_did_unc_play_in_covid.html",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "Gain of Function",
-      "topic": "COVID Origins",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "FDA Targets Cancer Company for Telling Truth About Treatment Success \u2014 ImmunityBio Destroyed",
-      "summary": "ImmunityBio faces FDA persecution and $2 billion market cap loss after agency flags 'misleading cancer claims' about their treatments. The regulatory capture continues as FDA protects Big Pharma profits by destroying innovative cancer therapies.",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/15/3296006/32716/en/IBRX-INVESTOR-NOTICE-ImmunityBio-IBRX-Facing-Lawsuit-After-FDA-Flags-Misleading-Cancer-Claims-Shares-Plunge-21-2B-Market-Cap-Lost-Hagens-Berman.html",
-      "date": "2026-05-15",
-      "pillar": "suppressed",
-      "category": "FDA Capture",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Biden Administration Hid FDA Doctors' Reports Linking Child Deaths to COVID Shots",
-      "summary": "Federal officials concealed the fact that FDA doctors directly linked pediatric deaths to COVID-19 vaccines, never informing the public. The Biden administration's deliberate suppression of child fatality data represents criminal negligence.",
-      "source": "WND",
-      "url": "https://www.wnd.com/2026/05/they-never-told-public-biden-concealed-fact-fda/",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "Vaccine Safety",
-      "topic": "Pediatric Health",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "COVID Excess Deaths Reveal Deadly Truth \u2014 Eight Facts the System Won't Acknowledge",
-      "summary": "Pivotal analysis exposes the real story behind COVID-period excess mortality from 2020-2025 that health authorities refuse to discuss. The data reveals systematic failures and cover-ups that cost countless lives.",
-      "source": "Global Research",
-      "url": "https://www.globalresearch.ca/eight-pivotal-facts-covid-period-excess-mortality/5926530",
-      "date": "2026-05-15",
-      "pillar": "vindicated",
-      "category": "COVID Analysis",
-      "topic": "Mortality Data",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Globalist Control Matrix Exposed \u2014 Century-Long Agenda to Poison and Enslave Humanity",
-      "summary": "New analysis reveals coordinated century-long agenda by globalist oligarchs, Big Pharma, and agencies like FDA and CDC designed to suppress human freedom through systematic poisoning and financial enslavement. The system's war against humanity is finally being documented.",
-      "source": "Natural News",
-      "url": "https://www.naturalnews.com/2026-05-13-the-system-hates-you-reclaiming-mind-body-freedom.html",
-      "date": "2026-05-13",
-      "pillar": "uncaged",
-      "category": "System Corruption",
-      "topic": "Global Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "FDA Blocks Breakthrough Melanoma Drug \u2014 Agency Sabotages Cancer Treatment Under Makary",
-      "summary": "FDA blocked a promising melanoma treatment showing 33% tumor shrinkage in trials, demonstrating how regulatory capture kills patients. Even under supposed reformer Makary, the agency continues prioritizing politics over life-saving therapies.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/fda-blocked-melanoma-drug-under-makary/",
-      "date": "2026-05-14",
-      "pillar": "suppressed",
-      "category": "FDA Capture",
-      "topic": "Oncology",
-      "suppression_score": 4,
       "age": ""
     }
   ]
