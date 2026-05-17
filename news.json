@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-17T08:25:44.203395+00:00",
+  "updated": "2026-05-17T13:27:51.978512+00:00",
   "articles": [
+    {
+      "title": "FDA Blocks Promising Melanoma Drug as New Director Makary Faces First Test",
+      "summary": "The FDA blocked a genetically engineered melanoma treatment that shrank tumors in a third of clinical trial patients. This early decision under Makary reveals whether the agency will continue protecting Big Pharma's market monopolies over actual patient outcomes.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fda-blocked-melanoma-drug-under-makary/",
+      "date": "2026-05-15",
+      "pillar": "suppressed",
+      "category": "FDA Capture",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "25 Years of Fraudulent Hyperbaric Research Denied Veterans Life-Saving Treatment",
+      "summary": "Government-funded hyperbaric medicine studies deliberately used biologically active placebos that generated 300% increases in stem cells, corrupting all data for over two decades. This systematic fraud kept effective PTSD and brain injury treatments from wounded warriors while enriching pharmaceutical alternatives.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-05-14-fraud-keeps-hyperbaric-therapy-from-healing-veterans.html",
+      "date": "2026-05-14",
+      "pillar": "exposed",
+      "category": "Research Fraud",
+      "topic": "Neurology",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "UNC's Secret Role in COVID Origins Finally Under Scrutiny",
+      "summary": "North Carolina's flagship university may have played a direct role in the research that led to COVID-19, yet taxpayers remain in the dark. The gain-of-function connection between UNC and Wuhan lab collaborations demands full disclosure.",
+      "source": "American Thinker",
+      "url": "https://www.americanthinker.com/articles/2026/05/what_role_did_unc_play_in_covid.html",
+      "date": "2026-05-15",
+      "pillar": "uncaged",
+      "category": "Gain of Function",
+      "topic": "Virology",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Autism-Vaccine Researcher Arraigned While Medical Literature Plagued by Fraud",
+      "summary": "A researcher investigating autism-vaccine connections faces criminal charges while 'accidental watermarks' expose widespread plagiarism in medical journals. Mass resignations and zombie journals reveal the systematic corruption destroying scientific integrity.",
+      "source": "Retraction Watch",
+      "url": "https://retractionwatch.com/2026/05/16/weekend-reads-autism-vaccine-researcher-arraigned-accidental-watermarks-in-medical-literature-mass-resignations-and-zombie-journals/",
+      "date": "2026-05-16",
+      "pillar": "exposed",
+      "category": "Replication Crisis",
+      "topic": "Research Integrity",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Texas Hospital Secretly Continued Child Sex Changes Despite State Ban",
+      "summary": "Texas Children's Hospital allegedly performed gender transition procedures on minors in direct violation of state law, with Governor Abbott calling such interventions 'child abuse.' The hospital now agrees to fund detransition clinics after being caught.",
+      "source": "EWTN News",
+      "url": "https://www.ewtnnews.com/world/us/texas-hospital-agrees-to-end-pediatric-sex-rejecting-procedures-and-fund-detransition-clinic",
+      "date": "2026-05-15",
+      "pillar": "vindicated",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "ImmunityBio Loses $2 Billion After FDA Exposes Fraudulent Cancer Claims",
+      "summary": "The FDA finally flagged ImmunityBio's misleading cancer treatment claims, causing shares to plunge 21% and wiping out $2 billion in market cap. Investors face a class action lawsuit over the company's allegedly deceptive financial statements regarding unsupported treatments.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/15/3296006/32716/en/IBRX-INVESTOR-NOTICE-ImmunityBio-IBRX-Facing-Lawsuit-After-FDA-Flags-Misleading-Cancer-Claims-Shares-Plunge-21-2B-Market-Cap-Lost-Hagens-Berman.html",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Federal Probe Exposes Taxpayer Funding of Child Gender Transitions",
+      "summary": "Senate health committee chairman demands answers from federally funded providers allegedly offering gender transition services to minors. The investigation reveals how taxpayer dollars secretly fund both the procedures and legal defenses for providers violating state laws.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/new-federal-probe-examines-whether-taxpayer-dollars-fund-child-gender-transitions-legal-defenses",
+      "date": "2026-05-15",
+      "pillar": "uncaged",
+      "category": "Whistleblower",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Eight Pivotal Facts Expose COVID-Era Excess Mortality Cover-Up",
+      "summary": "New analysis reveals eight critical facts about 2020-2025 excess mortality that health authorities refuse to acknowledge. The data exposes systematic suppression of deaths potentially linked to interventions rather than the virus itself.",
+      "source": "Global Research",
+      "url": "https://www.globalresearch.ca/eight-pivotal-facts-covid-period-excess-mortality/5926530",
+      "date": "2026-05-15",
+      "pillar": "exposed",
+      "category": "CDC Capture",
+      "topic": "Epidemiology",
+      "suppression_score": 5,
+      "age": ""
+    },
     {
       "title": "FDA Blocks Promising Melanoma Drug as Makary Inherits Agency Chaos",
       "summary": "FDA bureaucrats blocked a genetically engineered melanoma treatment that shrank tumors in a third of clinical trial patients. The suppression happened under previous leadership, exposing the agency's pattern of burying breakthrough therapies that threaten established cancer treatment protocols.",
@@ -50,18 +146,6 @@
       "age": ""
     },
     {
-      "title": "Texas Hospital Secretly Continued Child Sex Changes Despite State Ban",
-      "summary": "Texas Children's Hospital allegedly performed sex-rejection procedures on minors even after Texas law prohibited them, with Governor Abbott calling such interventions child abuse. The hospital finally agreed to end the procedures and fund a detransition clinic.",
-      "source": "EWTN News",
-      "url": "https://www.ewtnnews.com/world/us/texas-hospital-agrees-to-end-pediatric-sex-rejecting-procedures-and-fund-detransition-clinic",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "Medical Ethics",
-      "topic": "Pediatric Care",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
       "title": "AI Research Papers Flood Academic Journals, Corrupting Peer Review",
       "summary": "AI-generated research papers are overwhelming scientific journals with fake citations and manufactured data, creating a crisis in peer review. The corruption threatens the entire foundation of evidence-based medicine as junk studies proliferate unchecked.",
       "source": "The Verge",
@@ -83,18 +167,6 @@
       "category": "COVID Response",
       "topic": "Public Health",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Federal Probe Exposes Taxpayer Funding of Child Gender Transitions",
-      "summary": "Senate Republicans launch investigation into whether federal dollars illegally fund gender transition procedures on minors and legal defenses for providers. The probe targets federally funded health providers secretly offering banned services to children.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/new-federal-probe-examines-whether-taxpayer-dollars-fund-child-gender-transitions-legal-defenses",
-      "date": "2026-05-15",
-      "pillar": "exposed",
-      "category": "Medical Ethics",
-      "topic": "Pediatric Care",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -287,78 +359,6 @@
       "category": "FDA Capture",
       "topic": "Oncology",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Government Fraud Keeps Hyperbaric Therapy from Veterans \u2014 25-Year Cover-Up Exposed",
-      "summary": "For over 25 years, government-funded hyperbaric medicine research deliberately used biologically active placebos that generate 300% stem cell increases, corrupting all data. This multimillion-dollar fraud denies healing treatments to wounded veterans.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-14-fraud-keeps-hyperbaric-therapy-from-healing-veterans.html",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Veterans Health",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "98.8% of Americans Poisoned by PFAS \u2014 Federal Agencies Ignore Mass Contamination",
-      "summary": "New study reveals nearly universal PFAS contamination in U.S. blood samples, with most carrying five or more cancer-linked variants. EPA regulations lag decades behind the science while forever chemicals destroy immune systems nationwide.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-14-toxic-pfas-blood-samples-federal-inaction.html",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "Regulatory Capture",
-      "topic": "Environmental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "CIA Whistleblower Exposes Fauci's COVID Origins Cover-Up \u2014 Deep State Conspiracy Confirmed",
-      "summary": "Decorated CIA officer testifies that Anthony Fauci deliberately manipulated intelligence analyses to steer investigators away from lab leak theory. Rand Paul brings whistleblower forward as statute of limitations expires on Fauci perjury charges.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/rand-paul-brings-cia-whistleblower-senate-hearing-alleging-deep-state-covid-19-conspiracy",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "Whistleblower",
-      "topic": "COVID Origins",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Biden Concealed FDA Doctors' Reports Linking Child Deaths to COVID Shots",
-      "summary": "Federal officials suppressed internal FDA reports connecting pediatric fatalities to COVID-19 injections, never informing the public of documented safety signals. Biden administration actively concealed deadly impact data from American families.",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/05/they-never-told-public-biden-concealed-fact-fda/",
-      "date": "2026-05-14",
-      "pillar": "exposed",
-      "category": "Vaccine Suppression",
-      "topic": "Pediatric Safety",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Merck's HPV Vaccine Fraud Exposed \u2014 Parents Reject Gardasil After Deaths and Cover-Up",
-      "summary": "Mother's investigation into daughter's Gardasil death revealed Merck's false VAERS reports and CDC inaction. Independent researchers found HPV DNA fragments in vaccine vials linking to fatal reactions, yet faced systematic censorship.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-13-parents-reject-hpv-vaccine-autoimmunity-death.html",
-      "date": "2026-05-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Vaccine Safety",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Anticholinergic Drugs Destroy Hearts \u2014 Medical System Ignores Cardiovascular Time Bombs",
-      "summary": "Common medications for allergies, depression, and sleep disorders block acetylcholine and dramatically increase cardiovascular disease risk. Medical establishment continues prescribing these heart-damaging drugs while burying the evidence.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/05/14/anticholinergic-drugs-cardiovascular-disease.aspx",
-      "date": "2026-05-14",
-      "pillar": "suppressed",
-      "category": "Pharmaceutical Harm",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
       "age": ""
     }
   ]
