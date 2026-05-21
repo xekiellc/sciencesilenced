@@ -1,6 +1,56 @@
 {
-  "updated": "2026-05-19T09:52:36.356081+00:00",
+  "updated": "2026-05-21T19:57:56.676648+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Unlock modern web capabilities in your AI coding workflows",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=bo3i0FzDUYo",
+      "date": "2026-05-21T19:06:03+00:00",
+      "age": "51 min ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Build next-generation UIs with the HTML-in-Canvas API",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=TUtKGTeFWjQ",
+      "date": "2026-05-21T16:35:02+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modernize authentication with passkeys, digital credentials, and more",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=xzMx2khmGJ4",
+      "date": "2026-05-21T16:33:56+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Vibe design to build incredible web UI",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=nC7TrzUYvig",
+      "date": "2026-05-21T16:33:23+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "What's new in Chrome",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=YuMdsHIXatY",
+      "date": "2026-05-21T16:32:03+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "#GoogleIO officially kicks off tomorrow!",
