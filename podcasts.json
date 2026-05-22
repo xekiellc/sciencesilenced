@@ -1,6 +1,46 @@
 {
-  "updated": "2026-05-21T19:57:56.676648+00:00",
+  "updated": "2026-05-22T09:33:44.219013+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Build new features using built-in AI in Chrome",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=ddBxvuH35tI",
+      "date": "2026-05-21T23:46:32+00:00",
+      "age": "9 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Break boundaries with Gemini in Chrome DevTools",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=HKZ9mw6TaCo",
+      "date": "2026-05-21T23:45:27+00:00",
+      "age": "9 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Elevate the Chrome Extensions developer experience",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=g2qrMnvvL6E",
+      "date": "2026-05-21T23:43:37+00:00",
+      "age": "9 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "What's new in Angular",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=MbkjTNg2rcg",
+      "date": "2026-05-21T22:37:30+00:00",
+      "age": "10 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Unlock modern web capabilities in your AI coding workflows",
@@ -350,30 +390,6 @@
       "type": "video",
       "topic": "covid",
       "url": "https://www.youtube.com/@joerogan"
-    },
-    {
-      "show": "Jordan Peterson Podcast",
-      "title": "Chris Palmer MD: Brain Energy \u2014 Mental Illness as Metabolic Disease, Not Chemical Imbalance",
-      "guest": "Chris Palmer MD \u2014 Harvard",
-      "type": "video",
-      "topic": "psychiatry",
-      "url": "https://www.jordanbpeterson.com/podcast/"
-    },
-    {
-      "show": "Found My Fitness \u2014 Rhonda Patrick",
-      "title": "Thomas Seyfried: The Metabolic Theory of Cancer and Why NIH Won't Fund It",
-      "guest": "Thomas Seyfried PhD \u2014 Boston College",
-      "type": "audio",
-      "topic": "cancer",
-      "url": "https://www.foundmyfitness.com"
-    },
-    {
-      "show": "Breaking Points",
-      "title": "Vinay Prasad: FDA Drug Approvals Are Based on Surrogate Endpoints That Don't Predict Survival",
-      "guest": "Vinay Prasad MD \u2014 UCSF",
-      "type": "video",
-      "topic": "pharma",
-      "url": "https://www.breakingpoints.com"
     }
   ]
 }
