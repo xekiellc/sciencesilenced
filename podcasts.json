@@ -1,6 +1,26 @@
 {
-  "updated": "2026-05-22T09:33:44.219013+00:00",
+  "updated": "2026-05-22T19:52:36.336419+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Supercharge your AI coding workflow with Chrome DevTools for agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=1AD81ZselPk",
+      "date": "2026-05-22T19:10:32+00:00",
+      "age": "42 min ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "What's new in Web UI",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=uT7MVcCQ4rw",
+      "date": "2026-05-22T16:11:55+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Build new features using built-in AI in Chrome",
@@ -374,22 +394,6 @@
       "type": "video",
       "topic": "institutional",
       "url": "https://tuckercarlson.com"
-    },
-    {
-      "show": "Huberman Lab",
-      "title": "Rhonda Patrick: The Sauna Evidence Is Overwhelming. Why Isn't This a Clinical Recommendation?",
-      "guest": "Rhonda Patrick PhD",
-      "type": "video",
-      "topic": "longevity",
-      "url": "https://www.hubermanlab.com"
-    },
-    {
-      "show": "Joe Rogan Experience",
-      "title": "Peter McCullough: COVID Treatment Suppression, Early Intervention, and the Capture of Medical Journals",
-      "guest": "Peter McCullough MD",
-      "type": "video",
-      "topic": "covid",
-      "url": "https://www.youtube.com/@joerogan"
     }
   ]
 }
