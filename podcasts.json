@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-22T19:52:36.336419+00:00",
+  "updated": "2026-05-23T08:24:13.385194+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Build your website for the agentic era",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=HdCc-KezQPk",
+      "date": "2026-05-22T23:03:58+00:00",
+      "age": "9 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Supercharge your AI coding workflow with Chrome DevTools for agents",
@@ -386,14 +396,6 @@
       "type": "audio",
       "topic": "cardiovascular",
       "url": "https://peterattiamd.com/podcast/"
-    },
-    {
-      "show": "Tucker Carlson",
-      "title": "Marty Makary: The FDA Is Captured. I Have the Paper Trail.",
-      "guest": "Marty Makary MD \u2014 Johns Hopkins",
-      "type": "video",
-      "topic": "institutional",
-      "url": "https://tuckercarlson.com"
     }
   ]
 }
