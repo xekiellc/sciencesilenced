@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-25T15:15:07.044882+00:00",
+  "updated": "2026-05-25T19:45:57.241808+00:00",
   "articles": [
+    {
+      "title": "FDA Quietly Admits Zero Child Deaths From COVID Shots \u2014 After Years of Silence",
+      "summary": "The FDA finally acknowledged what critics knew all along: no child deaths have been definitively linked to COVID vaccines. This admission comes after years of aggressive vaccine mandates for children and systematic suppression of safety concerns. The report was quietly released with minimal fanfare.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/no-child-deaths-definitively-linked-covid-shots-fda-says-rcna346514",
+      "date": "2026-05-22",
+      "pillar": "exposed",
+      "category": "FDA Capture",
+      "topic": "Pediatric Vaccines",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Psychiatric Establishment Created Trans Epidemic Through Political Medicine",
+      "summary": "Investigation reveals how the psychiatric-pharmaceutical complex manufactured the transgender crisis through deliberate medicalization of normal adolescent development. This represents the latest chapter in psychiatry's long history of pathologizing human behavior for profit and social control.",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/political-psychiatry-and-the-genesis-of-the-trans-epidemic/",
+      "date": "2026-05-22",
+      "pillar": "exposed",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Vitamin D Protects Children From Anesthesia Brain Damage \u2014 Research Buried",
+      "summary": "New study shows vitamin D can prevent neurotoxicity from propofol anesthesia in developing brains. This critical protective mechanism remains unknown to most practitioners while children continue receiving brain-damaging anesthetics without simple vitamin protection.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349784",
+      "date": "2026-05-22",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Neurology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Whistleblower Exposes Multimillion Dollar Genetic Testing Fraud Scheme",
+      "summary": "Federal whistleblower case reveals massive fraud in genetic testing labs owned by Jamie McNamara. The scheme involved fraudulent billing practices that bilked taxpayers out of millions while providing questionable diagnostic services.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/whistleblower-law-collaborative-client-part-of-multimillion-dollar-genetic-testing-fraud-award-against-convicted-defendant-jamie-mcnamara-and-multiple-mcnamara-owned-laboratories-302780307.html",
+      "date": "2026-05-22",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "Genetic Testing",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "FDA Crushes Cancer Biotech After Company Makes Unapproved Treatment Claims",
+      "summary": "ImmunityBio loses $2 billion in market cap after FDA warning over misleading cancer treatment claims. The agency's selective enforcement raises questions about which companies get protected and which get destroyed for similar promotional practices.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/immunitybio-ibrx-facing-lawsuit-after-fda-flags-misleading-cancer-claims-shares-plunge-21-2b-market-cap-lost----hbss-302780587.html",
+      "date": "2026-05-22",
+      "pillar": "exposed",
+      "category": "FDA Capture",
+      "topic": "Oncology",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Senator Exposes 'Most Egregious' Government Scandal of His Lifetime",
+      "summary": "Top U.S. Senator calls out widespread government complicity in unnamed scandal affecting Americans' right to know. Legacy media refuses coverage while those affected remain without justice in what's described as unprecedented government malfeasance.",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/05/everybody-was-complicit-it-top-u-s-senator/",
+      "date": "2026-05-22",
+      "pillar": "exposed",
+      "category": "Government Corruption",
+      "topic": "Public Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Scientists Discover 'Good' Zombie Cells \u2014 Anti-Aging Research Paradigm Shifts",
+      "summary": "Breakthrough research reveals some senescent cells actually protect against aging rather than cause it. This finding undermines the entire senolytic drug development strategy and suggests the anti-aging industry has been targeting the wrong cellular mechanisms.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
+      "date": "2026-05-22",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Anti-Aging",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Jessica Rose Targeted by Academic Libelists in Coordinated Attack",
+      "summary": "Independent researcher Jessica Rose documents systematic defamation campaign against scientists questioning official narratives. The piece exposes how academic journals and institutions coordinate to destroy careers of researchers who challenge pharmaceutical orthodoxy.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/article-written-and-published-by-libelists/",
+      "date": "2026-05-22",
+      "pillar": "exposed",
+      "category": "Suppressed Research",
+      "topic": "Academic Freedom",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Vitamin D Protects Infant Brains from Anesthesia Damage \u2014 But Medical Establishment Ignores Simple Prevention",
       "summary": "New research proves vitamin D supplementation prevents propofol-induced brain damage in developing infants, yet hospitals continue routine anesthesia without basic nutritional protection. This study demonstrates how cheap vitamins could prevent widespread iatrogenic harm, but the medical system profits more from treating damage than preventing it.",
@@ -119,18 +215,6 @@
       "category": "Psychiatry",
       "topic": "Mental Health",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Whistleblower Exposes Multimillion Dollar Genetic Testing Fraud Scheme",
-      "summary": "A courageous whistleblower helped expose Jamie McNamara's genetic testing empire built on False Claims Act violations. The case reveals how laboratory fraud systematically bilks taxpayers while endangering patient care.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/whistleblower-law-collaborative-client-part-of-multimillion-dollar-genetic-testing-fraud-award-against-convicted-defendant-jamie-mcnamara-and-multiple-mcnamara-owned-laboratories-302780307.html",
-      "date": "2026-05-22",
-      "pillar": "vindicated",
-      "category": "Whistleblower",
-      "topic": "Laboratory Medicine",
-      "suppression_score": 3,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Suppressed Research",
       "topic": "Vaccine Science",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Media Fear Machine Dissected: News-to-Death Ratio Exposes Health Panic Manufacturing",
-      "summary": "Carl Heneghan documents how media amplifies rare health events into mass hysteria while ignoring actual mortality data. This systematic fear amplification serves pharmaceutical and regulatory interests by manufacturing demand for unnecessary interventions.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-news-to-death-ratio-strikes-again/",
-      "date": "2026-05-22",
-      "pillar": "exposed",
-      "category": "Media Manipulation",
-      "topic": "Public Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Vitamin D Blocks Propofol Brain Damage in Newborns \u2014 Yet Another Suppressed Protective Protocol",
-      "summary": "New mouse study shows vitamin D prevents neurotoxicity from propofol anesthesia during pregnancy, protecting developing brains. Yet another cheap, natural intervention that could save countless children from surgical brain damage \u2014 but don't expect anesthesiologists to start recommending it.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349784",
-      "date": "2026-05-22",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Neurology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "APA Censors Their Own Human Rights Award Winner for Challenging Medical Orthodoxy on Gaza",
-      "summary": "The American Psychological Association gave Dr. Mansoor Malik a human rights award, then cut his microphone when he dared speak truth about Gaza. Hopkins psychiatry professor learns the hard way that medical organizations only want controlled dissent.",
-      "source": "Muslimmatters.org",
-      "url": "https://muslimmatters.org/2026/05/21/the-apa-gave-him-a-human-rights-award-then-they-cut-his-microphone-for-talking-about-gaza/",
-      "date": "2026-05-21",
-      "pillar": "exposed",
-      "category": "Psychiatry",
-      "topic": "Mental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "The Psychiatric Engineering of the Trans Epidemic \u2014 Political Medicine's Latest Weapon",
-      "summary": "Comprehensive expos\u00e9 reveals how psychiatric establishment manufactured the transgender movement as a tool of social control. Documents the deliberate transformation of gender dysphoria from rare condition to mass epidemic through medical-political manipulation.",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/political-psychiatry-and-the-genesis-of-the-trans-epidemic/",
-      "date": "2026-05-21",
-      "pillar": "exposed",
-      "category": "Psychiatry",
-      "topic": "Mental Health",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Congress Preps $3.35 Billion Slush Fund for Next 'Global Health Threat' \u2014 Pandemic Theater 2.0",
-      "summary": "House bill allocates massive funds for future 'global health threats' while evidence mounts that the last one was orchestrated. Another taxpayer-funded preparation for medical tyranny disguised as public health preparedness.",
-      "source": "Modernity.news",
-      "url": "https://modernity.news/2026/05/21/house-bill-readies-3-35-billion-for-future-global-health-threat-orchestration/",
-      "date": "2026-05-21",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Public Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "ImmunityBio Crashes as FDA Finally Admits Cancer Treatment Claims Were Bogus",
-      "summary": "FDA warns ImmunityBio over unsupported cancer treatment claims after stock plunges on allegedly misleading financial statements. Another biotech darling exposed for overpromising miracle cures while enriching insiders.",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/22/3300280/32716/en/IBRX-4-DAY-DEADLINE-ALERT-ImmunityBio-IBRX-Investors-Face-Losses-Amid-FDA-Warning-Regarding-Unsupported-Cancer-Treatment-Claims-Hagens-Berman.html",
-      "date": "2026-05-22",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Whistleblower Exposes Multimillion Dollar Genetic Testing Fraud \u2014 McNamara Labs Convicted",
-      "summary": "Whistleblower Law Collaborative client helps secure massive False Claims Act settlement against convicted genetic testing fraudster Jamie McNamara and his lab network. Another brave insider takes down medical testing corruption.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/whistleblower-law-collaborative-client-part-of-multimillion-dollar-genetic-testing-fraud-award-against-convicted-defendant-jamie-mcnamara-and-multiple-mcnamara-owned-laboratories-302780307.html",
-      "date": "2026-05-22",
-      "pillar": "vindicated",
-      "category": "Whistleblower",
-      "topic": "Medical Testing",
-      "suppression_score": 3,
       "age": ""
     }
   ]
