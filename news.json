@@ -1,6 +1,54 @@
 {
-  "updated": "2026-05-25T19:45:57.241808+00:00",
+  "updated": "2026-05-26T03:53:49.315420+00:00",
   "articles": [
+    {
+      "title": "FDA Flags ImmunityBio for Misleading Cancer Claims \u2014 $2B Market Cap Evaporates",
+      "summary": "ImmunityBio faces securities lawsuit after FDA exposed misleading cancer treatment claims, triggering 21% stock collapse. Another biotech caught inflating efficacy data to pump shares while patients chase false hope.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/immunitybio-ibrx-facing-lawsuit-after-fda-flags-misleading-cancer-claims-shares-plunge-21-2b-market-cap-lost----hbss-302780587.html",
+      "date": "2026-05-23",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Senator Calls COVID Response 'Most Egregious Government Scandal' \u2014 Media Blackout Continues",
+      "summary": "Top U.S. Senator declares entire COVID establishment was 'complicit' in systematic cover-up, calling it the worst government scandal in his lifetime. Legacy media refuses coverage of Americans' right to know truth.",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/05/everybody-was-complicit-it-top-u-s-senator/",
+      "date": "2026-05-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Public Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Libelists Hijack Scientific Publishing to Silence Dissent",
+      "summary": "Jessica Rose exposes how establishment actors weaponize academic publishing to destroy careers of scientists questioning official narratives. Scientific discourse replaced by character assassination campaigns.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/article-written-and-published-by-libelists/",
+      "date": "2026-05-25",
+      "pillar": "exposed",
+      "category": "Suppressed Research",
+      "topic": "Scientific Publishing",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "The Great Vaccine Debate \u2014 What They Don't Want You Hearing",
+      "summary": "Max Dublin dissects how vaccine safety discussions are systematically suppressed while dissenting scientists face career destruction. The debate they claim is 'settled' continues underground.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/inside-the-great-vaccine-debate/",
+      "date": "2026-05-25",
+      "pillar": "uncaged",
+      "category": "Suppressed Research",
+      "topic": "Immunology",
+      "suppression_score": 5,
+      "age": ""
+    },
     {
       "title": "FDA Quietly Admits Zero Child Deaths From COVID Shots \u2014 After Years of Silence",
       "summary": "The FDA finally acknowledged what critics knew all along: no child deaths have been definitively linked to COVID vaccines. This admission comes after years of aggressive vaccine mandates for children and systematic suppression of safety concerns. The report was quietly released with minimal fanfare.",
@@ -311,54 +359,6 @@
       "category": "Pharma Fraud",
       "topic": "Oncology",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Whistleblower Wins: Genetic Testing Fraud Exposes Healthcare Laboratory Scam Network",
-      "summary": "Whistleblower secures multimillion-dollar settlement against Jamie McNamara's laboratory empire for genetic testing fraud. This victory demonstrates how insider courage can crack open systematic healthcare billing schemes that regulatory agencies routinely ignore.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/whistleblower-law-collaborative-client-part-of-multimillion-dollar-genetic-testing-fraud-award-against-convicted-defendant-jamie-mcnamara-and-multiple-mcnamara-owned-laboratories-302780307.html",
-      "date": "2026-05-22",
-      "pillar": "vindicated",
-      "category": "Whistleblower",
-      "topic": "Healthcare Fraud",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "FDA's Quiet COVID Vaccine Admission: No Child Deaths 'Definitively' Linked",
-      "summary": "FDA quietly releases report admitting no child deaths definitively linked to COVID vaccines \u2014 but their careful language reveals the agency's continued refusal to investigate probable connections. This semantic dodge protects vaccine manufacturers while parents demand real safety data.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/health/health-news/no-child-deaths-definitively-linked-covid-shots-fda-says-rcna346514",
-      "date": "2026-05-22",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Vaccine Safety",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Zombie Cell Research Breakthrough: Anti-Aging Science Escapes Big Pharma Stranglehold",
-      "summary": "Independent researchers discover some senescent cells actually protect against aging, overturning pharmaceutical industry's blanket senolytic drug approach. This precision longevity research threatens billions in profits from crude anti-aging interventions.",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
-      "date": "2026-05-21",
-      "pillar": "uncaged",
-      "category": "Longevity",
-      "topic": "Anti-Aging",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Brownstone Exposes Vaccine Debate Censorship: Truth Movement Gains Ground",
-      "summary": "Comprehensive analysis reveals systematic suppression of vaccine safety questions and scientific debate. Medical establishment's information control campaign continues crumbling as independent researchers document evidence mainstream authorities refuse to acknowledge.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/inside-the-great-vaccine-debate/",
-      "date": "2026-05-22",
-      "pillar": "vindicated",
-      "category": "Suppressed Research",
-      "topic": "Vaccine Science",
-      "suppression_score": 4,
       "age": ""
     }
   ]
