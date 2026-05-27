@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-26T20:13:28.948460+00:00",
+  "updated": "2026-05-27T15:53:09.081797+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "How to get modern web guidance from your AI tools",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/L9ZPSaqFkqg",
+      "date": "2026-05-27T13:44:37+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "The new HTML-in-Canvas API is a game-changer #GoogleIO",
@@ -390,14 +400,6 @@
       "url": "https://www.youtube.com/shorts/HSVkWSoACwU",
       "date": "2026-01-19T17:00:34+00:00",
       "age": "102 days ago"
-    },
-    {
-      "show": "Shawn Ryan Show",
-      "title": "Louisa Nicola: Alzheimer's Research Was Junk \u2014 Hundreds of Millions in NIH Funding Wasted on Fabricated Science",
-      "guest": "Louisa Nicola \u2014 Neuroathletics",
-      "type": "video",
-      "topic": "neurology",
-      "url": "https://www.youtube.com/@ShawnRyanShow"
     }
   ]
 }
