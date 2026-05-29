@@ -1,6 +1,26 @@
 {
-  "updated": "2026-05-29T09:59:58.377968+00:00",
+  "updated": "2026-05-29T15:44:16.873489+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Scale your web expertise with Chrome DevTools for agents #GoogleIO",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/H8jIVQdYymA",
+      "date": "2026-05-29T13:21:01+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Cooking with Lard vs Seed Oils | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=7_cbaDXAWYM",
+      "date": "2026-01-21T17:00:21+00:00",
+      "age": "127 days ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "The Evolutionary Argument Against Eating Seed Oils | Layne Norton, Ph.D.",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/watch?v=cdOJDYXPXQI",
       "date": "2026-04-27T16:00:00+00:00",
       "age": "4 days ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Is Industrial Processing the Real Problem With Seed Oils? | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=Tsqzx3L6UWs",
-      "date": "2026-01-23T17:00:47+00:00",
-      "age": "98 days ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Why Ingredient Changes Don\u2019t Always Mean Healthier Food | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/IC7iP7uGiQ4",
-      "date": "2026-01-22T17:00:20+00:00",
-      "age": "99 days ago"
     }
   ]
 }

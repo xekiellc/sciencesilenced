@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-29T09:59:57.786885+00:00",
+  "updated": "2026-05-29T15:44:16.313838+00:00",
   "articles": [
+    {
+      "title": "Nasal Spray Reverses Brain Aging While Big Pharma Ignores Simple Solutions",
+      "summary": "Texas A&M researchers developed a nasal spray that reverses brain aging by calming inflammation and restoring energy systems, with just two doses improving memory for months. This breakthrough challenges the pharmaceutical industry's complex, expensive approach to neurodegeneration while offering hope outside traditional drug development pipelines.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+      "date": "2026-05-26",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Neurology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Scientists Expose Hidden Gut-Brain Protein Circuit Big Food Doesn't Want You to Know",
+      "summary": "Researchers discovered a powerful gut-brain network that triggers protein cravings when the body runs low on amino acids, potentially explaining why processed food companies flood products with sugar instead of protein. This finding could transform understanding of nutritional manipulation by the food industry.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
+      "date": "2026-05-27",
+      "pillar": "exposed",
+      "category": "Nutrition Science",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Psychiatric Industrial Complex Manufactured Mental Health Epidemic With Fake Serotonin Theory",
+      "summary": "The serotonin deficiency theory of depression was crafted by pharmaceutical companies in the 1980s to sell SSRIs, not based on scientific discovery. A 2022 University College London meta-analysis found 'no consistent evidence' of serotonin deficiency causing depression, exposing decades of pharmaceutical deception.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-05-26-chemical-veil-psychiatric-industrial-complex-mental-health.html",
+      "date": "2026-05-26",
+      "pillar": "exposed",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "External Validation Crisis: Medical Research Built on House of Cards",
+      "summary": "Nature study reveals that neuroimaging research lacks external validation using independent datasets, undermining generalizability and reproducibility. This exposes the systemic failure of medical research institutions to ensure their studies can be replicated outside their own labs.",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41592-026-03115-9",
+      "date": "2026-05-26",
+      "pillar": "exposed",
+      "category": "Replication Crisis",
+      "topic": "Neurology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Senator Johnson Exposes FDA Cover-Up of COVID Vaccine Injuries as 'Largest Government Scandal'",
+      "summary": "Wisconsin Senator Ron Johnson accuses the FDA of concealing COVID vaccine injuries, calling it 'the largest government scandal in my lifetime.' Johnson's allegations highlight systematic suppression of vaccine safety data by federal health agencies.",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4381194/posts",
+      "date": "2026-05-26",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Cardiovascular",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Elsevier Retracts SIDS-Vaccine Study to Protect Pharma Narrative",
+      "summary": "Elsevier retracted Neil Z. Miller's 2021 study linking sudden infant death syndrome to vaccines, citing concerns it 'might influence patient care.' The retraction silences legitimate safety research that threatens the vaccine industry's liability-free business model.",
+      "source": "Retractionwatch.com",
+      "url": "https://retractionwatch.com/2026/05/26/elsevier-retracts-study-tying-sudden-infant-death-syndrome-to-vaccinations/",
+      "date": "2026-05-26",
+      "pillar": "suppressed",
+      "category": "Pharma Fraud",
+      "topic": "Pediatrics",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Farm Bill Rider Seeks to Override 1,000+ State Laws Protecting Food Safety",
+      "summary": "An industry-friendly provision buried in the Farm Bill threatens to override over 1,000 state laws protecting consumers from unsafe food practices. This corporate capture of federal legislation demonstrates how agribusiness uses backroom deals to eliminate local food safety protections.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/should-an-industry-friendly-rider-in-the-farm-bill-override-over-1000-state-laws/",
+      "date": "2026-05-27",
+      "pillar": "exposed",
+      "category": "Nutrition Science",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "FDA Cover-Up: Child Deaths From COVID Vaccines Hidden From Public",
+      "summary": "Investigation reveals the FDA's systematic cover-up of child deaths linked to COVID vaccines, suppressing critical safety data that could have saved lives. This expose by Maryanne Demasi documents how federal agencies prioritized vaccine rollout over pediatric safety.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/inside-the-fdas-cover-up-of-child-deaths-linked-to-covid-vaccines/",
+      "date": "2026-05-26",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Pediatrics",
+      "suppression_score": 5,
+      "age": ""
+    },
     {
       "title": "Texas A&M Scientists Develop Anti-Aging Nasal Spray \u2014 Will Big Pharma Bury It?",
       "summary": "Researchers at Texas A&M developed a nasal spray that reverses brain aging in just two doses, improving memory for months by calming inflammation and restoring energy systems. Watch how fast the pharmaceutical industry moves to suppress, patent-trap, or price this breakthrough out of reach.",
@@ -47,18 +143,6 @@
       "category": "NIH Capture",
       "topic": "Vaccines",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Elsevier Retracts SIDS-Vaccine Study to Protect Pharma Narrative",
-      "summary": "Publishing giant Elsevier retracted Neil Miller's study linking sudden infant death syndrome to vaccines, claiming it might influence patient care. Translation: inconvenient science that threatens vaccine profits gets memory-holed.",
-      "source": "Retractionwatch.com",
-      "url": "https://retractionwatch.com/2026/05/26/elsevier-retracts-study-tying-sudden-infant-death-syndrome-to-vaccinations/",
-      "date": "2026-05-26",
-      "pillar": "suppressed",
-      "category": "Pharma Fraud",
-      "topic": "Vaccines",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Pharma Fraud",
       "topic": "Oncology",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "External Validation Crisis Exposed \u2014 Neuroimaging Studies Fail When Actually Tested",
-      "summary": "Nature publishes damning perspective showing neuroimaging studies routinely fail external validation, revealing the replication crisis in brain research. Most published findings collapse when tested on independent datasets, but journals and institutions continue promoting unreproducible science.",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41592-026-03115-9",
-      "date": "2026-05-26",
-      "pillar": "exposed",
-      "category": "Replication Crisis",
-      "topic": "Neurology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Texas A&M Scientists Develop Nasal Spray That Reverses Brain Aging \u2014 Big Pharma's Alzheimer's Goldmine Threatened",
-      "summary": "Researchers achieved months-long cognitive improvement with just two nasal spray doses targeting brain inflammation and energy systems. This simple, likely inexpensive intervention bypasses the pharmaceutical industry's failed billion-dollar Alzheimer's drug development entirely. Watch for suppression efforts targeting this breakthrough.",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-      "date": "2026-05-26",
-      "pillar": "uncaged",
-      "category": "Longevity",
-      "topic": "Neurology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Clinical Trial Proves Peppermint Oil Crushes Blood Pressure \u2014 Natural Remedy Big Pharma Can't Patent",
-      "summary": "UK clinical trial found peppermint oil reduced systolic blood pressure by 8.5 mmHg, rivaling prescription medications. This threatens the multi-billion dollar hypertension drug market with a natural compound that can't be monopolized. Expect medical establishment dismissal despite solid clinical evidence.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-25-peppermint-oil-natural-blood-pressure-treatment-study.html",
-      "date": "2026-05-25",
-      "pillar": "vindicated",
-      "category": "Nutrition Science",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Psychiatric Industrial Complex Exposed: Serotonin Depression Theory Was Marketing Fiction, Not Science",
-      "summary": "The serotonin deficiency theory of depression was manufactured by pharmaceutical companies in the late 1980s to sell SSRIs, not discovered through research. A 2022 UCL meta-analysis found zero consistent evidence supporting the chemical imbalance myth that generated hundreds of billions in SSRI sales.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-26-chemical-veil-psychiatric-industrial-complex-mental-health.html",
-      "date": "2026-05-26",
-      "pillar": "exposed",
-      "category": "Psychiatry",
-      "topic": "Mental Health",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Elsevier Retracts SIDS-Vaccine Study to Protect Pharma Profits \u2014 Science Censorship in Action",
-      "summary": "Elsevier retracted Neil Miller's 2021 study linking sudden infant death syndrome to vaccinations, citing concerns it might influence patient care. Translation: scientific evidence that threatens vaccine revenue gets memory-holed. The pharmaceutical industry's capture of academic publishing on full display.",
-      "source": "Retractionwatch.com",
-      "url": "https://retractionwatch.com/2026/05/26/elsevier-retracts-study-tying-sudden-infant-death-syndrome-to-vaccinations/",
-      "date": "2026-05-26",
-      "pillar": "suppressed",
-      "category": "Suppressed Research",
-      "topic": "Pediatrics",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Neuroimaging Studies Fail Replication Crisis Test \u2014 Independent Validation Exposes Junk Science Epidemic",
-      "summary": "Nature study reveals that neuroimaging research lacks external validation using independent datasets, undermining generalizability and reproducibility. The replication crisis extends deep into neuroscience, where studies that can't be reproduced continue getting published and cited as gospel.",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41592-026-03115-9",
-      "date": "2026-05-26",
-      "pillar": "exposed",
-      "category": "Replication Crisis",
-      "topic": "Neurology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "FDA Whistleblower Exposes Agency Cover-Up of Child Deaths from COVID Vaccines",
-      "summary": "Internal documents reveal FDA officials systematically concealed pediatric deaths linked to COVID vaccines while pushing boosters for children. Agency whistleblowers detail how safety signals were ignored and adverse events were buried to maintain vaccine rollout momentum.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/inside-the-fdas-cover-up-of-child-deaths-linked-to-covid-vaccines/",
-      "date": "2026-05-27",
-      "pillar": "exposed",
-      "category": "Whistleblower",
-      "topic": "Pediatrics",
-      "suppression_score": 5,
       "age": ""
     }
   ]
