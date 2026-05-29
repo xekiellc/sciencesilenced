@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-28T20:28:30.381402+00:00",
+  "updated": "2026-05-29T09:59:58.377968+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "The Evolutionary Argument Against Eating Seed Oils | Layne Norton, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/H8rDAQeJ1UM",
+      "date": "2026-01-20T17:00:26+00:00",
+      "age": "128 days ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Seed Oils, Saturated Fat, and the Tradeoff People Miss | Layne Norton, Ph.D.",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/IC7iP7uGiQ4",
       "date": "2026-01-22T17:00:20+00:00",
       "age": "99 days ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Cooking with Lard vs Seed Oils | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=7_cbaDXAWYM",
-      "date": "2026-01-21T17:00:21+00:00",
-      "age": "100 days ago"
     }
   ]
 }
