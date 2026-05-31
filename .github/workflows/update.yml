@@ -37,14 +37,4 @@ jobs:
           git diff --staged --quiet || git commit -m "Content update $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Post to Voxxee
-        run: |
-          curl -s -X POST https://xenchee.netlify.app/.netlify/functions/pipeline-post \
-            -H "Content-Type: application/json" \
-            -H "x-pipeline-secret: ${{ secrets.PIPELINE_SECRET }}" \
-            -d '{
-              "slug": "science-silenced",
-              "title": "🔬 Science Silenced — Heterodox Research & Suppressed Science",
-              "summary": "The latest heterodox medical and scientific research the mainstream won't cover.",
-              "url": "https://sciencesilenced.com"
-            }'
+    
