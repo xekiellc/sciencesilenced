@@ -1,6 +1,26 @@
 {
-  "updated": "2026-05-29T20:30:41.113261+00:00",
+  "updated": "2026-06-01T21:37:09.576873+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Take control of AI agents on your site with WebMCP #GoogleIO",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Ex8ZhnOAXcI",
+      "date": "2026-06-01T19:00:05+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Simplify complex user intents with WebMCP #GoogleIO",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/qrpH-b067uo",
+      "date": "2026-06-01T17:54:38+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Is Industrial Processing the Real Problem With Seed Oils? | Layne Norton, Ph.D.",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/shorts/IBh3Wz5YIR8",
       "date": "2026-05-01T15:25:01+00:00",
       "age": "5 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Building an extension in Antigravity in 6 minutes",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=i1OCGChwO_I",
-      "date": "2026-04-30T14:34:32+00:00",
-      "age": "Yesterday"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "The annual session prep for Google I/O",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/LfLqurgEWh0",
-      "date": "2026-04-29T20:32:34+00:00",
-      "age": "2 days ago"
     }
   ]
 }
