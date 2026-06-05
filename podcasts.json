@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-04T20:09:29.557367+00:00",
+  "updated": "2026-06-05T19:59:07.622525+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Fix markdown image syntax with AI and JSON schemas #GoogleIO",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/je6m7tIiVPw",
+      "date": "2026-06-05T17:09:34+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Emulate device capabilities with Chrome DevTools for agents",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/vsGqb7PL3-I",
       "date": "2026-05-05T17:52:42+00:00",
       "age": "1 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "When Google I/O prep gets exhausting, the Chrome Dino reminds us who we're building for \ud83e\udd96",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/8sSh0mG6nPg",
-      "date": "2026-05-05T15:30:00+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
