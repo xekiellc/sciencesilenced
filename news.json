@@ -1,6 +1,102 @@
 {
-  "updated": "2026-06-06T13:50:40.400181+00:00",
+  "updated": "2026-06-06T19:28:21.359229+00:00",
   "articles": [
+    {
+      "title": "Senate Hearing Exposes Years-Long Suppression of COVID Vaccine Cancer Link",
+      "summary": "Multiple oncologists testified that stable cancer patients experienced aggressive relapses after COVID boosters, with researchers reporting attacks on their reputations for investigating the link. The biological mechanisms connecting mRNA vaccines to increased cancer risk were systematically buried for years.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-05-covid-vaccine-cancer-link-suppressed-for-years.html",
+      "date": "2026-06-05",
+      "pillar": "exposed",
+      "category": "Suppressed Research",
+      "topic": "Oncology",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Legal Threats Force Journal to Retract Critical Study on Parental Alienation Theory",
+      "summary": "A humanities journal caved to lawsuit threats and retracted research criticizing the controversial parental alienation theory. The May 19 retraction of the IJRAH article exposes how litigation warfare silences legitimate scientific criticism.",
+      "source": "Retractionwatch.com",
+      "url": "https://retractionwatch.com/2026/06/03/journal-retracts-paper-criticizing-parental-alienation-theory-after-group-threatens-to-sue/",
+      "date": "2026-06-03",
+      "pillar": "suppressed",
+      "category": "Replication Crisis",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Major Journal Caught Burying Pfizer's Failed Flu Vaccine Data in Seniors",
+      "summary": "A leading medical journal deliberately omitted Pfizer's negative flu vaccine efficacy data in elderly populations. The selective data presentation masks the pharmaceutical giant's failures while misleading clinicians and patients about vaccine effectiveness.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/major-journal-under-fire-for-omitting-pfizers-failed-flu-data-in-seniors/",
+      "date": "2026-06-05",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Infectious Disease",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Whistleblower Exposes Ohio's Systematic Medicaid Fraud Cover-Up",
+      "summary": "Mehek Cooke testified that Ohio officials lacked the political will to confront massive Medicaid fraud, calling it a 'national embarrassment.' The hearing revealed systematic failures to investigate and prosecute healthcare billing schemes draining taxpayer funds.",
+      "source": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/06/05/mehek-cooke-testifies-fraud-ohio/",
+      "date": "2026-06-05",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "Healthcare System",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Medical Authoritarians Target Health Freedom as FDA Systematically Crushes Alternatives",
+      "summary": "Constitutional attorney Jonathan Emord and Dr. Robert Verkerk detail how the FDA has systematically destroyed health freedom and alternative medicine. The federal government's war on decentralized healthcare represents the most urgent threat to medical choice in modern history.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-05-fight-for-health-freedom-we-must-decentralize.html",
+      "date": "2026-06-05",
+      "pillar": "uncaged",
+      "category": "FDA Capture",
+      "topic": "Healthcare Policy",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Breakthrough Geropeptide Shows Unprecedented Anti-Aging Effects Outside Pharma System",
+      "summary": "Eos SENOLYTIX's MitoXcel geropeptide PTC-2105 demonstrates remarkable muscle mass gains and multi-system healthspan improvements in preclinical studies. The independent longevity research bypasses traditional pharmaceutical gatekeepers while showing significant cancer survival benefits.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307333/0/en/Eos-SENOLYTIX-Presents-Best-in-Class-Preclinical-Body-Composition-Data-Highlighting-Unique-Muscle-Mass-Gains-with-MitoXcel-Geropeptide-PTC-2105-at-the-Sachs-2nd-Annual-Obesity-Card.html",
+      "date": "2026-06-05",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Anti-Aging",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Natural Capsaicin Compound Targets Breast Cancer Through Metabolic Reprogramming",
+      "summary": "New research reveals capsaicin's powerful anti-tumor mechanisms in estrogen-positive breast cancer through metabolic pathway disruption. The natural compound's therapeutic potential remains buried while pharmaceutical oncology ignores food-based cancer interventions.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350841",
+      "date": "2026-06-05",
+      "pillar": "vindicated",
+      "category": "Nutrition Science",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Robert Malone Challenges Bioethics Establishment on Medical Freedom of Choice",
+      "summary": "Dr. Robert Malone directly confronts the corrupted bioethics establishment that enabled COVID authoritarianism and medical coercion. The mRNA vaccine inventor exposes how bioethics committees abandoned individual autonomy for collective pharmaceutical interests.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/bioethics-and-freedom-to-choose/",
+      "date": "2026-06-05",
+      "pillar": "uncaged",
+      "category": "Medical Ethics",
+      "topic": "Healthcare Policy",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Senate Hearing Exposes Years-Long Suppression of COVID Vaccine Cancer Links",
       "summary": "U.S. Senate hearing revealed that evidence linking COVID-19 mRNA vaccines to increased cancer risk has been systematically suppressed for years. Multiple oncologists testified that stable cancer patients experienced aggressive relapses after booster shots, while researchers faced coordinated attacks on their reputations for reporting these findings.",
@@ -242,18 +338,6 @@
       "age": ""
     },
     {
-      "title": "Major Journal Caught Burying Pfizer's Failed Flu Vaccine Data in Seniors",
-      "summary": "Leading medical journal under fire for omitting Pfizer's failed flu vaccine efficacy data in elderly patients. This represents standard practice of selective data publication to maintain vaccine narratives while burying inconvenient safety and efficacy failures.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/major-journal-under-fire-for-omitting-pfizers-failed-flu-data-in-seniors/",
-      "date": "2026-06-03",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Vaccine Safety",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
       "title": "COVID Policy Damage Finally Documented - The Carnage Was Preventable",
       "summary": "Comprehensive documentation reveals the systematic damage caused by COVID policies that ignored established science on respiratory viruses. The suppression of early treatment protocols and natural immunity data led to preventable deaths and societal destruction.",
       "source": "Brownstone Institute",
@@ -275,90 +359,6 @@
       "category": "Whistleblower",
       "topic": "Biosafety",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Brownstone Institute Exposes Hantavirus Criminalization \u2014 Public Health Paranoia Reaches New Low",
-      "summary": "Health authorities are now jailing people for potential hantavirus exposure, turning disease contact into a criminal offense. This represents the complete medicalization of civil liberties, where public health emergency powers override basic constitutional protections.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/jailed-for-hantavirus-exposure/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Public Health Tyranny",
-      "topic": "Civil Liberties",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Lockdown Economic Devastation: 12% GDP Loss and Dollar Collapse Hidden in Plain Sight",
-      "summary": "New analysis reveals lockdowns destroyed 12% of GDP while stealing half of Americans' purchasing power through inflation. The economic carnage from COVID policies continues to be downplayed by mainstream economists and policymakers.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/since-lockdowns-a-12-gdp-loss-half-of-us-dollar-purchasing-power-stolen/",
-      "date": "2026-06-02",
-      "pillar": "vindicated",
-      "category": "Lockdown Consequences",
-      "topic": "Economic Impact",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Moderna's Ebola mRNA Experiment \u2014 Same Failed Technology, New Disease Target",
-      "summary": "Jessica Rose exposes Moderna's plan to deploy modified mRNA technology for Ebola Bundibugyo, despite mounting evidence of mRNA vaccine failures and safety signals. The company continues pushing experimental gene therapy while ignoring proven alternatives.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/moderna-is-building-a-modified-mrna-vaccine-for-ebola-bundibugyo/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Vaccine Development",
-      "topic": "mRNA Technology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Science Journalism's Corruption Problem \u2014 How Pharma Talking Points Masquerade as Medical News",
-      "summary": "Toby Rogers dissects how health science reporters function as pharmaceutical industry stenographers rather than independent journalists. These captured media outlets suppress critical analysis while amplifying industry-friendly narratives about drug safety and efficacy.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-trouble-with-health-science-reporters/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Media Capture",
-      "topic": "Science Journalism",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Independent Medicine Under Siege \u2014 The Death of the Physician-Patient Relationship",
-      "summary": "Analysis of how modern healthcare has abandoned the independent physician model exemplified by Dr. Charles Augustus Leale. Corporate medicine and regulatory capture are systematically destroying doctors who prioritize patient care over institutional protocols.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/charles-augustus-leale-abraham-lincoln-and-the-physician-we-are-slowly-losing/",
-      "date": "2026-06-02",
-      "pillar": "suppressed",
-      "category": "Medical Practice",
-      "topic": "Physician Independence",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Ozempic Cancer Study \u2014 Pharma's New Wonder Drug Narrative Ignores Serious Safety Signals",
-      "summary": "University of Pennsylvania researchers claim Ozempic reduces breast cancer risk by 30%, but this premature celebration ignores mounting reports of severe side effects and unknown long-term consequences. Another case of industry-funded research promoting blockbuster drugs.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/02/health/women-on-ozempic-like-drugs-30-less-likely-to-develop-breast-cancer/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Pharma Research",
-      "topic": "Drug Safety",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Big Pharma's Alzheimer's Deception \u2014 Billions Wasted While Real Cures Sit Buried",
-      "summary": "Despite $360 billion annual costs and decades of failed drug trials, pharmaceutical giants continue burying metabolic and nutritional approaches to Alzheimer's that actually reverse cognitive decline. The industry's amyloid hypothesis obsession has deliberately ignored root causes and suppressed treatments that threaten their profit model.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/05/31/reversing-alzheimers-forgotten-causes-treatments.aspx",
-      "date": "2026-05-31",
-      "pillar": "suppressed",
-      "category": "Pharma Fraud",
-      "topic": "Neurology",
-      "suppression_score": 5,
       "age": ""
     }
   ]
