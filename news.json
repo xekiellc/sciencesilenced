@@ -1,6 +1,102 @@
 {
-  "updated": "2026-06-06T08:37:56.297736+00:00",
+  "updated": "2026-06-06T13:50:40.400181+00:00",
   "articles": [
+    {
+      "title": "Senate Hearing Exposes Years-Long Suppression of COVID Vaccine Cancer Links",
+      "summary": "U.S. Senate hearing revealed that evidence linking COVID-19 mRNA vaccines to increased cancer risk has been systematically suppressed for years. Multiple oncologists testified that stable cancer patients experienced aggressive relapses after booster shots, while researchers faced coordinated attacks on their reputations for reporting these findings.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-05-covid-vaccine-cancer-link-suppressed-for-years.html",
+      "date": "2026-06-05",
+      "pillar": "exposed",
+      "category": "Suppressed Research",
+      "topic": "Oncology",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Senate to Investigate Biological Mechanisms Behind COVID Vaccine Cancer Risks",
+      "summary": "A scheduled U.S. Senate hearing will examine the biological pathways by which COVID-19 vaccines may increase cancer risks. This represents a breakthrough in official acknowledgment of suppressed research into vaccine-induced oncological complications.",
+      "source": "Shtfplan.com",
+      "url": "https://www.shtfplan.com/health/senate-hearing-to-examine-evidence-linking-covid-19-vaccines-to-increased-cancer-risks",
+      "date": "2026-06-02",
+      "pillar": "vindicated",
+      "category": "Suppressed Research",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Academic Journal Caves to Legal Threats, Retracts Paper Exposing Parental Alienation Theory",
+      "summary": "The Integrated Journal for Research in Arts and Humanities buckled under legal pressure and retracted a critical analysis of parental alienation theory after supporters of the controversial concept threatened to sue. This represents a dangerous precedent of litigation being used to silence legitimate academic critique.",
+      "source": "Retractionwatch.com",
+      "url": "https://retractionwatch.com/2026-06-03/journal-retracts-paper-criticizing-parental-alienation-theory-after-group-threatens-to-sue/",
+      "date": "2026-06-03",
+      "pillar": "suppressed",
+      "category": "Replication Crisis",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Major Medical Journal Caught Red-Handed Hiding Pfizer's Flu Vaccine Failure in Seniors",
+      "summary": "A prestigious medical journal is under fire for deliberately omitting Pfizer's failed flu vaccine data in elderly populations. This represents yet another example of academic publishing's complicity in pharmaceutical cover-ups that endanger public health.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/major-journal-under-fire-for-omitting-pfizers-failed-flu-data-in-seniors/",
+      "date": "2026-06-04",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Cardiovascular",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Metabolic Cancer Research Reveals What Big Pharma Doesn't Want You to Know",
+      "summary": "New integrated bioinformatics analysis exposes how metabolic reprogramming drives lung and breast cancer progression. This research highlights therapeutic vulnerabilities that pharmaceutical companies ignore because they can't be patented, focusing instead on expensive, toxic treatments.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350628",
+      "date": "2026-06-04",
+      "pillar": "uncaged",
+      "category": "Metabolic Research",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Capsaicin Cancer Research Exposes Natural Compound Big Pharma Can't Patent",
+      "summary": "Scientists identify key molecular targets of capsaicin's anti-tumor effects in estrogen receptor-positive breast cancer, revealing metabolic reprogramming mechanisms. This natural compound research threatens pharmaceutical profits because capsaicin can't be patented or monetized like synthetic drugs.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350841",
+      "date": "2026-06-04",
+      "pillar": "uncaged",
+      "category": "Nutrition Science",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Independent Longevity Company Shows Muscle-Building Breakthrough Outside Pharma Control",
+      "summary": "Eos SENOLYTIX presents preclinical data showing their MitoXcel geropeptide PTC-2105 significantly increases muscle mass and overall survival in cancer models. This research occurs entirely outside the pharmaceutical establishment, representing genuine innovation free from Big Pharma interference.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307333/0/en/Eos-SENOLYTIX-Presents-Best-in-Class-Preclinical-Body-Composition-Data-Highlighting-Unique-Muscle-Mass-Gains-with-MitoXcel-Geropeptide-PTC-2105-at-the-Sachs-2nd-Annual-Obesity-Card.html",
+      "date": "2026-06-05",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Cardiovascular",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Medical Authoritarians Wage War on Health Freedom as Citizens Fight Back",
+      "summary": "Constitutional attorney Jonathan Emord and Dr. Robert Verkerk expose how the U.S. government and FDA have systematically destroyed health freedom through regulatory capture. This represents the most urgent fight for medical autonomy in modern history as bureaucrats seize control from patients and practitioners.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-05-fight-for-health-freedom-we-must-decentralize.html",
+      "date": "2026-06-05",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Senate Hearing Exposes Years-Long Suppression of COVID Vaccine-Cancer Link",
       "summary": "Multiple oncologists testified that stable cancer patients experienced aggressive relapses after COVID boosters, with researchers reporting systematic attacks on their reputations for investigating the connection. The hearing revealed coordinated suppression of evidence linking mRNA vaccines to increased cancer risk.",
@@ -47,18 +143,6 @@
       "category": "FDA Capture",
       "topic": "Health Freedom",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Metabolic Cancer Research Reveals What Big Pharma Doesn't Want You to Know",
-      "summary": "Breakthrough bioinformatics study maps metabolic reprogramming in lung and breast cancer, revealing therapeutic targets that don't rely on expensive pharmaceutical interventions. This metabolic approach to cancer treatment threatens the trillion-dollar oncology drug market.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350628",
-      "date": "2026-06-04",
-      "pillar": "vindicated",
-      "category": "Metabolic Research",
-      "topic": "Oncology",
-      "suppression_score": 3,
       "age": ""
     },
     {
@@ -274,90 +358,6 @@
       "pillar": "suppressed",
       "category": "Pharma Fraud",
       "topic": "Neurology",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Ozempic's Hidden Suicide Risk \u2014 45% Jump in Self-Harm Thoughts Buried by Novo Nordisk",
-      "summary": "World Health Organization data reveals semaglutide (Ozempic/Wegovy) triggers a 45% increase in suicidal ideation, yet regulatory agencies and the manufacturer continue downplaying this devastating psychiatric side effect. The weight loss gold rush has steamrolled over patient safety.",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/ozempics-dark-side-45-increased-risk-of-suicidal-ideation/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Mental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Moderna's Next mRNA Cash Grab \u2014 Ebola Shots Built on Failed COVID Platform",
-      "summary": "Fresh off their COVID windfall, Moderna is rushing modified mRNA injections for Ebola Bundibugyo to market. The company continues pushing the same dangerous technology that caused widespread adverse events, now targeting African populations for their next experimental rollout.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/moderna-is-building-a-modified-mrna-vaccine-for-ebola-bundibugyo/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Infectious Disease",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Medical Journalism's Pharma Prostitution \u2014 How Science Reporters Became Industry Shills",
-      "summary": "Health science reporters have abandoned investigative journalism to become pharmaceutical industry stenographers, parroting press releases while ignoring safety signals and suppressed data. This systemic corruption of medical journalism enables the continued poisoning of public health discourse.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-trouble-with-health-science-reporters/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "Replication Crisis",
-      "topic": "Medical Ethics",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Public Health Tyranny Goes Viral \u2014 Man Jailed for Hantavirus 'Exposure' Without Infection",
-      "summary": "Government health authorities are now imprisoning citizens for mere exposure to pathogens, even without actual infection or transmission risk. This represents a terrifying expansion of public health police powers that criminalizes normal human interaction and biological existence.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/jailed-for-hantavirus-exposure/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Public Health Policy",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Iron Breakthrough Threatens Big Pharma's Rare Metal Monopoly on Drug Manufacturing",
-      "summary": "Nagoya University researchers proved abundant iron can replace expensive rare metals in pharmaceutical synthesis, potentially slashing drug costs by 90%. The discovery threatens the industry's artificial scarcity model and will likely face fierce suppression from chemical cartels.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-31-iron-outshines-rare-metals-in-advanced-chemical-synthesis.html",
-      "date": "2026-05-31",
-      "pillar": "uncaged",
-      "category": "Pharma Fraud",
-      "topic": "Drug Manufacturing",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Exercise Science Vindicated \u2014 Three Studies Prove What Big Pharma Wants You to Ignore",
-      "summary": "New research confirms exercise provides superior longevity and health benefits compared to pharmaceutical interventions, yet the medical establishment continues pushing pills over movement. These findings threaten the chronic disease management model that generates trillions in ongoing revenue.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-05-31-exercise-aids-healthy-aging-evidence-three-studies.html",
-      "date": "2026-05-31",
-      "pillar": "vindicated",
-      "category": "Nutrition Science",
-      "topic": "Longevity",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Lockdown's $50 Trillion Theft \u2014 Half Your Purchasing Power Stolen in COVID Hysteria",
-      "summary": "Official data reveals lockdowns caused a 12% GDP loss and destroyed 50% of dollar purchasing power through deliberate inflation. The economic devastation was engineered to transfer unprecedented wealth to pharmaceutical companies and tech oligarchs while impoverishing the middle class.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/since-lockdowns-a-12-gdp-loss-half-of-us-dollar-purchasing-power-stolen/",
-      "date": "2026-06-02",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Public Health Policy",
       "suppression_score": 5,
       "age": ""
     }
