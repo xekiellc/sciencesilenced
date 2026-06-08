@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-08T15:58:30.185222+00:00",
+  "updated": "2026-06-08T20:22:46.096542+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Top 3 AI platform updates from Google I/O 2026",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=Z1MZuq-8jC8",
+      "date": "2026-06-08T18:40:39+00:00",
+      "age": "1 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "HTML is the new JSON: Declarative partial updates explained #GoogleIO",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/2OQ-gjH_8JA",
       "date": "2026-05-07T20:00:39+00:00",
-      "age": "7 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What is browser feature removal",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/LuVH0o62sCo",
-      "date": "2026-05-05T19:58:50+00:00",
       "age": "7 hrs ago"
     }
   ]
