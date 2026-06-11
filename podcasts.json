@@ -1,6 +1,26 @@
 {
-  "updated": "2026-06-08T20:22:46.096542+00:00",
+  "updated": "2026-06-11T10:42:13.368604+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Keep your page interactive during view transitions #GoogleIO",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Rr5_lPzhe5M",
+      "date": "2026-06-10T19:29:44+00:00",
+      "age": "15 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "395 \u2013 Brain lipidology: understanding APOE, cholesterol homeostasis, Alzheimer\u2019s disease, & more",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=KWNgAyurXFY",
+      "date": "2026-06-09T16:14:37+00:00",
+      "age": "Yesterday"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Top 3 AI platform updates from Google I/O 2026",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/shorts/PCQhSAQqnmc",
       "date": "2026-05-08T00:27:11+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Build your AI testing pipeline",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/fPj-nOcUVyk",
-      "date": "2026-05-07T20:46:25+00:00",
-      "age": "6 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What is Chrome's feature removal process",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/2OQ-gjH_8JA",
-      "date": "2026-05-07T20:00:39+00:00",
-      "age": "7 hrs ago"
     }
   ]
 }
