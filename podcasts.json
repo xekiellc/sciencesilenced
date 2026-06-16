@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-15T20:58:24.442543+00:00",
+  "updated": "2026-06-16T20:57:03.072794+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Stop prompt injection with WebMCP for a safer web.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/0cxQlEhEkSY",
+      "date": "2026-06-16T19:32:24+00:00",
+      "age": "1 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "What is the Federated Credential Management API (FedCM)?",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/Z6AVyuYWoik",
       "date": "2026-05-13T19:53:07+00:00",
       "age": "12 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "It's time to see what's next for the web at #GoogleIO",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/6GLjmLBRwXI",
-      "date": "2026-05-12T14:03:08+00:00",
-      "age": "Yesterday"
     }
   ]
 }
