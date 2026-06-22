@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-19T04:44:43.978028+00:00",
+  "updated": "2026-06-22T04:46:00.699856+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "397 - Endometriosis and adenomyosis: diagnosis, fertility, reproductive aging, & emerging treatments",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=IxHRYDM64dQ",
+      "date": "2026-06-22T04:15:00+00:00",
+      "age": "31 min ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "How to emulate device capabilities with Chrome DevTools for agents",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/h-rb6faAd1A",
       "date": "2026-05-19T02:02:52+00:00",
       "age": "7 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Register for #GoogleIO today and unpack all the news our team is bringing to build a better web",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/smEEMlgyz2s",
-      "date": "2026-05-18T14:42:16+00:00",
-      "age": "57 min ago"
     }
   ]
 }
