@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-25T20:04:42.763298+00:00",
+  "updated": "2026-07-01T09:54:01.805016+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Unlocking productivity with WebMCP",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/H7mWxpdYeRI",
+      "date": "2026-06-30T20:05:59+00:00",
+      "age": "13 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "What's New: Chrome DevTools 148-150",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/watch?v=TUtKGTeFWjQ",
       "date": "2026-05-21T16:35:02+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Modernize authentication with passkeys, digital credentials, and more",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=xzMx2khmGJ4",
-      "date": "2026-05-21T16:33:56+00:00",
       "age": "3 hrs ago"
     }
   ]
