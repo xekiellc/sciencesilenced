@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-01T09:54:01.805016+00:00",
+  "updated": "2026-07-01T20:00:21.982106+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Chrome DevTools 148+: How to use new debugging tools",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/8YHjl0OSZXA",
+      "date": "2026-07-01T17:36:51+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Unlocking productivity with WebMCP",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=bo3i0FzDUYo",
       "date": "2026-05-21T19:06:03+00:00",
       "age": "51 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Build next-generation UIs with the HTML-in-Canvas API",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=TUtKGTeFWjQ",
-      "date": "2026-05-21T16:35:02+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
