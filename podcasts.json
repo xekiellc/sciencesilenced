@@ -1,6 +1,56 @@
 {
-  "updated": "2026-07-02T09:17:14.278667+00:00",
+  "updated": "2026-07-02T19:34:49.734969+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Automate building Chrome Extensions with Antigravity and DevTools MCP (I/O Connect \u201826)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=w37SORQg8II",
+      "date": "2026-07-02T17:25:29+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Practical steps to make your website agent-ready (I/O Connect \u201826)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=SnkNmrW0cdE",
+      "date": "2026-07-02T17:21:54+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "From zero to built-in AI hero (I/O Connect \u201826)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=GUGMMt3x-Ag",
+      "date": "2026-07-02T17:15:09+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Bridge the AI knowledge gap with Modern Web Guidance (I/O Connect \u201826)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=3IZNhRHcY-g",
+      "date": "2026-07-02T17:11:18+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Authentication in 2026: A guide to passkeys, digital credentials and more (I/O Connect \u201826)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=W07fSGVlcw8",
+      "date": "2026-07-02T17:08:10+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "5 core principles behind every successful diet | Peter Attia, M.D.",
@@ -350,56 +400,6 @@
       "url": "https://www.youtube.com/watch?v=1AD81ZselPk",
       "date": "2026-05-22T19:10:32+00:00",
       "age": "42 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What's new in Web UI",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=uT7MVcCQ4rw",
-      "date": "2026-05-22T16:11:55+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Build new features using built-in AI in Chrome",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=ddBxvuH35tI",
-      "date": "2026-05-21T23:46:32+00:00",
-      "age": "9 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Break boundaries with Gemini in Chrome DevTools",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=HKZ9mw6TaCo",
-      "date": "2026-05-21T23:45:27+00:00",
-      "age": "9 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Elevate the Chrome Extensions developer experience",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=g2qrMnvvL6E",
-      "date": "2026-05-21T23:43:37+00:00",
-      "age": "9 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What's new in Angular",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=MbkjTNg2rcg",
-      "date": "2026-05-21T22:37:30+00:00",
-      "age": "10 hrs ago"
     }
   ]
 }
