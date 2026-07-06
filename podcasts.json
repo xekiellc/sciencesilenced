@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-03T19:26:47.393655+00:00",
+  "updated": "2026-07-06T10:42:12.162533+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Building strength and muscle mass: optimize training & nutrition for longevity (AMA #71 rebroadcast)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=CqNqfb37gig",
+      "date": "2026-07-06T04:00:04+00:00",
+      "age": "6 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "How fasting can make chemotherapy more effective | Peter Attia, M.D.",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/9jFC6_-MmuU",
       "date": "2026-05-26T16:30:46+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Build your website for the agentic era",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=HdCc-KezQPk",
-      "date": "2026-05-22T23:03:58+00:00",
-      "age": "9 hrs ago"
     }
   ]
 }
