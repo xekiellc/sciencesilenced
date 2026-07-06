@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-06T10:42:12.162533+00:00",
+  "updated": "2026-07-06T20:01:37.134451+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "New quest: Discover DevTools for agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/66josBG04qA",
+      "date": "2026-07-06T19:03:41+00:00",
+      "age": "57 min ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Building strength and muscle mass: optimize training & nutrition for longevity (AMA #71 rebroadcast)",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/L9ZPSaqFkqg",
       "date": "2026-05-27T13:44:37+00:00",
       "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "The new HTML-in-Canvas API is a game-changer #GoogleIO",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/9jFC6_-MmuU",
-      "date": "2026-05-26T16:30:46+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
