@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-07T03:41:05.373928+00:00",
+  "updated": "2026-07-07T19:59:33.718618+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Create a closed feedback loop: Chrome Devtools for agents (I/O Connect \u201826)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/YImum6f4Z2w",
+      "date": "2026-07-07T19:43:34+00:00",
+      "age": "15 min ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Life After I/O: Where is the Chrome DevRel team now?",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/SAYyWDKdCJA",
+      "date": "2026-07-07T17:31:21+00:00",
+      "age": "2 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "How muscle mass protects you from falls, disease, and decline",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/1wNiYxVUu-w",
+      "date": "2026-07-07T19:21:36+00:00",
+      "age": "37 min ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Google I/O Connect Berlin with Chrome for Developers",
@@ -370,36 +400,6 @@
       "url": "https://www.youtube.com/watch?v=7_cbaDXAWYM",
       "date": "2026-01-21T17:00:21+00:00",
       "age": "127 days ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "The Evolutionary Argument Against Eating Seed Oils | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/H8rDAQeJ1UM",
-      "date": "2026-01-20T17:00:26+00:00",
-      "age": "128 days ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Seed Oils, Saturated Fat, and the Tradeoff People Miss | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/HSVkWSoACwU",
-      "date": "2026-01-19T17:00:34+00:00",
-      "age": "129 days ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What it actually takes to prep for a #GoogleIO session!",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/mc9Rgg1097s",
-      "date": "2026-05-28T13:23:06+00:00",
-      "age": "2 hrs ago"
     }
   ]
 }
