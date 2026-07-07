@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-06T20:01:37.134451+00:00",
+  "updated": "2026-07-07T03:41:05.373928+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Google I/O Connect Berlin with Chrome for Developers",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/_KBZ241HS9c",
+      "date": "2026-07-06T22:01:02+00:00",
+      "age": "5 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "New quest: Discover DevTools for agents",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/mc9Rgg1097s",
       "date": "2026-05-28T13:23:06+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to get modern web guidance from your AI tools",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/L9ZPSaqFkqg",
-      "date": "2026-05-27T13:44:37+00:00",
       "age": "2 hrs ago"
     }
   ]
