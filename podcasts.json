@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-07T19:59:33.718618+00:00",
+  "updated": "2026-07-10T14:33:24.709839+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Explain like I\u2019m 5: WebMCP edition",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/mRsbIHuSMhg",
+      "date": "2026-07-09T21:07:32+00:00",
+      "age": "17 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "What is Modern Web Guidance?",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/RmA5BIzxLYs",
+      "date": "2026-07-09T16:01:36+00:00",
+      "age": "22 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "New workflows for improved web app quality: Modern Web Guidance and DevTools (I/O Connect '26)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/rXT0bscwllk",
+      "date": "2026-07-09T00:23:17+00:00",
+      "age": "Yesterday"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Create a closed feedback loop: Chrome Devtools for agents (I/O Connect \u201826)",
@@ -370,36 +400,6 @@
       "url": "https://www.youtube.com/watch?v=Tsqzx3L6UWs",
       "date": "2026-01-23T17:00:47+00:00",
       "age": "126 days ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Why Ingredient Changes Don\u2019t Always Mean Healthier Food | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/IC7iP7uGiQ4",
-      "date": "2026-01-22T17:00:20+00:00",
-      "age": "127 days ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Scale your web expertise with Chrome DevTools for agents #GoogleIO",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/H8jIVQdYymA",
-      "date": "2026-05-29T13:21:01+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Cooking with Lard vs Seed Oils | Layne Norton, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=7_cbaDXAWYM",
-      "date": "2026-01-21T17:00:21+00:00",
-      "age": "127 days ago"
     }
   ]
 }
