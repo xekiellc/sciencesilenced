@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-17T02:50:52.667607+00:00",
+  "updated": "2026-07-17T19:14:40.032884+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Monoclonal antibodies for dementia | Gayatri Devi, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/70fAHybr9ME",
+      "date": "2026-07-17T16:30:34+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Modern Web Guidance for AI-assisted web development",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=oBZNKSyytOo",
       "date": "2026-06-15T17:48:14+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "396 \u2013 Breast cancer screening: understanding risk, deciding when to start, and more",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=_9mBlZXA1Lk",
-      "date": "2026-06-15T04:15:05+00:00",
-      "age": "31 min ago"
     }
   ]
 }
