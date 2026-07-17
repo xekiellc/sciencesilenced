@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-16T19:15:45.377716+00:00",
+  "updated": "2026-07-17T02:50:52.667607+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance for AI-assisted web development",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/AZyHqiihKbY",
+      "date": "2026-07-16T19:32:05+00:00",
+      "age": "7 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Build a Chrome Extension with Antigravity: A 30-second timer",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=_9mBlZXA1Lk",
       "date": "2026-06-15T04:15:05+00:00",
       "age": "31 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Keep your page interactive during view transitions #GoogleIO",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/Rr5_lPzhe5M",
-      "date": "2026-06-10T19:29:44+00:00",
-      "age": "15 hrs ago"
     }
   ]
 }
