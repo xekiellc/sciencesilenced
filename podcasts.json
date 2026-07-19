@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-17T19:14:40.032884+00:00",
+  "updated": "2026-07-19T19:10:08.473407+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Environmental pollution and longevity: air pollution, noise, light, EMFs, & more (AMA 87 sneak peek)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=sDxAiqfy4-g",
+      "date": "2026-07-19T16:00:10+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Monoclonal antibodies for dementia | Gayatri Devi, M.D.",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=4AAiTP1B8wA",
       "date": "2026-06-15T19:42:41+00:00",
       "age": "1 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Top 3 AI tooling updates from Google I/O 2026",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=oBZNKSyytOo",
-      "date": "2026-06-15T17:48:14+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
