@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-21T08:33:14.001317+00:00",
+  "updated": "2026-07-21T19:27:29.781988+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Merged Version: How to build and debug WebMCP tools for browser agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=5lJ0a6tdj-4",
+      "date": "2026-07-21T17:07:41+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Deep dive with Dhananjay Kumar from MakeMyTrip",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/EJfVtcBxKoo",
       "date": "2026-06-18T22:01:41+00:00",
       "age": "6 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What's new in the latest Angular release",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/30W4NFFn70g",
-      "date": "2026-06-18T19:56:41+00:00",
-      "age": "32 min ago"
     }
   ]
 }
