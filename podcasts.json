@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-21T19:27:29.781988+00:00",
+  "updated": "2026-07-22T02:51:29.293889+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "How to build and debug WebMCP tools for browser agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=5lJ0a6tdj-4",
+      "date": "2026-07-21T17:07:41+00:00",
+      "age": "9 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Merged Version: How to build and debug WebMCP tools for browser agents",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=IxHRYDM64dQ",
       "date": "2026-06-22T04:15:00+00:00",
       "age": "31 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to emulate device capabilities with Chrome DevTools for agents",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/EJfVtcBxKoo",
-      "date": "2026-06-18T22:01:41+00:00",
-      "age": "6 hrs ago"
     }
   ]
 }
