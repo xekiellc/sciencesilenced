@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-30T19:36:28.564410+00:00",
+  "updated": "2026-08-03T09:50:56.096097+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "402 \u2012 NMR blood analysis: how mortality risk and more can be assessed from a single blood sample",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=IMbghqZ1iXI",
+      "date": "2026-08-03T04:00:30+00:00",
+      "age": "5 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Inspect and test WebMCP tools using Chrome DevTools",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/watch?v=3IZNhRHcY-g",
       "date": "2026-07-02T17:11:18+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Authentication in 2026: A guide to passkeys, digital credentials and more (I/O Connect \u201826)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=W07fSGVlcw8",
-      "date": "2026-07-02T17:08:10+00:00",
       "age": "2 hrs ago"
     }
   ]
