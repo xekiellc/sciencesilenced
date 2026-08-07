@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-07T00:04:15.399223+00:00",
+  "updated": "2026-08-07T19:00:25.857090+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Fluffy LDL particles and cardiovascular risk | Jim Otvos, Ph.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Ee1PuwnX5Tw",
+      "date": "2026-08-07T16:30:29+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Lighthouse audits with DevTools for agents",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/watch?v=w37SORQg8II",
       "date": "2026-07-02T17:25:29+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Practical steps to make your website agent-ready (I/O Connect \u201826)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=SnkNmrW0cdE",
-      "date": "2026-07-02T17:21:54+00:00",
       "age": "2 hrs ago"
     }
   ]
