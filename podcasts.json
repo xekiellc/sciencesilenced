@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-14T18:57:40.442256+00:00",
+  "updated": "2026-08-17T12:49:05.766655+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "404 \u2012 Mental health beyond neurotransmitters: hormones in psychiatry, psychedelic therapies, & more",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=fs89fhQCfj4",
+      "date": "2026-08-17T04:00:07+00:00",
+      "age": "8 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Stop Checking the Weather (Code This Instead) \u2614",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/1wNiYxVUu-w",
       "date": "2026-07-07T19:21:36+00:00",
       "age": "37 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Google I/O Connect Berlin with Chrome for Developers",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/_KBZ241HS9c",
-      "date": "2026-07-06T22:01:02+00:00",
-      "age": "5 hrs ago"
     }
   ]
 }
