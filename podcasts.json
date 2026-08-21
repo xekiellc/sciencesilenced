@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-19T18:38:28.697475+00:00",
+  "updated": "2026-08-21T01:25:42.547909+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Mental health and the price of modernity | Linus Abrams, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Essbq01Xb1E",
+      "date": "2026-08-20T16:30:29+00:00",
+      "age": "8 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "MDMA and psilocybin for PTSD and depression | Linus Abrams, M.D.",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/YImum6f4Z2w",
       "date": "2026-07-07T19:43:34+00:00",
       "age": "15 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Life After I/O: Where is the Chrome DevRel team now?",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/SAYyWDKdCJA",
-      "date": "2026-07-07T17:31:21+00:00",
-      "age": "2 hrs ago"
     }
   ]
 }
