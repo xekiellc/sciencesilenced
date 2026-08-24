@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-21T01:25:42.547909+00:00",
+  "updated": "2026-08-24T07:02:42.954068+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Metabolic liver health: how to assess risk, catch dysfunction early, and more (AMA 88 sneak peek)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=9FMwKc4DfSM",
+      "date": "2026-08-24T04:00:15+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Mental health and the price of modernity | Linus Abrams, M.D.",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/rXT0bscwllk",
       "date": "2026-07-09T00:23:17+00:00",
       "age": "Yesterday"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Create a closed feedback loop: Chrome Devtools for agents (I/O Connect \u201826)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/YImum6f4Z2w",
-      "date": "2026-07-07T19:43:34+00:00",
-      "age": "15 min ago"
     }
   ]
 }
