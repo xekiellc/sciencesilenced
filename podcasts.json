@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-24T07:02:42.954068+00:00",
+  "updated": "2026-08-27T21:58:32.913269+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Develop Chrome Extensions with DevTools for agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=H5poN8Q4cuk",
+      "date": "2026-08-27T18:08:30+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Metabolic liver health: how to assess risk, catch dysfunction early, and more (AMA 88 sneak peek)",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/RmA5BIzxLYs",
       "date": "2026-07-09T16:01:36+00:00",
       "age": "22 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "New workflows for improved web app quality: Modern Web Guidance and DevTools (I/O Connect '26)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/rXT0bscwllk",
-      "date": "2026-07-09T00:23:17+00:00",
-      "age": "Yesterday"
     }
   ]
 }
