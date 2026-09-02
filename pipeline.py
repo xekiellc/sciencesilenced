@@ -9,25 +9,30 @@ ANTHROPIC_KEY = os.environ['ANTHROPIC_API_KEY']
 NEWS_JSON     = 'news.json'
 PODS_JSON     = 'podcasts.json'
 MAX_ARTICLES  = 30
-MAX_AGE_DAYS  = 14
-MODEL         = 'claude-sonnet-4-20250514'
+MAX_AGE_DAYS  = 60
+MODEL         = 'claude-sonnet-4-6'
 
 NEWS_QUERIES = [
-    'suppressed medical research',
-    'retracted study pharma',
-    'NIH grant denied research',
-    'FDA suppressed data clinical trial',
-    'pharmaceutical fraud buried study',
-    'Fauci NIH corruption',
-    'medical whistleblower',
-    'Alzheimer amyloid fraud',
-    'nutrition science suppressed',
-    'psychiatric medication harm study',
-    'replication crisis medicine',
-    'medical journal retraction fraud',
-    'VAERS adverse event',
-    'cancer metabolic therapy',
+    'Fauci contempt Congress',
+    'Fauci texts messages miscarriage',
+    'Fauci diary fifth amendment',
+    'suppressed medical research 2026',
+    'retracted study pharma fraud',
+    'NIH FDA corruption 2026',
+    'pharmaceutical fraud clinical trial',
+    'medical whistleblower 2026',
+    'vaccine adverse event suppressed',
+    'nutrition science suppressed seed oils',
+    'psychiatric medication harm overdiagnosis',
+    'replication crisis medicine 2026',
+    'cancer metabolic therapy suppressed',
     'longevity research rapamycin metformin',
+    'gain of function lab leak 2026',
+    'RFK HHS pharma suppressed',
+    'FDA suppressed treatment approval',
+    'Big Pharma buried clinical trial data',
+    'medical censorship doctor license',
+    'natural immunity suppressed research',
 ]
 
 YOUTUBE_FEEDS = [
@@ -40,6 +45,7 @@ YOUTUBE_FEEDS = [
 ALT_FEEDS = [
     'https://brownstone.org/feed/',
     'https://www.thefp.com/feed',
+    'https://www.trialsitenews.com/feed',
 ]
 
 client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
@@ -70,7 +76,7 @@ def fetch_newsapi(query):
             'language': 'en',
             'sortBy': 'publishedAt',
             'pageSize': 10,
-            'from': (datetime.now(timezone.utc) - timedelta(days=3)).strftime('%Y-%m-%d'),
+            'from': (datetime.now(timezone.utc) - timedelta(days=7)).strftime('%Y-%m-%d'),
             'apiKey': NEWSAPI_KEY,
         }, timeout=15)
         r.raise_for_status()
@@ -93,7 +99,7 @@ def fetch_rss(url, label='RSS'):
     try:
         feed = feedparser.parse(url)
         items = []
-        for entry in feed.entries[:5]:
+        for entry in feed.entries[:8]:
             items.append({
                 'title': entry.get('title',''),
                 'description': entry.get('summary','')[:400],
@@ -119,22 +125,25 @@ def claude_categorize(raw_articles, existing_ids):
 
     prompt = f"""You are the editorial AI for ScienceSilenced.com — a site aggregating suppressed, censored, and alternative medical and scientific research. Editorial voice: confrontational, evidence-based, fiercely independent. No pharma money. No approved narratives.
 
-Review these articles and select the 8 most relevant. For each return a JSON object.
+Review these articles and select up to 8 most relevant. For each return a JSON object.
 
 INCLUDE articles about:
+- Fauci contempt, texts, diary, Fifth Amendment, miscarriage warning
 - Suppressed or retracted medical/scientific studies
 - Pharma fraud, buried clinical trial data
-- NIH, FDA, CDC corruption or political interference
+- NIH, FDA, CDC, HHS corruption or political interference
 - Whistleblowers in medicine or research
 - Alternative/metabolic theories of disease
 - Longevity science funded outside the system
-- Nutrition science suppression
+- Nutrition science suppression (seed oils, sugar, statins)
 - Psychiatric medication harm or overdiagnosis
 - Replication crisis in medicine
-- Fauci / gain of function / lab leak
-- Wellness practices with genuine scientific backing being dismissed
+- Vaccine adverse events, VAERS, suppressed safety data
+- Natural immunity research dismissed
+- Medical censorship, doctor license revocation for dissent
+- RFK Jr. HHS actions against pharma capture
 
-REJECT: mainstream pharma announcements, routine medical news, political news unrelated to science suppression.
+REJECT: purely political news unrelated to science, sports, entertainment, routine pharma announcements with no suppression angle.
 
 Return this exact JSON structure for each selected article:
 {{
@@ -144,8 +153,8 @@ Return this exact JSON structure for each selected article:
   "url": "original url",
   "date": "ISO date",
   "pillar": "one of: suppressed | exposed | vindicated | uncaged",
-  "category": "e.g. Pharma Fraud / NIH Capture / Metabolic Research / Nutrition Science / Psychiatry / Replication Crisis / Longevity / Whistleblower",
-  "topic": "e.g. Cardiovascular / Oncology / Neurology / Mental Health / Dietary Guidelines",
+  "category": "e.g. Pharma Fraud / NIH Capture / Metabolic Research / Nutrition Science / Psychiatry / Replication Crisis / Longevity / Whistleblower / Fauci",
+  "topic": "e.g. Cardiovascular / Oncology / Neurology / Mental Health / Dietary Guidelines / COVID",
   "suppression_score": 1-5
 }}
 
