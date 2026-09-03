@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-02T20:44:07.604870+00:00",
+  "updated": "2026-09-03T20:42:36.720452+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Third-party tools for Chrome DevTools for Agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=1ZGlnGUp0XA",
+      "date": "2026-09-03T17:11:10+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "The prevalence and impact of migraine | Brian Grosberg, M.D.",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/luOzh9Q1zY8",
       "date": "2026-07-10T16:10:08+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Your grip strength could predict your lifespan",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/anE1dSrnK9g",
-      "date": "2026-07-10T16:30:18+00:00",
       "age": "3 hrs ago"
     }
   ]
