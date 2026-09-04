@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-03T20:42:36.720452+00:00",
+  "updated": "2026-09-04T20:29:31.608730+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Modifiable lifestyle interventions for migraine | Brian Grosberg, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/-Kw_gxbnoIc",
+      "date": "2026-09-04T17:00:33+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "The phases of migraine | Brian Grosberg, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/AmSEX2qIv_U",
+      "date": "2026-09-04T16:30:15+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Third-party tools for Chrome DevTools for Agents",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/watch?v=x7NhqMOwdOM",
       "date": "2026-07-13T04:00:32+00:00",
       "age": "5 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Lighthouse Audit: Make your website agent-ready",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/0heeppCYrmM",
-      "date": "2026-07-10T19:09:26+00:00",
-      "age": "27 min ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "The Butterfly Effect: Dev Edition",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/luOzh9Q1zY8",
-      "date": "2026-07-10T16:10:08+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
