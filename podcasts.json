@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-05T10:12:14.960794+00:00",
+  "updated": "2026-09-05T20:05:58.001665+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "What Brian wants people to know about headaches | Brian Grosberg, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/zhEvfhJQTN8",
+      "date": "2026-09-05T16:30:19+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "How to use Chrome DevTools for agents with Chrome extensions",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/O_QresB6ZoE",
       "date": "2026-07-15T16:30:13+00:00",
       "age": "Yesterday"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Can Alzheimer\u2019s patients get better? | Gayatri Devi, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/XogQ7HXEAzI",
-      "date": "2026-07-13T22:24:59+00:00",
-      "age": "2 days ago"
     }
   ]
 }
