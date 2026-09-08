@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-08T03:42:08.671775+00:00",
+  "updated": "2026-09-08T10:52:22.136297+00:00",
   "articles": [
+    {
+      "title": "Pentagon and HHS Open Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
+      "summary": "The Trump administration has launched a formal investigation into whether COVID-19 vaccines contributed to deaths among U.S. service members forced to take the shots under Biden's military mandate. Soldiers had no choice \u2014 comply or face discharge. If the link is confirmed, it will represent one of the most damning indictments of government-coerced medical experimentation in modern American history.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "The Tamiflu Con: How Roche Buried Data, Bilked Governments for Billions, and Got Away With It",
+      "summary": "The Brownstone Institute tears open the festering wound of Tamiflu \u2014 a drug governments stockpiled for billions based on clinical trial data Roche refused to fully release for years. When the Cochrane Collaboration finally got the raw data, the drug barely worked. Regulators knew, said nothing, and the pandemic preparedness gravy train rolled on.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/the-multi-billion-dollar-tamiflu-con/",
+      "date": "2026-09-05",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Cardiovascular",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Capricor Therapeutics Sued for Securities Fraud After Clinical Data Manipulation Triggers 64% Stock Collapse",
+      "summary": "Capricor Therapeutics is facing a securities fraud class action after alleged misrepresentations about the integrity of clinical data for its Biologics License Application caused a 64% stock implosion. Investors were kept in the dark while insiders knew the clinical data supporting Deramiocel was compromised. This is pharma data manipulation with a paper trail.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/capr-class-action-alert-capricor-therapeutics-clinical-data-issues-and-subsequent-64-stock-drop-lead-to-investor-securities-fraud-class-action-to-recover-losses-302865681.html",
+      "date": "2026-09-01",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Niacin and Choline: The Suppressed Nutritional Science Behind the Fatty Liver Epidemic",
+      "summary": "Mercola examines emerging research linking niacin and choline deficiency to the explosive rise of non-alcoholic fatty liver disease \u2014 a condition affecting tens of millions while official dietary guidelines remain silent on these critical nutrients. The same establishment that pushed seed oils and low-fat diets for decades is now presiding over a metabolic catastrophe it helped create. The nutritional fix is cheap, unpatentable, and therefore ignored.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
+      "date": "2026-09-05",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Cardiovascular",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Regeneron Investors Sue Over Losses \u2014 Another Pharma Giant Caught in the Data Confidence Game",
+      "summary": "Robbins Geller has filed a class action against Regeneron Pharmaceuticals covering a year-long period in which investors allege they were misled about material business facts. The pattern is familiar: soaring stock valuations built on carefully managed narratives, followed by collapse when reality surfaces. Retail investors pay the price while pharma executives cash out.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/regn-investor-alert-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-regeneron-class-action-lawsuit-302869584.html",
+      "date": "2026-09-03",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "AI Drug Candidate Shows Biological Age Reversal Signal \u2014 Funded Outside the NIH Cartel",
+      "summary": "Insilico Medicine's AI-designed IPF drug candidate rentosertib has demonstrated measurable biological age reversal signals across six proteomic aging clocks, published in Nature Biotechnology. This research was driven by generative AI and aging hallmark science \u2014 not the calcified NIH grant machine that has strangled longevity research for decades. The system didn't fund this. That's exactly why it's worth watching.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
+      "date": "2026-09-05",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Oncology",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "CDC Merges Overdose Tracking Systems \u2014 Consolidation or Data Burial?",
+      "summary": "The CDC has quietly merged three separate overdose surveillance systems into a single public dashboard, announcing the move alongside a 12% drop in provisional overdose deaths. Combining fatal and non-fatal tracking into one channel raises serious questions about data granularity and independent auditability at an agency with a documented history of shaping narratives around drug policy. Who controls the dashboard controls the story.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/cdc-overdose-prevention-data-channel-fatal-nonfatal-state-trends-478203",
+      "date": "2026-09-05",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Neurology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Faces Fraud Lawsuit After FTC Complaint Exposes Deceptive Practices \u2014 Stock Craters",
+      "summary": "Hims & Hers Health is now fighting both an FTC federal complaint and a securities class action after the FTC accused the company of deceptive practices that drove its stock sharply lower. Executives allegedly concealed the regulatory threat while insiders maintained their positions. The telehealth gold rush has always had a fraud problem \u2014 now the bill is coming due.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302869268.html",
+      "date": "2026-09-03",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "The Multi-Billion Dollar Tamiflu Con: How Roche Buried the Data and Governments Paid the Price",
       "summary": "Tamiflu was stockpiled by governments worldwide at a cost of billions based on clinical trial data that was never fully published or independently verified. When the Cochrane Collaboration finally forced access to the complete trial data, the drug was shown to have minimal benefit over placebo. This is pharma fraud at a global scale \u2014 and regulators knew, or should have known.",
@@ -134,18 +230,6 @@
       "age": ""
     },
     {
-      "title": "Niacin and Choline: The Suppressed Nutritional Science Behind the Fatty Liver Epidemic",
-      "summary": "Metabolic dysfunction-associated fatty liver disease is now a mass public health crisis \u2014 and the nutritional interventions most supported by independent science, including niacin and choline, remain systematically ignored by federal dietary guidelines captured by food industry interests. Mercola's deep dive connects the metabolic dots the CDC and NIH refuse to. The pill-first paradigm has no interest in B vitamins solving a billion-dollar drug market.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
-      "date": "2026-09-05",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
       "title": "Planned Parenthood Whistleblower Fired After Reporting Alleged Illegal 28-Week Abortion",
       "summary": "Former Planned Parenthood executive Jacqueline C. Colyer filed a 26-page whistleblower complaint alleging she was terminated after internally reporting what she described as an illegal abortion performed at approximately 28 weeks. Colyer's case exposes a pattern where institutional self-protection overrides legal compliance and patient safety reporting. When firing the messenger is the response to misconduct reports, the institution has abandoned accountability entirely.",
       "source": "Freerepublic.com",
@@ -218,18 +302,6 @@
       "age": ""
     },
     {
-      "title": "Capricor Therapeutics Sued for Securities Fraud After Clinical Data Manipulation Triggers 64% Stock Collapse",
-      "summary": "Capricor Therapeutics faces a securities fraud class action after alleged misstatements about the integrity of clinical trial data for its drug Deramiocel caused a 64% stock implosion. This is the pharma data manipulation playbook in broad daylight \u2014 inflate trial results, mislead investors and patients, collect the cash, then collapse. The FDA's Biologics License Application process apparently did not catch it.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-class-action-alert-capricor-therapeutics-clinical-data-issues-and-subsequent-64-stock-drop-lead-to-investor-securities-fraud-class-action-to-recover-losses-302865681.html",
-      "date": "2026-09-01",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
       "title": "Planned Parenthood Executive Fired After Reporting Alleged Illegal 28-Week Abortion \u2014 Classic Whistleblower Retaliation",
       "summary": "Former Planned Parenthood executive Jacqueline C. Colyer filed a 26-page complaint alleging she was terminated after reporting what she describes as an illegal abortion performed at approximately 28 weeks gestation. If the allegations hold, this represents both a potential criminal violation and a textbook case of institutional whistleblower suppression. The medical and legal establishment's silence is deafening.",
       "source": "Freerepublic.com",
@@ -286,78 +358,6 @@
       "pillar": "exposed",
       "category": "Pharma Fraud",
       "topic": "Mental Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Fauci Ordered Deletion of Gain-of-Function Email Chain \u2014 The Cover-Up Has a Paper Trail",
-      "summary": "Newly obtained emails reveal Anthony Fauci personally instructed a subordinate to delete an email chain discussing gain-of-function research as far back as March 2012. This is not speculation \u2014 it is documented destruction of scientific correspondence at the highest level of the NIH. If true, it implicates Fauci in a deliberate effort to erase the evidentiary record of research that may have contributed to the COVID-19 pandemic.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-31-fauci-ordered-deletion-gain-of-function-email.html",
-      "date": "2026-08-31",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "NIH Director Jay Bhattacharya Called Out for Misleading Public Statements \u2014 Agency Insiders Push Back",
-      "summary": "Current and former NIH employees are accusing Director Jay Bhattacharya of making misleading public claims even as he touts a mission of restoring institutional trust. The accusations from inside the agency suggest the reform narrative at NIH may be more performance than substance. This is a critical moment: if even the supposed reformer is playing games with the truth, the corruption runs deeper than any single appointment can fix.",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/news/government/science-research-policy/2026/08/31/nih-director-says-lot-critics-call-much-it",
-      "date": "2026-08-31",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Niacin and Choline Suppressed in Fatty Liver Conversation \u2014 Metabolic Truth the Pharma Diet Won't Touch",
-      "summary": "Emerging research links niacin and choline deficiency to the explosive rise of non-alcoholic fatty liver disease \u2014 a condition now affecting tens of millions of Americans. The metabolic and nutritional roots of this epidemic have been systematically sidelined in favor of pharmaceutical interventions. This piece names the biochemical mechanisms that mainstream dietary guidelines have ignored for decades.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
-      "date": "2026-09-05",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Metabolic / Liver Disease",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Capricor Therapeutics Accused of Falsifying Clinical Data \u2014 64% Stock Crash Triggers Securities Fraud Suit",
-      "summary": "Capricor Therapeutics is facing a securities fraud class action lawsuit after alleged misstatements about the clinical data integrity behind its Biologics License Application for Deramiocel caused a 64% stock collapse. This is precisely the kind of buried trial data manipulation that regulators are supposed to catch \u2014 and didn't. Investors got burned while patients may have been misled about a drug's actual evidence base.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-class-action-alert-capricor-therapeutics-clinical-data-issues-and-subsequent-64-stock-drop-lead-to-investor-securities-fraud-class-action-to-recover-losses-302865681.html",
-      "date": "2026-09-01",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology / Rare Disease",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Planned Parenthood Executive Whistleblower Fired After Reporting Illegal 28-Week Abortion",
-      "summary": "Jacqueline C. Colyer, a former Planned Parenthood Great Rivers executive, filed a 26-page whistleblower complaint after she was fired for reporting what she describes as an illegal abortion performed at approximately 28 weeks of pregnancy. This is a textbook retaliation-against-whistleblower case inside one of the most politically shielded medical organizations in the country. The suppression of internal dissent at Planned Parenthood deserves the same scrutiny we apply to any other medical institution.",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4393728/posts",
-      "date": "2026-09-01",
-      "pillar": "uncaged",
-      "category": "Whistleblower",
-      "topic": "Reproductive Medicine",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Regeneron Investors Sue Over Undisclosed Material Risks \u2014 Another Pharma Giant Faces Fraud Allegations",
-      "summary": "Robbins Geller has filed a class action against Regeneron Pharmaceuticals on behalf of investors who allege they were misled about material risks during a defined class period running through mid-2026. Regeneron is a major beneficiary of government vaccine and biologic contracts, making any fraud allegations against it a matter of public health accountability \u2014 not just investor protection. Pattern recognition matters: this is not an isolated incident in the pharma investment landscape.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/regn-investor-alert-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-regeneron-class-action-lawsuit-302869584.html",
-      "date": "2026-09-03",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular / Biologics",
       "suppression_score": 3,
       "age": ""
     }
