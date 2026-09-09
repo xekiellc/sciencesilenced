@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-09T03:47:12.919220+00:00",
+  "updated": "2026-09-09T10:57:49.831881+00:00",
   "articles": [
+    {
+      "title": "Pentagon and HHS Launch Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
+      "summary": "The Trump administration has opened a formal investigation into whether COVID-19 vaccines contributed to deaths among U.S. service members who were forced to take the shots under Biden's military mandate. Soldiers had no choice \u2014 comply or lose their careers. If the link is confirmed, it represents one of the most consequential vaccine safety scandals in American military history.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "FDA Rubber-Stamped Moderna's mRNA Flu Vaccine \u2014 And the Review Was a Disaster",
+      "summary": "Investigative journalist Maryanne Demasi at the Brownstone Institute exposes critical failures in the FDA's review process for Moderna's flu mRNA vaccine, raising serious questions about whether regulators are doing their jobs or just waving through products. This is the same approval machinery that fast-tracked COVID shots with minimal long-term safety data. The pattern of regulatory negligence is no longer deniable.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/fdas-botched-review-of-modernas-flu-mrna-vaccine/",
+      "date": "2026-09-05",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Tamiflu Was a Multi-Billion Dollar Fraud \u2014 And Governments Worldwide Bought Every Dose",
+      "summary": "Alan Cassels at the Brownstone Institute dismantles the Tamiflu scandal: a drug stockpiled by governments at massive public expense based on clinical trial data that was never fully released to independent researchers. Roche withheld the data for years while regulators looked the other way. This is pharma capture in its most expensive and deadly form.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/the-multi-billion-dollar-tamiflu-con/",
+      "date": "2026-09-05",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Capricor Therapeutics Sued for Securities Fraud After Hiding Clinical Trial Data Flaws \u2014 Stock Collapses 64%",
+      "summary": "Capricor Therapeutics now faces a securities fraud lawsuit after investors allege the company misrepresented clinical data behind its Biologics License Application for Deramiocel, sending the stock into freefall. Buried or manipulated trial data isn't just a scientific problem \u2014 it's a crime that costs patients and investors alike. This is what happens when the biotech gold rush runs ahead of scientific integrity.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/capr-lawsuit-alert-capricor-therapeutics-investors-face-september-28-deadline-after-64-stock-drop-tied-to-clinical-data-disclosure-302870584.html",
+      "date": "2026-09-08",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Niacin and Choline Deficiency Quietly Driving the Fatty Liver Epidemic \u2014 Not the Calories You're Counting",
+      "summary": "Mercola.com spotlights emerging research linking niacin and choline deficiency to the explosive rise in non-alcoholic fatty liver disease \u2014 a metabolic angle that gets almost zero airtime in mainstream dietary guidelines still dominated by Big Food and Big Pharma interests. The FDA's food pyramid never told you this. Millions are developing silent liver disease while official guidance fiddles with macros.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
+      "date": "2026-09-05",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Metabolic / Hepatology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "AI Drug Candidate Shows Biological Age Reversal Signal \u2014 Funded Outside the NIH Orthodoxy",
+      "summary": "Insilico Medicine's AI-designed drug rentosertib, published in Nature Biotechnology, shows measurable biological age reversal signals across six independent proteomic aging clocks in a first-of-its-kind evaluation. This is longevity science advancing without the NIH's permission \u2014 driven by AI and aging biology the establishment has spent decades dismissing. The question is whether regulators will let it survive the approval gauntlet.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
+      "date": "2026-09-07",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Longevity / Oncology",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "CDC Merges Overdose Data Systems \u2014 But Who Controls the Numbers Controls the Narrative",
+      "summary": "The CDC has consolidated three overdose tracking systems into a single public dashboard, announcing a 12.3% drop in overdose deaths to 67,798. While the number sounds like progress, centralizing government data into one agency-controlled dashboard raises serious questions about transparency, methodology, and who gets to define what counts as an overdose death in the fentanyl crisis era.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/cdc-overdose-prevention-data-channel-fatal-nonfatal-state-trends-478203",
+      "date": "2026-09-05",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Public Health / Overdose",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Regeneron Faces Class Action Over Alleged Misrepresentations \u2014 Another Pharma Giant in the Fraud Dock",
+      "summary": "Robbins Geller Rudman & Dowd has filed a class action against Regeneron Pharmaceuticals covering a class period from August 2025 to May 2026, alleging investors were misled about material facts that drove significant losses. Regeneron, a major COVID-era beneficiary and Dupixent maker, now faces scrutiny over whether its public statements matched internal data. Pharma giants playing fast and loose with disclosure is a systemic problem, not an anomaly.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/regn-investor-alert-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-regeneron-class-action-lawsuit-302869584.html",
+      "date": "2026-09-03",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology / Immunology",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "Pentagon & HHS Open Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
       "summary": "The Trump administration has launched a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members forced to take the shots under Biden's military mandate. Soldiers had no informed consent and no recourse \u2014 comply or lose your career. If the link is confirmed, it will represent one of the most consequential government-mandated medical harms in modern American history.",
@@ -11,18 +107,6 @@
       "category": "Vaccine Adverse Events",
       "topic": "COVID",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "FDA Rubber-Stamped Moderna's mRNA Flu Vaccine \u2014 And the Review Was a Disaster",
-      "summary": "Brownstone Institute's Maryanne Demasi details how the FDA's review of Moderna's mRNA flu vaccine was riddled with procedural failures and evidentiary gaps. The same agency that fast-tracked COVID mRNA products is now applying the same broken framework to seasonal flu shots. The public is being asked to trust a process that independent analysts say cannot be trusted.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/fdas-botched-review-of-modernas-flu-mrna-vaccine/",
-      "date": "2026-09-07",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Pharma Fraud",
       "topic": "Cardiovascular",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Niacin and Choline: The Suppressed Nutritional Science Behind the Fatty Liver Epidemic",
-      "summary": "Mercola examines emerging research linking niacin and choline deficiency to the explosive rise of non-alcoholic fatty liver disease \u2014 a condition affecting tens of millions while official dietary guidelines remain silent on these critical nutrients. The same establishment that pushed seed oils and low-fat diets for decades is now presiding over a metabolic catastrophe it helped create. The nutritional fix is cheap, unpatentable, and therefore ignored.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
-      "date": "2026-09-05",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Regeneron Investors Sue Over Losses \u2014 Another Pharma Giant Caught in the Data Confidence Game",
-      "summary": "Robbins Geller has filed a class action against Regeneron Pharmaceuticals covering a year-long period in which investors allege they were misled about material business facts. The pattern is familiar: soaring stock valuations built on carefully managed narratives, followed by collapse when reality surfaces. Retail investors pay the price while pharma executives cash out.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/regn-investor-alert-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-regeneron-class-action-lawsuit-302869584.html",
-      "date": "2026-09-03",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "AI Drug Candidate Shows Biological Age Reversal Signal \u2014 Funded Outside the NIH Cartel",
-      "summary": "Insilico Medicine's AI-designed IPF drug candidate rentosertib has demonstrated measurable biological age reversal signals across six proteomic aging clocks, published in Nature Biotechnology. This research was driven by generative AI and aging hallmark science \u2014 not the calcified NIH grant machine that has strangled longevity research for decades. The system didn't fund this. That's exactly why it's worth watching.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
-      "date": "2026-09-05",
-      "pillar": "uncaged",
-      "category": "Longevity",
-      "topic": "Oncology",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "CDC Merges Overdose Tracking Systems \u2014 Consolidation or Data Burial?",
-      "summary": "The CDC has quietly merged three separate overdose surveillance systems into a single public dashboard, announcing the move alongside a 12% drop in provisional overdose deaths. Combining fatal and non-fatal tracking into one channel raises serious questions about data granularity and independent auditability at an agency with a documented history of shaping narratives around drug policy. Who controls the dashboard controls the story.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/cdc-overdose-prevention-data-channel-fatal-nonfatal-state-trends-478203",
-      "date": "2026-09-05",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Neurology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Faces Fraud Lawsuit After FTC Complaint Exposes Deceptive Practices \u2014 Stock Craters",
-      "summary": "Hims & Hers Health is now fighting both an FTC federal complaint and a securities class action after the FTC accused the company of deceptive practices that drove its stock sharply lower. Executives allegedly concealed the regulatory threat while insiders maintained their positions. The telehealth gold rush has always had a fraud problem \u2014 now the bill is coming due.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302869268.html",
-      "date": "2026-09-03",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "The Multi-Billion Dollar Tamiflu Con: How Roche Buried the Data and Governments Paid the Price",
-      "summary": "Tamiflu was stockpiled by governments worldwide at a cost of billions based on clinical trial data that was never fully published or independently verified. When the Cochrane Collaboration finally forced access to the complete trial data, the drug was shown to have minimal benefit over placebo. This is pharma fraud at a global scale \u2014 and regulators knew, or should have known.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-multi-billion-dollar-tamiflu-con/",
-      "date": "2026-09-05",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Infectious Disease",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Niacin and Choline: The Buried Nutritional Science Behind the Fatty Liver Epidemic",
-      "summary": "Metabolic dysfunction-associated fatty liver disease is exploding in America, yet the upstream nutritional causes \u2014 including deficiencies in niacin and choline \u2014 are systematically ignored in favor of pharmaceutical interventions. Mercola's analysis points to dietary factors that the processed food and pharma industries have every incentive to keep out of clinical guidelines. The science exists; the will to act on it does not.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
-      "date": "2026-09-05",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Metabolic / Hepatology",
-      "suppression_score": 3,
       "age": ""
     }
   ]
