@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-08T20:53:16.278179+00:00",
+  "updated": "2026-09-09T03:47:12.919220+00:00",
   "articles": [
+    {
+      "title": "Pentagon & HHS Open Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
+      "summary": "The Trump administration has launched a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members forced to take the shots under Biden's military mandate. Soldiers had no informed consent and no recourse \u2014 comply or lose your career. If the link is confirmed, it will represent one of the most consequential government-mandated medical harms in modern American history.",
+      "source": "Natural News",
+      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "Vaccine Adverse Events",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "FDA Rubber-Stamped Moderna's mRNA Flu Vaccine \u2014 And the Review Was a Disaster",
+      "summary": "Brownstone Institute's Maryanne Demasi details how the FDA's review of Moderna's mRNA flu vaccine was riddled with procedural failures and evidentiary gaps. The same agency that fast-tracked COVID mRNA products is now applying the same broken framework to seasonal flu shots. The public is being asked to trust a process that independent analysts say cannot be trusted.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/fdas-botched-review-of-modernas-flu-mrna-vaccine/",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Tamiflu Was a Multi-Billion Dollar Fraud \u2014 And Governments Bought It Anyway",
+      "summary": "Alan Cassels at Brownstone Institute dissects the Tamiflu scandal: a drug stockpiled by governments worldwide at enormous cost based on clinical trial data that was never fully released to independent researchers. Roche buried the complete trial data for years while regulators looked the other way. The Tamiflu con is a blueprint for how pharma captures public health policy and walks away with billions.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/the-multi-billion-dollar-tamiflu-con/",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Infectious Disease",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Niacin and Choline Deficiency Are Driving the Fatty Liver Epidemic \u2014 And Nobody in Mainstream Medicine Is Talking About It",
+      "summary": "Mercola.com explores emerging research linking niacin and choline deficiency to the explosive rise of non-alcoholic fatty liver disease, a condition now afflicting tens of millions of Americans. Conventional medicine continues to push pharmaceutical interventions while ignoring foundational nutritional science. The suppression of metabolic and nutrient-based approaches to liver disease is costing lives while enriching drug manufacturers.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/05/niacin-choline-fatty-liver-disease.aspx",
+      "date": "2026-09-05",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Metabolic / Hepatology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "AI Drug Candidate Reverses Biological Aging Markers \u2014 Funded Outside the NIH System",
+      "summary": "Insilico Medicine's AI-designed compound rentosertib, published in Nature Biotechnology, shows measurable reversal of biological age across six independent proteomic aging clocks. This is first-of-its-kind research developed without traditional NIH funding pipelines, using generative AI to identify novel targets. The establishment's near-total silence on AI-driven longevity breakthroughs reflects institutional gatekeeping of research that threatens the chronic disease treatment economy.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
+      "date": "2026-09-07",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Aging / Longevity",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Regeneron Hit With Class Action \u2014 Investors Allege They Were Misled on Drug Performance Data",
+      "summary": "A class action lawsuit targets Regeneron Pharmaceuticals, alleging investors were materially misled during a period covering mid-2025 through May 2026. While framed as a securities case, the underlying allegation points to a pattern familiar to pharma watchers: data that doesn't match the public narrative. When the numbers finally surface, it's shareholders \u2014 not patients \u2014 who get the first warning.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/regn-investor-alert-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-regeneron-class-action-lawsuit-302869584.html",
+      "date": "2026-09-03",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology / General",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Faces FTC Lawsuit and Securities Fraud Claims \u2014 The Telehealth Gold Rush Has a Dirty Underbelly",
+      "summary": "Hims & Hers Health is now facing both an FTC federal complaint and a securities class action lawsuit after allegations emerged that company executives misled investors about regulatory risks. The FTC's sweeping complaint suggests the company's aggressive marketing crossed legal lines. This is what happens when the 'disruptive healthcare' narrative runs headlong into accountability.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302871455.html",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "General / Regulatory",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Doctors Are Being Silenced \u2014 Saving Lives Without FDA Permission Is Now a Career-Ending Move",
+      "summary": "Brownstone Institute's Dr. Joseph Varon documents the systematic suppression of physicians who attempt to treat patients with protocols outside CDC and FDA-approved guidelines \u2014 including during COVID, when early treatment advocates were threatened with license revocation. The medical licensing apparatus has been weaponized against clinical independence, turning regulators into enforcers for approved narratives rather than protectors of patients.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/saving-lives-should-not-require-permission/",
+      "date": "2026-09-07",
+      "pillar": "uncaged",
+      "category": "Medical Censorship",
+      "topic": "COVID / Regulatory",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "FDA Rubber-Stamped Moderna's Flu mRNA Vaccine \u2014 And the Review Was a Disaster",
       "summary": "Maryanne Demasi at the Brownstone Institute dissects the FDA's review process for Moderna's flu mRNA vaccine, exposing critical failures in how regulators evaluated safety and efficacy data. This is the same approval infrastructure that fast-tracked COVID mRNA products with minimal long-term data. The pattern of botched reviews isn't incompetence \u2014 it's a feature of a captured agency.",
@@ -95,18 +191,6 @@
       "category": "Pharma Fraud",
       "topic": "Oncology",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Pentagon & HHS Open Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
-      "summary": "The Trump administration has launched a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members forced to take the shots under Biden's military mandate. Soldiers had no choice \u2014 comply or lose their careers. If the link holds, this is state-compelled injury on a mass scale, and every official who signed that mandate needs to answer for it.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
-      "date": "2026-09-07",
-      "pillar": "exposed",
-      "category": "Vaccine Adverse Events",
-      "topic": "COVID",
-      "suppression_score": 5,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Nutrition Science",
       "topic": "Metabolic / Hepatology",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Capricor Therapeutics Accused of Falsifying Clinical Trial Data \u2014 64% Stock Collapse Exposes the Rot",
-      "summary": "Capricor Therapeutics is now facing a securities fraud class action after alleged misrepresentations about the integrity of clinical data supporting its Biologics License Application for Deramiocel caused a 64% stock implosion. This is the exact mechanism by which fraudulent trial data reaches patients: hype the data, get regulatory approval, cash out before the truth surfaces. Investors are collateral damage; patients are the real victims.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-class-action-alert-capricor-therapeutics-clinical-data-issues-and-subsequent-64-stock-drop-lead-to-investor-securities-fraud-class-action-to-recover-losses-302865681.html",
-      "date": "2026-09-01",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology / Rare Disease",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Regeneron Under Fire: Class Action Alleges Investors Were Misled \u2014 What About Patients?",
-      "summary": "A securities class action against Regeneron Pharmaceuticals alleges the company made material misstatements to investors during a 10-month window in 2025\u20132026. When pharma giants mislead Wall Street, they are almost certainly misleading physicians and patients too. The question regulators refuse to ask: what did Regeneron know, when did they know it, and did any of it reach the FDA's desk?",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/regn-investor-alert-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-regeneron-class-action-lawsuit-302869584.html",
-      "date": "2026-09-03",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Regulatory / Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Hit With FTC Lawsuit \u2014 Telehealth's Dirty Secret Is Finally Getting Scrutiny",
-      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health, triggering a securities class action and a sharp stock decline. The Commission's allegations point to systemic deceptive practices in a telehealth model that has marketed itself as the consumer-friendly alternative to Big Pharma \u2014 while allegedly engaging in the same playbook. When the disruptor becomes the cartel, patients lose twice.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302869268.html",
-      "date": "2026-09-03",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Regulatory / Consumer Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "MASH Pathogenesis Mapped by Nature \u2014 But Will Metabolic Truths Ever Reach Clinical Guidelines?",
-      "summary": "Nature publishes a landmark review on the molecular and cellular mechanisms driving metabolic dysfunction-associated steatohepatitis and its progression to liver cancer. The science is advancing rapidly, yet dietary and metabolic interventions that address root causes remain absent from mainstream treatment protocols dominated by pharmaceutical solutions. The gap between what researchers know and what doctors prescribe is not accidental.",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10529-0",
-      "date": "2026-09-05",
-      "pillar": "suppressed",
-      "category": "Metabolic Research",
-      "topic": "Metabolic / Hepatology",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "CDC Quietly Merges Overdose Tracking Systems \u2014 Transparency Move or Data Control?",
-      "summary": "The CDC has consolidated three separate overdose surveillance systems into a single public dashboard, coinciding with a reported 12.3% drop in provisional overdose deaths to 67,798. While the decline is welcome, merging disparate datasets into one agency-controlled channel raises legitimate questions about data granularity, accountability, and whether inconvenient regional or demographic signals will survive the consolidation. Who controls the dashboard controls the narrative.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/cdc-overdose-prevention-data-channel-fatal-nonfatal-state-trends-478203",
-      "date": "2026-09-05",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Public Health / Opioids",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "FDA Rubber-Stamps Another Gilead HIV Combo Tablet \u2014 Innovation or Perpetual Patent Capture?",
-      "summary": "The FDA has approved Bixlenvo, Gilead's new single-tablet combination of bictegravir and lenacapavir for HIV patients on complex regimens. Gilead has built an HIV drug empire on reformulating existing compounds into new combinations that reset patent clocks and block generic competition \u2014 a strategy that costs patients and payers billions while offering marginal clinical advances. The FDA's approval pipeline functions as a pharma revenue protection service.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/bixlenvo-fda-approval-bictegravir-lenacapavir-hiv-single-tablet-478022",
-      "date": "2026-09-05",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Infectious Disease / HIV",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Fauci Ordered Deletion of Gain-of-Function Email Chain \u2014 And Nobody Went to Jail",
-      "summary": "Newly obtained emails reveal Anthony Fauci personally instructed a subordinate to delete a 2012 email chain discussing gain-of-function research \u2014 the exact science at the center of COVID-19's origin controversy. This is not a clerical error; this is evidence destruction by the nation's highest-paid federal health official. If this had happened in any other federal investigation, it would be called obstruction.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-31-fauci-ordered-deletion-gain-of-function-email.html",
-      "date": "2026-08-31",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 5,
       "age": ""
     }
   ]
