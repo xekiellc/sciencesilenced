@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-07T11:56:11.159672+00:00",
+  "updated": "2026-09-10T20:35:44.238359+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Build custom third-party tools in Chrome DevTools",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/OML41EaXFBs",
+      "date": "2026-09-10T16:10:41+00:00",
+      "age": "4 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Exercise for preserving cognitive function | Peter Attia, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/1RYoai-ec_8",
+      "date": "2026-09-10T19:30:02+00:00",
+      "age": "1 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Blood pressure: how to measure, manage, and treat high blood pressure (AMA #48 rebroadcast)",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/shorts/WFZgfGisdcM",
       "date": "2026-07-16T16:33:21+00:00",
       "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to engage with Chrome Web Store reviews",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/2kEsTcc4FMs",
-      "date": "2026-07-15T23:34:30+00:00",
-      "age": "19 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "See the HTML-in-Canvas API in action",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/NcUWwgfAolQ",
-      "date": "2026-07-15T18:34:41+00:00",
-      "age": "Yesterday"
     }
   ]
 }
