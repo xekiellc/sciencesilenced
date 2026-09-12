@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-12T10:19:44.308285+00:00",
+  "updated": "2026-09-12T15:14:46.344408+00:00",
   "articles": [
+    {
+      "title": "Pentagon and HHS Launch Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
+      "summary": "The Trump administration has opened a formal investigation into whether COVID-19 vaccines contributed to deaths among U.S. service members forced to take the shots under Biden's military mandate. This is the first federal acknowledgment that mandatory vaccination of troops may have caused fatal harm. If confirmed, it represents one of the most consequential vaccine safety cover-ups in modern American history.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "Vaccine Safety / NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Capricor Therapeutics Sued for Securities Fraud After Clinical Data Manipulation Triggers 64% Stock Collapse",
+      "summary": "Capricor Therapeutics faces a class action lawsuit alleging executives made material misstatements about Deramiocel's clinical trial data submitted in a Biologics License Application. Investors lost 64% of share value when the truth emerged. This is the clinical trial integrity scandal regulators were supposed to prevent \u2014 and didn't.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/capr-lawsuit-alert-capricor-therapeutics-investors-face-september-28-deadline-after-64-stock-drop-tied-to-clinical-data-disclosure-302870584.html",
+      "date": "2026-09-08",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "GLP-1 Drugs Lower Inflammation Markers While Raising Long-Term Risk \u2014 And Nobody Talks About What Happens When You Stop",
+      "summary": "A critical independent analysis warns that GLP-1 drugs like semaglutide may mask chronic inflammation rather than resolve it, creating a dangerous illusion of metabolic health. The piece raises suppressed questions about rebound effects, dependency, and the systemic inflammation debt that accumulates in patients who stop the drugs. Mainstream coverage funded by Novo Nordisk and Eli Lilly isn't asking these questions \u2014 but someone has to.",
+      "source": "Substack.com",
+      "url": "https://dcp6272.substack.com/p/the-mass-health-crisis-of-the-coming",
+      "date": "2026-09-09",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Cardiovascular",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Executives Face Fraud Lawsuit After FTC Complaint Exposes Deceptive Health Claims",
+      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health, accusing the company of deceptive practices \u2014 and now securities class action suits are following. Executives allegedly misrepresented the company's regulatory standing to investors while marketing compounded drugs aggressively. This is what pharma-adjacent health commerce looks like when the guardrails are stripped away and no one is watching.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302875620.html",
+      "date": "2026-09-10",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Caffeine Activates Ancient Cellular Aging Pathway \u2014 Science Establishment Slow to Acknowledge Natural Longevity Signals",
+      "summary": "New research from ScienceDaily reveals caffeine activates a deep cellular energy and stress-resistance pathway tied to DNA repair and slower aging \u2014 mechanisms the longevity industry has spent billions trying to replicate with patentable compounds. This is the kind of finding that gets buried because you can't patent a cup of coffee. The implications for metabolic and aging research are significant and systematically underreported.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "date": "2026-09-07",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Light Therapy as Medicine: The Treatment Big Pharma Can't Patent and Mainstream Medicine Won't Prescribe",
+      "summary": "An independent analysis makes the evidence-based case that photobiomodulation and circadian light exposure represent a profoundly underutilized therapeutic tool for chronic disease \u2014 one that generates zero revenue for pharmaceutical manufacturers. The piece documents how the medical establishment has systematically ignored decades of light therapy research while pushing drugs for conditions that may be rooted in light deprivation and circadian disruption. No clinical trial needed when there's no pill to sell.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-09-light-most-potent-medicine-people-are-avoiding.html",
+      "date": "2026-09-09",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Neurology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Aardvark Therapeutics Executives Hit With Class Action \u2014 Another Biotech Fraud Hiding in Plain Sight",
+      "summary": "Pomerantz LLP has filed a class action against Aardvark Therapeutics and its officers, alleging securities violations tied to material misrepresentations about its pipeline. The suit joins a growing list of biotech fraud cases where executives overstated clinical prospects to attract capital. The FDA's approval machinery and investor disclosure requirements both failed to catch it in time.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/pomerantz-law-firm-announces-the-filing-of-a-class-action-against-aardvark-therapeutics-inc-and-certain-officers-and-directors--aard-302875023.html",
+      "date": "2026-09-10",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "AI Drug Candidate Claims Biological Age Reversal \u2014 Independent Scrutiny Needed Before the Hype Becomes Gospel",
+      "summary": "Insilico Medicine is claiming its AI-designed drug rentosertib shows biological age reversal signals across six proteomic aging clocks, published in Nature Biotechnology. While the longevity science is genuinely compelling, the study is manufacturer-sponsored and relies on proprietary AI models \u2014 exactly the kind of result that demands independent replication before it reshapes treatment guidelines. The history of pharma-funded aging research is littered with biomarker victories that never translated to longer lives.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
+      "date": "2026-09-08",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Cardiovascular",
+      "suppression_score": 2,
+      "age": ""
+    },
     {
       "title": "Pentagon and HHS Open Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
       "summary": "The Trump administration has launched a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members forced to take the shots under Biden's military mandate. This is the first official federal acknowledgment that vaccine-related military mortality warrants scrutiny. If confirmed, it would represent one of the most consequential suppressed safety signals in modern military medicine.",
@@ -95,18 +191,6 @@
       "category": "Longevity",
       "topic": "Oncology",
       "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Pentagon and HHS Launch Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
-      "summary": "The Trump administration has opened a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members who were forced to receive the shots under Biden's military mandate. This represents the first official government acknowledgment that the mandated injections may have caused fatal harm to healthy soldiers. The investigation implicates both the Pentagon and HHS in a potential cover-up of adverse outcomes that critics have flagged in VAERS data for years.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
-      "date": "2026-09-07",
-      "pillar": "exposed",
-      "category": "Vaccine Adverse Events",
-      "topic": "COVID",
-      "suppression_score": 5,
       "age": ""
     },
     {
@@ -274,90 +358,6 @@
       "pillar": "suppressed",
       "category": "Replication Crisis",
       "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Capricor Therapeutics Sued for Securities Fraud After Alleged Clinical Data Manipulation Triggers 64% Stock Collapse",
-      "summary": "Capricor Therapeutics now faces a securities fraud lawsuit over alleged misstatements about the clinical data integrity behind its Deramiocel Biologics License Application \u2014 the kind of data that regulators and the public are told to trust. A 64% stock drop followed the revelation, suggesting investors were misled while regulators rubber-stamped the submission. This is pharma fraud with a paper trail.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-lawsuit-alert-capricor-therapeutics-investors-face-september-28-deadline-after-64-stock-drop-tied-to-clinical-data-disclosure-302870584.html",
-      "date": "2026-09-08",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "GLP-1 Drugs Lower Your Markers and Raise Your Risk \u2014 The Mass Chronic Inflammation Debt Nobody Is Talking About",
-      "summary": "A deeply researched independent analysis warns that GLP-1 drugs like Ozempic and Wegovy create a dangerous paradox: they suppress inflammatory biomarkers on paper while potentially masking and worsening systemic chronic inflammation beneath the surface. The piece raises the critical unanswered question of what happens to millions of patients the day they stop \u2014 a question pharmaceutical companies have conspicuously failed to fund long-term research on. This is the suppressed risk calculus behind a $100 billion drug class.",
-      "source": "Substack.com",
-      "url": "https://dcp6272.substack.com/p/the-mass-health-crisis-of-the-coming",
-      "date": "2026-09-09",
-      "pillar": "suppressed",
-      "category": "Pharma Fraud / Metabolic Research",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Caffeine Activates Ancient Cellular Stress-Resistance Pathway Linked to Slower Aging \u2014 And No One Is Funding the Follow-Up",
-      "summary": "Scientists have identified that caffeine activates a conserved cellular energy and stress-resistance system tied to DNA repair and longevity signaling \u2014 findings that point toward genuine, low-cost metabolic interventions for aging. The research is published but sits quietly in academic databases while billion-dollar biotech longevity plays dominate headlines and investment. When the intervention is cheap and unpatentable, the funding dries up.",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
-      "date": "2026-09-07",
-      "pillar": "vindicated",
-      "category": "Longevity / Metabolic Research",
-      "topic": "Longevity",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "AI Drug Candidate Shows Biological Age Reversal Signal Across Six Proteomic Clocks \u2014 Built Entirely Outside the NIH Grant System",
-      "summary": "Insilico Medicine's AI-designed IPF drug candidate rentosertib has demonstrated measurable biological age reversal across six independent proteomic aging clocks, published in Nature Biotechnology. The drug was designed de novo using generative AI targeting an AI-discovered target \u2014 no NIH, no traditional academic grant capture, no pharma legacy funding. This is what longevity science looks like when it escapes the system.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
-      "date": "2026-09-08",
-      "pillar": "uncaged",
-      "category": "Longevity",
-      "topic": "Longevity",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Light Therapy as Medicine: The Photobiomodulation Research the Dermatology Industry Doesn't Want Mainstream",
-      "summary": "An independent analysis argues that photobiomodulation and strategic light exposure represent one of the most evidence-backed and completely ignored therapeutic modalities in modern medicine \u2014 with documented effects on circadian rhythm, mitochondrial function, inflammation, and chronic disease. The mechanisms are real, the research exists, and the intervention costs nothing \u2014 which is precisely why it will never appear in clinical guidelines written by committees funded by pharmaceutical interests.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-09-light-most-potent-medicine-people-are-avoiding.html",
-      "date": "2026-09-09",
-      "pillar": "suppressed",
-      "category": "Metabolic Research / Nutrition Science",
-      "topic": "Longevity",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "7SK Non-Coding RNA Drives Chemotherapy Resistance by Hijacking Tumor Transcription \u2014 A Mechanism Hiding in Plain Sight",
-      "summary": "New single-cell analysis reveals that 7SK, a non-coding RNA previously understood as a global transcriptional repressor, actively enables tumor survival under chemotherapy by coupling local oncogene activation with broad gene silencing \u2014 a paradox that explains why so many cancers develop resistance and so few oncologists understand why. The research challenges the linear chemotherapy paradigm and points toward entirely different therapeutic targets that the standard oncology pipeline has systematically ignored. Patient tumor data confirms it is happening right now in people being treated.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014749",
-      "date": "2026-09-09",
-      "pillar": "suppressed",
-      "category": "Suppressed / Replication Crisis",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Regeneron Executives Face Securities Fraud Lawsuit \u2014 Investors Allege Systematic Misrepresentation of Drug Data",
-      "summary": "Regeneron Pharmaceuticals and its senior executives are named defendants in a securities class action covering a 10-month period during which investors allege they were misled about material clinical and commercial information. Robbins Geller \u2014 the firm that has extracted billions from pharma in fraud settlements \u2014 is leading the case. When the same companies that fund medical research also face repeated fraud litigation, the credibility of every data set they touch deserves scrutiny.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/regn-monday-deadline-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-shareholder-class-action-lawsuit-302870984.html",
-      "date": "2026-09-09",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
       "suppression_score": 3,
       "age": ""
     }
