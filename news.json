@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-13T03:54:46.388465+00:00",
+  "updated": "2026-09-13T11:19:51.871245+00:00",
   "articles": [
+    {
+      "title": "Pentagon and HHS Launch Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
+      "summary": "The Trump administration has opened a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members who were forced to take the shots under Biden's military mandate. Soldiers had no informed consent and no legal recourse \u2014 and now the bodies may be counted. This is the suppressed safety signal that VAERS critics and military whistleblowers have been screaming about for years.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
+      "date": "2026-09-07",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Capricor Therapeutics Sued for Securities Fraud After Hiding Clinical Data \u2014 Stock Craters 64%",
+      "summary": "Capricor Therapeutics faces a securities fraud lawsuit over alleged misrepresentations about clinical data integrity for Deramiocel, its Biologics License Application drug \u2014 stock collapsed 64% when the truth surfaced. This is textbook buried trial data: executives allegedly knew the numbers didn't hold and told investors otherwise. The FDA's approval pipeline depends on trusting this data.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/capr-lawsuit-alert-capricor-therapeutics-investors-face-september-28-deadline-after-64-stock-drop-tied-to-clinical-data-disclosure-302870584.html",
+      "date": "2026-09-08",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "GLP-1 Drugs Are Masking Chronic Inflammation \u2014 And the Withdrawal Cliff Is Coming",
+      "summary": "A deep-dive analysis warns that GLP-1 drugs like Ozempic and Wegovy may simultaneously suppress inflammatory markers while accelerating underlying metabolic dysfunction \u2014 creating a dangerous illusion of health. The day patients stop these drugs, the suppressed pathology rebounds with compounding force. The pharmaceutical industry has no financial incentive to fund the long-term discontinuation studies that would prove this.",
+      "source": "Substack.com",
+      "url": "https://dcp6272.substack.com/p/the-mass-health-crisis-of-the-coming",
+      "date": "2026-09-09",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Cardiovascular",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Executives Face Fraud Suit After FTC Blows Open Deceptive Health Marketing Scheme",
+      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health, accusing the company of deceptive practices \u2014 now compounded by a securities class action against executives who allegedly misled investors about the legal exposure. The telehealth boom built on compounded drugs and direct-to-consumer medical marketing is cracking under regulatory scrutiny. Patients who trusted the platform's health claims are collateral damage.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302875620.html",
+      "date": "2026-09-10",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Caffeine Activates Ancient Cellular Aging Pathway \u2014 Longevity Science the Industry Can't Patent",
+      "summary": "Scientists have identified that caffeine activates a conserved cellular energy and stress-resistance pathway linked to DNA repair and slower biological aging \u2014 findings that point toward mechanisms Big Pharma cannot monopolize. This is exactly the kind of metabolic and longevity science that gets buried under avalanches of drug-trial funding. No patent, no profit motive, no prime-time coverage.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "date": "2026-09-07",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Metabolic Research",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "AI Drug Candidate Shows Biological Age Reversal Across Six Proteomic Clocks \u2014 Outside the NIH Funding Apparatus",
+      "summary": "Insilico Medicine's AI-designed IPF drug candidate Rentosertib demonstrated measurable biological age reversal as assessed by six independent proteomic aging clocks, published in Nature Biotechnology. This research was designed and discovered entirely by AI without conventional NIH grant capture \u2014 a proof of concept that aging science can advance outside the institutional funding stranglehold. The establishment has no mechanism to take credit for this.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
+      "date": "2026-09-08",
+      "pillar": "uncaged",
+      "category": "Longevity",
+      "topic": "Oncology",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Light Therapy as Medicine: The Low-Cost Intervention That Chronic Disease Protocols Systematically Ignore",
+      "summary": "A detailed analysis argues that specific light exposure \u2014 including near-infrared and circadian-aligned sunlight \u2014 functions as a potent regulator of mitochondrial function, inflammation, and metabolic disease, yet is systematically absent from clinical guidelines and chronic disease treatment protocols. No pharmaceutical company profits from sunlight. The suppression isn't conspiratorial \u2014 it's structural: there is no billing code for photobiomodulation in primary care.",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-09-light-most-potent-medicine-people-are-avoiding.html",
+      "date": "2026-09-09",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Aardvark Therapeutics Hit With Class Action \u2014 Another Biotech Accused of Misleading Investors on Drug Data",
+      "summary": "Pomerantz LLP has filed a class action against Aardvark Therapeutics and its officers, alleging securities violations tied to material misstatements about the company's drug pipeline. The pattern is consistent: executives oversell clinical data to capture investor capital while patients and the regulatory system operate on corrupted information. This is the fraud loop that sits at the heart of modern biotech \u2014 and it keeps repeating.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/pomerantz-law-firm-announces-the-filing-of-a-class-action-against-aardvark-therapeutics-inc-and-certain-officers-and-directors--aard-302875023.html",
+      "date": "2026-09-10",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "Pentagon and HHS Open Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
       "summary": "The Trump administration has launched a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members forced to take the shots under Biden's military mandate. This is the first federal acknowledgment that vaccine-coerced deaths in uniform may warrant scrutiny \u2014 a question the previous administration buried. If the link is confirmed, it represents one of the most consequential acts of state-mandated medical harm in modern American history.",
@@ -95,18 +191,6 @@
       "category": "Metabolic Research / Nutrition Science",
       "topic": "Cardiovascular",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Pentagon and HHS Launch Investigation Into COVID Vaccine Deaths Among Mandated Military Personnel",
-      "summary": "The Trump administration has opened a formal investigation into whether COVID-19 vaccines contributed to deaths of U.S. service members forced to take the shots under Biden's military mandate. This is the first federal acknowledgment that the mandate-driven vaccination program may have caused lethal harm to otherwise healthy soldiers. The investigation directly implicates the prior administration's vaccine enforcement apparatus and the agencies that rubber-stamped it.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-07-pentagon-hhs-investigating-covid-vaccines-military-deaths.html",
-      "date": "2026-09-07",
-      "pillar": "exposed",
-      "category": "Vaccine Adverse Events",
-      "topic": "COVID",
-      "suppression_score": 5,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Longevity",
       "topic": "Cardiovascular",
       "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Capricor Therapeutics Sued for Securities Fraud After Burying Clinical Trial Data \u2014 Stock Craters 64%",
-      "summary": "Capricor Therapeutics faces a class action lawsuit alleging executives made material misstatements about the integrity of clinical data supporting its Biologics License Application for Deramiocel. The stock collapsed 64% when the truth emerged. This is the anatomy of pharma fraud: hype the data, file with the FDA, and let investors and patients carry the risk.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-lawsuit-alert-capricor-therapeutics-investors-face-september-28-deadline-after-64-stock-drop-tied-to-clinical-data-disclosure-302870584.html",
-      "date": "2026-09-08",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Slapped With FTC Lawsuit and Securities Class Action \u2014 The Telehealth Gold Rush Has a Fraud Problem",
-      "summary": "Hims & Hers Health faces both an FTC federal complaint and a securities class action after executives allegedly misled investors about the company's legal exposure. The FTC's accusations point to deceptive practices at the heart of a telehealth model that has scaled aggressively with minimal regulatory scrutiny. When the system finally acts, it's investors \u2014 not patients \u2014 who get the warning.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302875620.html",
-      "date": "2026-09-10",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Caffeine Activates Ancient Cellular Pathway Tied to DNA Repair and Slower Aging \u2014 Mainstream Medicine Still Tells You to Cut Back",
-      "summary": "Scientists have identified that caffeine activates a conserved cellular energy-sensing system linked to stress resistance, DNA repair, and longevity signaling. This directly contradicts decades of establishment dietary warnings against coffee consumption. The finding adds to a growing body of metabolic and longevity research that institutional dietary guidelines have systematically ignored.",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
-      "date": "2026-09-07",
-      "pillar": "vindicated",
-      "category": "Longevity",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Light Therapy as Medicine: The Ancient Intervention That Pharma Can't Patent and Medicine Won't Teach",
-      "summary": "An investigative piece argues that light exposure \u2014 particularly specific wavelengths and circadian-aligned natural light \u2014 functions as a powerful metabolic and hormonal regulator with documented effects on chronic disease, yet receives virtually no coverage in clinical training or mainstream health guidance. Unlike drugs, light cannot be patented or monetized by pharmaceutical companies, which may explain its near-total absence from treatment guidelines. The suppression here isn't dramatic \u2014 it's structural.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-09-light-most-potent-medicine-people-are-avoiding.html",
-      "date": "2026-09-09",
-      "pillar": "suppressed",
-      "category": "Metabolic Research / Nutrition Science",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Regeneron Faces Shareholder Lawsuit Over Alleged Misrepresentations \u2014 Another Pharma Giant Caught Hiding the Ball",
-      "summary": "Investors in Regeneron Pharmaceuticals are pursuing a class action lawsuit alleging material misstatements made between August 2025 and May 2026 that artificially inflated the stock price. While the filing is investor-focused, the underlying pattern \u2014 executives controlling the flow of clinical and regulatory information to protect share price \u2014 is the same mechanism that buries patient safety data. Regeneron has faced prior scrutiny over drug pricing and data transparency.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/regn-monday-deadline-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-shareholder-class-action-lawsuit-302870984.html",
-      "date": "2026-09-09",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "AI-Designed Drug Shows Biological Age Reversal Signal Across Six Proteomic Clocks \u2014 Built Outside the NIH Funding Machine",
-      "summary": "Insilico Medicine's AI-designed IPF candidate Rentosertib has demonstrated signals of biological age reversal as measured by six independent proteomic aging clocks, published in Nature Biotechnology. The drug was developed using generative AI for a target also discovered by AI \u2014 bypassing the traditional NIH grant-dependent research pipeline entirely. This is what longevity science looks like when it isn't filtered through bureaucratic funding priorities.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/nature-biotechnology--insilicos-ai-driven-ipf-candidate-rentosertib-shows-potential-for-biological-age-reversal-as-assessed-by-six-proteomic-aging-clocks-302871277.html",
-      "date": "2026-09-08",
-      "pillar": "uncaged",
-      "category": "Longevity",
-      "topic": "Oncology",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Capricor Therapeutics Sued for Securities Fraud After Burying Clinical Data \u2014 64% Stock Wipeout Follows",
-      "summary": "Capricor Therapeutics now faces a securities fraud class action over alleged misrepresentations about the integrity of clinical data supporting its Biologics License Application for Deramiocel, sending shares down 64%. The lawsuit alleges executives made materially false statements about trial results \u2014 a pattern that critics say is endemic to the FDA approval pipeline. When the data finally surfaced, investors were wiped out while patients had already been exposed to a product with questionable evidence.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-lawsuit-alert-capricor-therapeutics-investors-face-september-28-deadline-after-64-stock-drop-tied-to-clinical-data-disclosure-302870584.html",
-      "date": "2026-09-08",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 4,
       "age": ""
     }
   ]
