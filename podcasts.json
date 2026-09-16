@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-14T12:11:16.268268+00:00",
+  "updated": "2026-09-16T21:01:47.951534+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "92: CSS if() and custom functions",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=KvKqDR1H2Xs",
+      "date": "2026-09-16T19:08:40+00:00",
+      "age": "1 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "407 \u2012 Preventing cardiovascular and Alzheimer\u2019s disease: lowering LDL early, APOE4, and more",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=sDxAiqfy4-g",
       "date": "2026-07-19T16:00:10+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Monoclonal antibodies for dementia | Gayatri Devi, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/70fAHybr9ME",
-      "date": "2026-07-17T16:30:34+00:00",
-      "age": "2 hrs ago"
     }
   ]
 }
