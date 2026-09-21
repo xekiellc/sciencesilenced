@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-16T21:01:47.951534+00:00",
+  "updated": "2026-09-21T12:19:33.206448+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Thyroid health: interpreting symptoms, diagnosing & treating dysfunction, & navigating the gray zone",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=6Bhq-PBWG8c",
+      "date": "2026-09-21T04:00:06+00:00",
+      "age": "8 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "92: CSS if() and custom functions",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/3VBpZ2aTQos",
       "date": "2026-07-20T16:25:25+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Environmental pollution and longevity: air pollution, noise, light, EMFs, & more (AMA 87 sneak peek)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=sDxAiqfy4-g",
-      "date": "2026-07-19T16:00:10+00:00",
       "age": "3 hrs ago"
     }
   ]
