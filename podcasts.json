@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-21T12:19:33.206448+00:00",
+  "updated": "2026-09-22T16:34:07.135915+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance: Swipe to remove",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=9U4D5m24mhc",
+      "date": "2026-09-22T16:01:12+00:00",
+      "age": "32 min ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Thyroid health: interpreting symptoms, diagnosing & treating dysfunction, & navigating the gray zone",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/A7FQzbbJq8E",
       "date": "2026-07-20T19:53:17+00:00",
       "age": "12 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to schedule an extension release",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/3VBpZ2aTQos",
-      "date": "2026-07-20T16:25:25+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
