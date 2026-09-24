@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-22T16:34:07.135915+00:00",
+  "updated": "2026-09-24T21:18:12.299249+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "93: State queries in 2025",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=nwauFPVDVEY",
+      "date": "2026-09-24T18:02:51+00:00",
+      "age": "3 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Modern Web Guidance: Swipe to remove",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/dJ60ymK2Ook",
       "date": "2026-07-20T19:52:50+00:00",
-      "age": "12 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Blue light and sleep | Peter Attia, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/A7FQzbbJq8E",
-      "date": "2026-07-20T19:53:17+00:00",
       "age": "12 hrs ago"
     }
   ]
