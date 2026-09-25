@@ -1,6 +1,90 @@
 {
-  "updated": "2026-09-24T21:18:11.581033+00:00",
+  "updated": "2026-09-25T04:04:19.201700+00:00",
   "articles": [
+    {
+      "title": "Fauci's Diary Exposes a Career Bureaucrat Who Refused to Confront His Own Role in COVID's Origins",
+      "summary": "Anthony Fauci's personal diary, now under scrutiny, reveals a self-obsessed bureaucrat who systematically avoided accountability for NIH-funded gain-of-function research that may have contributed to the COVID-19 pandemic. Rather than grapple with the science, Fauci curated his own legacy while millions suffered under policies he championed. History is not being kind \u2014 and the diary is the receipt.",
+      "source": "Reason",
+      "url": "https://reason.com/video/2026/09/22/how-will-history-remember-anthony-fauci/",
+      "date": "2026-09-22",
+      "pillar": "exposed",
+      "category": "Fauci",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Capricor Therapeutics Hit With Securities Fraud Suit Over Buried Clinical Trial Data \u2014 Stock Craters 64%",
+      "summary": "Capricor Therapeutics is facing a securities fraud class action lawsuit after investors allege the company made material misstatements about the integrity of clinical data supporting its Biologics License Application for Deramiocel. The stock collapsed 64% when the truth surfaced \u2014 a pattern of manipulated trial data that regulators and investors were kept in the dark about. This is textbook pharma fraud.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/capr-class-action-capricor-therapeutics-investors-are-notified-of-the-upcoming-september-28-deadline-in-ongoing-securities-fraud-class-action-over-clinical-data-302885424.html",
+      "date": "2026-09-22",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Beta Bionics Accused of Hiding iLet Device Safety Problems From Investors and FDA \u2014 Stock Drops 37%",
+      "summary": "Beta Bionics faces a securities fraud class action after investors allege executives deliberately concealed safety, efficacy, and FDA compliance problems with its iLet insulin delivery device. The stock dropped over 37% when the concealment unraveled \u2014 raising serious questions about what patients using the device were never told. When FDA compliance itself becomes the scandal, the system has failed.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/bbnx-class-action-beta-bionics-investors-are-notified-of-the-upcoming-november-3-deadline-in-ongoing-securities-fraud-class-action-over-medical-device-safety-302885395.html",
+      "date": "2026-09-22",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "BMJ Exposes FDA's Flawed COVID Vaccine Safety Signal Algorithm \u2014 Pro-Pharma Media Calls It 'Anti-Vax'",
+      "summary": "The British Medical Journal published an investigation finding that the FDA's algorithm for detecting post-COVID-vaccination safety signals was flawed and that agency officials ignored the problem \u2014 a finding with direct implications for how adverse events were systematically undercounted. Science-Based Medicine's reflexive response was to attack the BMJ for 'reinforcing antivax narratives' rather than engage with the data. This is precisely how regulatory capture silences safety science.",
+      "source": "Sciencebasedmedicine.org",
+      "url": "https://sciencebasedmedicine.org/the-bmj-once-again-wittingly-or-unwittingly-reinforces-an-antivax-narrative/",
+      "date": "2026-09-22",
+      "pillar": "suppressed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Faces Fraud Suit After FTC Exposes Deceptive Health Claims \u2014 The Telehealth Wild West Has a Body Count",
+      "summary": "Hims & Hers Health is now facing both an FTC federal complaint and a securities fraud class action after regulators alleged the company made deceptive claims about its health products, driving its stock sharply lower. The case exposes how direct-to-consumer health platforms exploit regulatory gaps to market unproven treatments at scale. When profit drives the prescription, patients are the last priority.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower----hbss-302888243.html",
+      "date": "2026-09-23",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "SARS-CoV-2 Defective Genomes Modulate Immune Response \u2014 Inconvenient Viral Biology the Narrative Ignored",
+      "summary": "New peer-reviewed research in PLOS Pathogens reveals that defective viral genomes produced during SARS-CoV-2 infection drive divergent innate immune responses depending on their genomic region of origin \u2014 complex viral biology that challenges the simplistic one-size-fits-all COVID immunity framework pushed by public health authorities. Understanding DVG-mediated immune suppression could have reshaped treatment strategies, but this line of research received none of the urgency given to vaccine development. The science was always more complicated than the approved narrative admitted.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014099",
+      "date": "2026-09-22",
+      "pillar": "suppressed",
+      "category": "Replication Crisis",
+      "topic": "COVID",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Newsom Admits California's COVID Beach Closures Were 'Insane' \u2014 Years After Destroying Lives Over Them",
+      "summary": "California Governor Gavin Newsom has publicly admitted that his administration's decision to close beaches during COVID was 'insane' \u2014 an acknowledgment that vindicates the scientists, doctors, and citizens who were ridiculed, censored, and punished for saying the same thing in real time. The admission raises an urgent question: how many other COVID mandates, pushed with the same authoritarian certainty, were equally irrational? The people who said so were called dangerous. Newsom called it a mistake. There is no symmetry in those consequences.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/newsoms-admission-infamous-covid-move-insane-triggers-viral-fury-we-all-told-you",
+      "date": "2026-09-22",
+      "pillar": "vindicated",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "Fauci's Diary Exposes the Bureaucrat Who Blocked the Lab Leak Truth to Protect His Own Legacy",
       "summary": "Newly revealed diary entries paint Anthony Fauci as a self-obsessed career operator who refused to seriously investigate whether NIH-funded gain-of-function research contributed to the origins of COVID-19. Rather than follow the science, Fauci prioritized institutional self-preservation \u2014 and millions paid the price. History will not be kind, and the diary makes clear he knew exactly what he was doing.",
@@ -275,90 +359,6 @@
       "category": "Whistleblower",
       "topic": "Neurology",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Hit With Federal Fraud Complaint \u2014 Telehealth's Dirty Secret Is Out",
-      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health alleging the company systematically misled consumers, now triggering a securities fraud class action with a November 2026 deadline. The telehealth boom was sold as democratizing healthcare access \u2014 but when companies prioritize subscriber growth over honest medical claims, patients become the product. Regulators who waved this sector through without scrutiny share the blame.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-investors-securities-fraud-class-action-filed-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302884904.html",
-      "date": "2026-09-21",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Fauci's Diary Exposed: Self-Obsessed Bureaucrat Refused to Face His Role in COVID Origins",
-      "summary": "Anthony Fauci's personal diary, now under historical scrutiny, reveals a career bureaucrat more concerned with legacy management than scientific truth. He systematically refused to entertain the possibility that NIH-funded gain-of-function research at Wuhan contributed to the COVID-19 pandemic. This is the story of institutional ego over public accountability \u2014 and the millions who paid the price.",
-      "source": "Reason",
-      "url": "https://reason.com/video/2026/09/22/how-will-history-remember-anthony-fauci/",
-      "date": "2026-09-22",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Capricor Therapeutics Hit With Securities Fraud Suit Over Buried Clinical Data \u2014 Stock Craters 64%",
-      "summary": "Capricor Therapeutics is facing a securities fraud class action alleging the company made material misstatements about its drug Deramiocel and the integrity of clinical data submitted to the FDA in its Biologics License Application. Investors were blindsided when the truth emerged, triggering a 64% stock collapse. This is textbook pharma data manipulation \u2014 with the FDA as an unwitting or complicit gatekeeper.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/capr-class-action-capricor-therapeutics-investors-are-notified-of-the-upcoming-september-28-deadline-in-ongoing-securities-fraud-class-action-over-clinical-data-302885424.html",
-      "date": "2026-09-22",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Beta Bionics Lied to Investors and the FDA About iLet Device Safety \u2014 Class Action Follows 37% Stock Crash",
-      "summary": "Beta Bionics allegedly misled investors and regulators about the safety, efficacy, and commercial viability of its iLet medical device, resulting in a securities fraud class action and a 37% stock implosion. The case raises serious questions about what the FDA knew and when \u2014 and whether device safety reviews are rigorous or regulatory theater. Patients using the device deserve answers the company was unwilling to provide.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bbnx-class-action-beta-bionics-investors-are-notified-of-the-upcoming-november-3-deadline-in-ongoing-securities-fraud-class-action-over-medical-device-safety-302885395.html",
-      "date": "2026-09-22",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "The BMJ Found the FDA Ignored a Flawed COVID Vaccine Safety Algorithm \u2014 Establishment Media Calls It 'Antivax'",
-      "summary": "The BMJ published an investigation revealing that the FDA's algorithm for detecting post-COVID-vaccination safety signals was flawed and that the agency ignored the findings \u2014 a bombshell with direct implications for public safety. Instead of engaging with the substance, pro-establishment outlets attacked the reporting as 'antivax narrative,' a now-familiar tactic used to shut down legitimate vaccine safety scrutiny. Shooting the messenger doesn't fix the broken safety surveillance system.",
-      "source": "Sciencebasedmedicine.org",
-      "url": "https://sciencebasedmedicine.org/the-bmj-once-again-wittingly-or-unwittingly-reinforces-an-antivax-narrative/",
-      "date": "2026-09-22",
-      "pillar": "suppressed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Stryker's Hidden Manufacturing Defect Caused Vascular Harm \u2014 CFO Admits It Never Went Away",
-      "summary": "Stryker Corporation's CFO admitted that a peripheral vascular manufacturing defect the company had publicly declared resolved was in fact still ongoing, wiping nearly 9% off the stock in a single session. Patients implanted with affected devices were never told the problem persisted. This is medical device concealment with direct patient safety consequences \u2014 and regulators apparently missed it entirely.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/stryker-nyse-syk-scrutinized-amid-disclosure-of-persisting-peripheral-vascular-problems----hbss-302882204.html",
-      "date": "2026-09-17",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Outside-the-System Longevity Research Names Chronic Disease Drivers the Mainstream Won't Touch",
-      "summary": "Dr. Ahvie Herskowitz, former UCSF clinical professor and founder of Anatara Medicine, is identifying metabolic and environmental drivers of chronic disease that the NIH-pharma research complex has little financial incentive to investigate or publicize. His work points to root-cause medicine over symptom suppression \u2014 exactly the kind of integrative science that gets ignored in grant cycles dominated by drug-dependent outcomes. This is what functional medicine looks like when a credentialed insider breaks ranks.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/09/20/drivers-of-chronic-disease.aspx",
-      "date": "2026-09-20",
-      "pillar": "uncaged",
-      "category": "Metabolic Research",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
       "age": ""
     }
   ]
