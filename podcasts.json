@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-24T21:18:12.299249+00:00",
+  "updated": "2026-09-25T21:15:10.543923+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Navigating subclinical hypothyroidism | Peter Attia, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/6KXdPnGLQrM",
+      "date": "2026-09-25T18:57:29+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "93: State queries in 2025",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/hJSe6tM0PUI",
       "date": "2026-07-20T22:11:39+00:00",
       "age": "10 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to build faster, richer UIs",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/dJ60ymK2Ook",
-      "date": "2026-07-20T19:52:50+00:00",
-      "age": "12 hrs ago"
     }
   ]
 }
