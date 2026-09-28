@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-28T13:16:34.938472+00:00",
+  "updated": "2026-09-28T23:03:10.853224+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "94: CSS carousels (and scroll)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=btIOhb6AiOc",
+      "date": "2026-09-28T18:49:22+00:00",
+      "age": "4 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Risks associated with thyroid supplements | Peter Attia, M.D.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/ySqrXczYpVg",
+      "date": "2026-09-28T16:30:20+00:00",
+      "age": "6 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "409 \u2012 Inside modern drug development: the science, economics, and regulatory hurdles",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/shorts/e_0uwGpgyJ4",
       "date": "2026-07-23T16:30:14+00:00",
       "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to get Chrome Web Store approval",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/4FvIlVWWCnE",
-      "date": "2026-07-22T20:03:15+00:00",
-      "age": "7 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to build and debug WebMCP tools for browser agents",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=5lJ0a6tdj-4",
-      "date": "2026-07-21T17:07:41+00:00",
-      "age": "9 hrs ago"
     }
   ]
 }
