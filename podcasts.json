@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-01T22:28:24.245227+00:00",
+  "updated": "2026-10-05T13:59:29.938115+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "410 \u2012 The biology of pregnancy: physiologic adaptation, childbirth, and long-term maternal health",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=KIFD0Y6UVE0",
+      "date": "2026-10-05T04:00:23+00:00",
+      "age": "9 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "See CSS specificity automatically in Chrome DevTools",
@@ -389,16 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/fZC-MIO6zNI",
       "date": "2026-07-30T16:30:37+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "How people over 65 can reduce their fall risk",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/tHZ59dM1mcw",
-      "date": "2026-07-27T16:30:20+00:00",
       "age": "3 hrs ago"
     }
   ]
