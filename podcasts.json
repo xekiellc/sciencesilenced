@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-07T12:54:35.763254+00:00",
+  "updated": "2026-10-12T14:48:27.712460+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Strong convictions, loosely held: how Peter\u2019s views on fasting, keto, exercise, & more have changed",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=6DR8E5QJoCY",
+      "date": "2026-10-12T04:00:13+00:00",
+      "age": "10 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "95: Updates to View Transitions",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/7mXtpuO1XqI",
       "date": "2026-08-05T16:30:03+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "402 \u2012 NMR blood analysis: how mortality risk and more can be assessed from a single blood sample",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=IMbghqZ1iXI",
-      "date": "2026-08-03T04:00:30+00:00",
-      "age": "5 hrs ago"
     }
   ]
 }
