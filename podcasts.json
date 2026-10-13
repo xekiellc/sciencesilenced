@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-13T13:49:23.659485+00:00",
+  "updated": "2026-10-13T22:25:30.262777+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "96: CSS anchor positioning",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=_TwxnaeUWl4",
+      "date": "2026-10-13T18:56:49+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance: Declarative dialog",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=hmgkOaJCBcc",
+      "date": "2026-10-13T15:55:07+00:00",
+      "age": "6 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "RIP Replay XHR, Meet Resend",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/watch?v=Km_01CLEkYU",
       "date": "2026-08-10T04:00:03+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Fluffy LDL particles and cardiovascular risk | Jim Otvos, Ph.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/Ee1PuwnX5Tw",
-      "date": "2026-08-07T16:30:29+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Lighthouse audits with DevTools for agents",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=2q9d7ANaXeA",
-      "date": "2026-08-06T21:54:33+00:00",
-      "age": "2 hrs ago"
     }
   ]
 }
