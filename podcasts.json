@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-13T22:25:30.262777+00:00",
+  "updated": "2026-10-16T20:40:40.816665+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Two Updates you NEED to know to build Chrome Extensions with Antigravity",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/vURZcP6ISFU",
+      "date": "2026-10-16T16:32:06+00:00",
+      "age": "4 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance for your AI workflow: Declarative dialog",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=hmgkOaJCBcc",
+      "date": "2026-10-13T15:55:07+00:00",
+      "age": "3 days ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance for your AI workflow: Autofill address form",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=-gGsEDvmqbM",
+      "date": "2026-10-06T16:25:52+00:00",
+      "age": "10 days ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "96: CSS anchor positioning",
@@ -370,36 +400,6 @@
       "url": "https://www.youtube.com/watch?v=1W1PGkwEiIg",
       "date": "2026-08-14T17:32:32+00:00",
       "age": "1 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How AI agents fix Lighthouse errors in Chrome DevTools",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/mnPieSQvZv8",
-      "date": "2026-08-13T17:41:42+00:00",
-      "age": "1 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "BPC-157: great marketing, not great science",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/oHl8saf_rPA",
-      "date": "2026-08-11T17:30:23+00:00",
-      "age": "1 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "403 \u2012 Peptides: separating scientific promise from marketing hype",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=Km_01CLEkYU",
-      "date": "2026-08-10T04:00:03+00:00",
-      "age": "3 hrs ago"
     }
   ]
 }
