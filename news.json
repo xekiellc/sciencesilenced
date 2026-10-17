@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-17T03:34:00.488327+00:00",
+  "updated": "2026-10-17T10:20:31.335448+00:00",
   "articles": [
+    {
+      "title": "Doctors and Researchers Sound Alarm: Big Business Has Captured the Global Health System",
+      "summary": "Physicians and scientists are openly challenging the profit-driven dominance of Big Business over healthcare, with India's Supreme Court itself calling out exorbitant drug pricing and margins. The piece names the structural corruption baked into pricing, clinical priorities, and treatment access. When courts start saying what doctors have whispered for decades, the suppression dam is breaking.",
+      "source": "Countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/doctors-and-researchers-question-why-the-health-system-is-getting-dominated-by-profits-of-big-business-interests/",
+      "date": "2026-10-01",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Martin Shkreli Allegedly Traded 60+ Pharma Stocks Despite Lifetime Ban \u2014 FTC Wants Him Held in Contempt",
+      "summary": "The FTC and seven states allege that 'Pharma Bro' Martin Shkreli has been quietly trading stocks in at least 60 pharmaceutical companies in direct violation of a lifetime industry ban imposed after his fraud conviction. Federal authorities are seeking contempt sanctions and forfeiture of all trading profits. It's a window into how pharma insiders treat legal accountability as a speed bump, not a stop sign.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
+      "date": "2026-10-13",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Beta Bionics Hid Safety Failures in Its iLet Device \u2014 Stock Collapsed 37%, Fraud Lawsuit Follows",
+      "summary": "Beta Bionics allegedly misled investors and the public about the safety, efficacy, and commercial viability of its iLet medical device, triggering a 37% stock crash and a securities fraud class action. FDA compliance issues were concealed while the company publicly promoted the device as ready for market. This is the medical device industry's accountability gap in real time.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/bbnx-stock-alert-beta-bionics-medical-device-safety-issues-and-subsequent-37-stock-drop-trigger-securities-fraud-class-action-for-investors-302905973.html",
+      "date": "2026-10-12",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Ensign Group Concealed Patient Neglect, Falsified Staffing Data, and Billed Fraudulently \u2014 Until the Stock Dropped",
+      "summary": "Ensign Group, one of the largest nursing home operators in the country, is accused of hiding widespread patient neglect, systematically understaffing facilities, manipulating quality and staffing metrics, and running an illegal administrator-license rental scheme \u2014 all while billing federal programs. The fraud only surfaced publicly after the stock fell. Regulators were nowhere until investors got hurt.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
+      "date": "2026-10-13",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Mental Health",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Forced Psychiatric Treatment: Government Using 'Mental Illness' Label to Strip Patients of Informed Consent",
+      "summary": "A Reason analysis confronts the growing legal and institutional push to compel psychiatric treatment on individuals labeled mentally ill \u2014 stripping them of the right to refuse drugs with serious known harms. The piece exposes how diagnostic labels are weaponized to override bodily autonomy and due process. This is psychiatric coercion dressed in therapeutic language.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
+      "date": "2026-10-14",
+      "pillar": "uncaged",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Faces Securities Fraud Action After FTC Complaint Exposes What the Company Hid From Investors",
+      "summary": "The FTC's sweeping complaint against Hims & Hers Health has triggered a securities fraud class action, with allegations that company executives concealed material risks while publicly projecting growth. The FTC complaint details deceptive practices that investors were never told about. When the regulator finally moved, the stock cratered \u2014 exactly the outcome suppressed disclosure was designed to prevent.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-fraud-class-action-filed-investors-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302905808.html",
+      "date": "2026-10-12",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Accidental Live Vaccines in 220 Immunosuppressed IBD Patients: No Infections \u2014 So Why Is the Ban Still Absolute?",
+      "summary": "A real-world study of 220 IBD patients on immune-modifying biologics who accidentally received live vaccines \u2014 including MMR and varicella \u2014 showed zero resulting cases of measles, mumps, or chickenpox. The finding directly challenges blanket clinical prohibitions that have denied immunocompromised patients protection for decades. The medical establishment's refusal to update guidelines based on evidence is itself a patient safety failure.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ibd-live-vaccine-accidental-biologics-acg-2026-479869",
+      "date": "2026-10-01",
+      "pillar": "vindicated",
+      "category": "Replication Crisis",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Pancreatic Cancer Cells Continuously Rewrite Their Own DNA to Escape Treatment \u2014 And Oncology Still Has No Answer",
+      "summary": "An analysis of nearly half a million cells from pancreatic cancer patients reveals that tumor cells are in a constant state of genetic evolution, actively reshaping their makeup to evade chemotherapy and metastasize. The research exposes a fundamental failure in how oncology targets static snapshots of tumors rather than their dynamic, adaptive biology. Metabolic and evolutionary cancer theories suppressed for decades may hold more answers than the trillion-dollar chemo paradigm.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/continuously-evolving-cells-help-pancreatic-cancer-evade-treatment-and-spread-302903284.html",
+      "date": "2026-10-13",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Doctors and Researchers Sound Alarm: Big Business Has Captured the Health System \u2014 And Patients Are Paying With Their Lives",
       "summary": "Physicians and researchers are openly questioning why profit motives now dominate medical decision-making, citing India's Supreme Court calling out exorbitant drug pricing as a symptom of systemic pharma capture. The article names the structural conflict between corporate healthcare profits and genuine patient outcomes. This is the conversation mainstream medical journals refuse to publish.",
@@ -107,18 +203,6 @@
       "category": "Fauci",
       "topic": "COVID",
       "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Doctors and Researchers Sound Alarm: Big Business Has Captured the Global Health System",
-      "summary": "Physicians and scientists \u2014 citing a landmark Indian Supreme Court ruling on predatory medicine pricing \u2014 are publicly naming what insiders have long known: the health system has been systematically colonized by profit-driven corporate interests at the expense of patient outcomes. The Supreme Court of India called out exorbitant drug markups as a structural injustice, not an anomaly. This is the pharma capture conversation that Western medical journals refuse to publish.",
-      "source": "Countercurrents.org",
-      "url": "https://countercurrents.org/2026/10/doctors-and-researchers-question-why-the-health-system-is-getting-dominated-by-profits-of-big-business-interests/",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -274,90 +358,6 @@
       "pillar": "vindicated",
       "category": "Replication Crisis",
       "topic": "Immunology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Martin Shkreli Defies Lifetime Pharma Ban \u2014 But the Real Crime Is the Industry He Came From",
-      "summary": "Convicted pharmaceutical fraudster Martin Shkreli is back in federal crosshairs after allegedly violating his lifetime ban on drug industry trading, with the FTC and federal courts now moving to hold him in contempt. Shkreli is a convenient villain \u2014 but his price-gouging tactics were and remain standard operating procedure for Big Pharma, conducted legally by executives who face no bans and no prosecution. The system criminalizes one rogue actor while protecting the industry that created him.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/13/business/pharma-bro-martin-shkreli-broke-lifetime-ban-on-drug-industry-trades-fed-say/",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Drug Pricing",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Rand Paul Formally Demands DOJ Prosecute Fauci for Perjury \u2014 The COVID Origins Lie May Finally Have Consequences",
-      "summary": "Senator Rand Paul has sent a formal referral to the Department of Justice demanding a perjury investigation into Anthony Fauci over his 2021 congressional testimony denying NIH funding of gain-of-function research. Paul alleges Fauci knowingly lied under oath while documents and communications increasingly contradict his sworn statements. If the DOJ acts, this would be the first criminal accountability measure against the architect of America's COVID-19 response.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-09-fauci-perjury-allegations-paul-demands-doj-investigation.html",
-      "date": "2026-10-09",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Doctors and Researchers Sound Alarm: Big Pharma Profits Have Fully Captured the Global Health System",
-      "summary": "Physicians and researchers are publicly condemning the wholesale corporate takeover of medicine, citing exorbitant drug pricing and profit-driven clinical decisions that override patient welfare. India's Supreme Court itself flagged predatory pharma margins in a September 2026 ruling that sent shockwaves through the medical establishment. The piece names the structural conflicts of interest that keep life-saving treatments unaffordable while cheaper alternatives are buried.",
-      "source": "Countercurrents.org",
-      "url": "https://countercurrents.org/2026/10/doctors-and-researchers-question-why-the-health-system-is-getting-dominated-by-profits-of-big-business-interests/",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Beta Bionics Hid Safety Failures on Its iLet Device \u2014 Stock Collapsed 37% When the Truth Came Out",
-      "summary": "Beta Bionics allegedly misled investors and patients about the safety, efficacy, and commercial viability of its iLet medical device, triggering a securities fraud class action after the stock cratered more than 37%. The allegations suggest the company concealed FDA compliance problems while publicly promoting the device as market-ready. This is a textbook case of how medical device companies manage narratives at patient expense.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bbnx-stock-alert-beta-bionics-medical-device-safety-issues-and-subsequent-37-stock-drop-trigger-securities-fraud-class-action-for-investors-302905973.html",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Ensign Group Buried Patient Neglect and Manipulated Federal Safety Data \u2014 Lawsuit Exposes the Rot",
-      "summary": "Ensign Group, a major long-term care operator, faces securities fraud allegations after reports revealed it concealed systematic patient neglect, fabricated staffing quality metrics, engaged in improper billing, and ran an administrator-license rental scheme. The company presented a clean public image to investors and regulators while patients allegedly suffered. The 8% stock drop after exposure is the least of its problems.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Mental Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Pancreatic Cancer Cells Continuously Rewire Their Genetics to Escape Treatment \u2014 And Oncology Missed It for Decades",
-      "summary": "A landmark analysis of nearly half a million cells from pancreatic cancer patients reveals that tumor cells are not static targets but continuously evolve their genetic identity, actively outrunning chemotherapy and immune responses. This finding challenges the foundational assumptions behind standard-of-care oncology protocols that treat tumors as fixed targets. The implications for why pancreatic cancer remains nearly universally fatal \u2014 and why current treatment paradigms keep failing \u2014 are enormous.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/continuously-evolving-cells-help-pancreatic-cancer-evade-treatment-and-spread-302903284.html",
-      "date": "2026-10-13",
-      "pillar": "vindicated",
-      "category": "Replication Crisis",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Accidental Live Vaccines in 220 Immunocompromised Patients Caused Zero Disease \u2014 So Why Is the Blanket Ban Still Dogma?",
-      "summary": "A clinical study of 220 IBD patients on immunosuppressive biologics who accidentally received live vaccines for measles, mumps, and chickenpox found zero resulting infections \u2014 directly challenging the blanket prohibition that has stood as iron-clad medical doctrine. The finding raises urgent questions about whether vaccine contraindication guidelines in immunocompromised populations are evidence-based or liability-driven. Patients have been denied protection based on a risk that this data suggests may be overstated.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/ibd-live-vaccine-accidental-biologics-acg-2026-479869",
-      "date": "2026-10-13",
-      "pillar": "vindicated",
-      "category": "Suppressed",
-      "topic": "COVID",
       "suppression_score": 3,
       "age": ""
     }
