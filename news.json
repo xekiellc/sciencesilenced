@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-18T03:40:59.581525+00:00",
+  "updated": "2026-10-18T10:36:36.988713+00:00",
   "articles": [
+    {
+      "title": "FTC Catches Martin Shkreli Trading 60+ Pharma Stocks Despite Lifetime Ban \u2014 Contempt Motion Filed",
+      "summary": "The FTC and seven states allege that Martin Shkreli \u2014 already banned for life from the pharmaceutical industry \u2014 continued trading stocks in at least 60 drug companies in blatant defiance of a federal court order. Authorities are now seeking contempt sanctions and forfeiture of all trading profits. This is the pharma industry's favorite scapegoat still gaming the system nobody actually fixed.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
+      "date": "2026-10-13",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Pharmaceutical Industry",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Beta Bionics Hid Safety Failures on Its iLet Device \u2014 Stock Cratered 37% When Truth Emerged",
+      "summary": "Beta Bionics allegedly misled investors and patients about the safety, efficacy, and commercial viability of its iLet medical device, triggering a securities fraud class action after shares collapsed more than 37%. The pattern is textbook: safety red flags buried until the market forces disclosure the FDA didn't. Patients using this device deserved that information first.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/bbnx-stock-alert-beta-bionics-medical-device-safety-issues-and-subsequent-37-stock-drop-trigger-securities-fraud-class-action-for-investors-302905973.html",
+      "date": "2026-10-13",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Medical Devices",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Ensign Group Buried Patient Neglect, Falsified Staffing Data, and Billed Anyway \u2014 Securities Fraud Suit Follows",
+      "summary": "Ensign Group, a major nursing facility operator, faces securities fraud allegations after reports surfaced that it concealed systemic patient neglect, manipulated quality and staffing metrics, engaged in improper billing, and ran an administrator-license rental scheme. The company's stock dropped 8% when the concealment began unraveling. Vulnerable patients paid the real price long before investors did.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
+      "date": "2026-10-16",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Patient Safety",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Faces Federal Fraud Complaint \u2014 FTC Says Executives Lied to Investors and Patients",
+      "summary": "Hims & Hers Health and its executives face a securities class action lawsuit filed in the wake of a sweeping FTC federal complaint alleging the company defrauded both investors and patients. The FTC's action suggests systemic misrepresentation at the corporate level, not a rounding error. This is what happens when telehealth moves fast and regulators look the other way.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-fraud-class-action-filed-investors-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302905808.html",
+      "date": "2026-10-12",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Pharmaceutical Industry",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Forced Psychiatric Treatment: Government Asserts It Can Override Your Right to Refuse Medication",
+      "summary": "A Reason analysis confronts the growing legal and ethical crisis of compelled psychiatric treatment \u2014 the premise that a mental illness diagnosis strips a patient of their right to refuse drugs. The question cuts to the core of bodily autonomy and the medical establishment's coercive power. Psychiatry's answer to non-compliance has too often been forced medication, not informed consent.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
+      "date": "2026-10-14",
+      "pillar": "uncaged",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Pancreatic Cancer Cells Continuously Rewrite Their DNA to Outrun Every Drug Thrown at Them",
+      "summary": "An analysis of nearly half a million cells from dozens of pancreatic cancer patients reveals that tumor cells are in a state of continuous genetic evolution, constantly reshaping their makeup to evade treatment \u2014 a finding with massive implications for why standard oncology keeps failing this cancer. The data raises hard questions about why a mutation-chasing drug paradigm consumes billions while survival rates barely move. Follow the cells, not the pharma pipeline.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/continuously-evolving-cells-help-pancreatic-cancer-evade-treatment-and-spread-302903284.html",
+      "date": "2026-10-13",
+      "pillar": "suppressed",
+      "category": "Suppressed Research",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "220 Immunocompromised Patients Got Live Vaccines by Accident \u2014 Zero Developed Disease. The Medical Establishment Ignored It.",
+      "summary": "A study of 220 IBD patients on immunosuppressive biologics who accidentally received live vaccines \u2014 including MMR and varicella \u2014 showed zero resulting cases of measles, mumps, or chickenpox. This directly challenges the blanket prohibition on live vaccines in immunocompromised patients, a restriction that has left millions unprotected. The data exists. The guidelines haven't moved.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ibd-live-vaccine-accidental-biologics-acg-2026-479869",
+      "date": "2026-10-13",
+      "pillar": "vindicated",
+      "category": "Suppressed Research",
+      "topic": "Immunology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Hospital Cartel Sues to Kill Federal Drug Discount Program \u2014 $1 Billion a Year Too Transparent for Them",
+      "summary": "Hospital systems have returned to federal court to block a federal drug-discount rebate program, claiming it would cost them over $1 billion annually to operate \u2014 revealing just how profitable the current opaque drug-pricing infrastructure is for provider networks. When hospitals fight transparency this hard, ask what they're protecting. Patients on 340B drugs deserve to know where the money goes.",
+      "source": "Americanhealthintel.com",
+      "url": "https://americanhealthintel.com/editions/2026-10-11-ledger/",
+      "date": "2026-10-11",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Pharmaceutical Industry",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "FTC Catches 'Pharma Bro' Shkreli Secretly Trading 60+ Drug Stocks Despite Lifetime Industry Ban",
       "summary": "Martin Shkreli, banned for life from the pharmaceutical industry after his fraud conviction, allegedly traded stocks in at least 60 drug companies in direct violation of federal court orders. The FTC and seven states are now seeking contempt findings and forfeiture of trading profits. This case exposes how pharma insiders treat regulatory bans as suggestions \u2014 and how long enforcement takes when the industry's own are involved.",
@@ -194,18 +290,6 @@
       "age": ""
     },
     {
-      "title": "FTC Catches Martin Shkreli Trading 60+ Pharma Stocks Despite Lifetime Ban \u2014 Contempt Motion Filed",
-      "summary": "The FTC and seven states allege that Martin Shkreli, barred for life from the pharmaceutical industry, secretly traded stocks in at least 60 drug companies in direct violation of a federal court order. Regulators are now seeking a contempt finding and demanding he forfeit all trading profits. This is the predictable outcome of a system that never cleaned up the deeper rot Shkreli embodied \u2014 he was the symptom, not the disease.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Regulatory Enforcement",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
       "title": "Beta Bionics Hid iLet Device Safety Failures From Investors \u2014 Stock Collapses 37%, Fraud Suit Filed",
       "summary": "Beta Bionics allegedly misled investors about the safety, efficacy, and commercial viability of its iLet medical device, triggering FDA compliance scrutiny and a securities fraud class action after shares cratered over 37%. The case exposes a pattern where medical device companies obscure safety signals until market pressure forces the truth out. Patients and investors were both left holding the bag.",
       "source": "PRNewswire",
@@ -274,90 +358,6 @@
       "pillar": "vindicated",
       "category": "Suppressed",
       "topic": "COVID / Immunology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "GDF15 Deficiency in the Placenta Causes Fetal Growth Restriction \u2014 Pregnancy Biology the Guidelines Ignore",
-      "summary": "New research demonstrates that placenta-specific GDF15 is essential for fetal growth, operating through the fetal hepatic STAT3-IGF2 signaling axis \u2014 and that deficiency of this factor directly causes fetal growth restriction in mice, with clinical correlates in human pregnancies. This mechanistic pathway has received almost no attention in mainstream obstetric guidelines or prenatal care protocols. Understanding what the placenta is actually doing biochemically could transform how we prevent fetal growth restriction \u2014 if anyone is listening.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004061",
-      "date": "2026-10-13",
-      "pillar": "suppressed",
-      "category": "Metabolic Research",
-      "topic": "Reproductive / Maternal Health",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Doctors and Researchers Sound Alarm: Big Business Has Captured the Global Health System",
-      "summary": "Physicians and scientists are openly challenging the profit-driven dominance of Big Business over healthcare, with India's Supreme Court itself calling out exorbitant drug pricing and margins. The piece names the structural corruption baked into pricing, clinical priorities, and treatment access. When courts start saying what doctors have whispered for decades, the suppression dam is breaking.",
-      "source": "Countercurrents.org",
-      "url": "https://countercurrents.org/2026/10/doctors-and-researchers-question-why-the-health-system-is-getting-dominated-by-profits-of-big-business-interests/",
-      "date": "2026-10-01",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Martin Shkreli Allegedly Traded 60+ Pharma Stocks Despite Lifetime Ban \u2014 FTC Wants Him Held in Contempt",
-      "summary": "The FTC and seven states allege that 'Pharma Bro' Martin Shkreli has been quietly trading stocks in at least 60 pharmaceutical companies in direct violation of a lifetime industry ban imposed after his fraud conviction. Federal authorities are seeking contempt sanctions and forfeiture of all trading profits. It's a window into how pharma insiders treat legal accountability as a speed bump, not a stop sign.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Beta Bionics Hid Safety Failures in Its iLet Device \u2014 Stock Collapsed 37%, Fraud Lawsuit Follows",
-      "summary": "Beta Bionics allegedly misled investors and the public about the safety, efficacy, and commercial viability of its iLet medical device, triggering a 37% stock crash and a securities fraud class action. FDA compliance issues were concealed while the company publicly promoted the device as ready for market. This is the medical device industry's accountability gap in real time.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bbnx-stock-alert-beta-bionics-medical-device-safety-issues-and-subsequent-37-stock-drop-trigger-securities-fraud-class-action-for-investors-302905973.html",
-      "date": "2026-10-12",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Ensign Group Concealed Patient Neglect, Falsified Staffing Data, and Billed Fraudulently \u2014 Until the Stock Dropped",
-      "summary": "Ensign Group, one of the largest nursing home operators in the country, is accused of hiding widespread patient neglect, systematically understaffing facilities, manipulating quality and staffing metrics, and running an illegal administrator-license rental scheme \u2014 all while billing federal programs. The fraud only surfaced publicly after the stock fell. Regulators were nowhere until investors got hurt.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "Mental Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Forced Psychiatric Treatment: Government Using 'Mental Illness' Label to Strip Patients of Informed Consent",
-      "summary": "A Reason analysis confronts the growing legal and institutional push to compel psychiatric treatment on individuals labeled mentally ill \u2014 stripping them of the right to refuse drugs with serious known harms. The piece exposes how diagnostic labels are weaponized to override bodily autonomy and due process. This is psychiatric coercion dressed in therapeutic language.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
-      "date": "2026-10-14",
-      "pillar": "uncaged",
-      "category": "Psychiatry",
-      "topic": "Mental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Faces Securities Fraud Action After FTC Complaint Exposes What the Company Hid From Investors",
-      "summary": "The FTC's sweeping complaint against Hims & Hers Health has triggered a securities fraud class action, with allegations that company executives concealed material risks while publicly projecting growth. The FTC complaint details deceptive practices that investors were never told about. When the regulator finally moved, the stock cratered \u2014 exactly the outcome suppressed disclosure was designed to prevent.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-fraud-class-action-filed-investors-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302905808.html",
-      "date": "2026-10-12",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "COVID",
       "suppression_score": 3,
       "age": ""
     }
