@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-18T15:34:59.524830+00:00",
+  "updated": "2026-10-18T20:18:21.955047+00:00",
   "articles": [
+    {
+      "title": "FTC Catches Martin Shkreli Trading 60+ Pharma Stocks Despite Lifetime Industry Ban \u2014 Contempt Motion Filed",
+      "summary": "The FTC and seven states allege that 'Pharma Bro' Martin Shkreli flagrantly violated a lifetime ban on pharmaceutical industry participation by trading stocks in at least 60 drug companies. Federal authorities are now seeking a contempt finding and demanding he surrender all trading profits. The case exposes how bad actors in pharma operate with impunity until enforcement finally catches up \u2014 years later.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
+      "date": "2026-10-13",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Regulatory Enforcement",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Beta Bionics Hid Safety Problems with Its iLet Device From Investors \u2014 Now Faces Fraud Lawsuit After 37% Stock Collapse",
+      "summary": "Beta Bionics allegedly misled investors about the safety, efficacy, and commercial viability of its iLet medical device, triggering a securities fraud class action after the stock cratered 37%. The lawsuit signals that FDA compliance theater can mask real-world device dangers while executives and insiders cash out. Patients using the device were the last to know.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/bbnx-stock-alert-beta-bionics-medical-device-safety-issues-and-subsequent-37-stock-drop-trigger-securities-fraud-class-action-for-investors-302903284.html",
+      "date": "2026-10-13",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Medical Devices",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Ensign Group Concealed Patient Neglect, Faked Staffing Data, and Billed Anyway \u2014 Securities Fraud Suit Follows",
+      "summary": "Ensign Group, a major post-acute care operator, allegedly concealed systemic patient neglect, manipulated quality and staffing metrics, engaged in improper billing, and ran an administrator-license rental scheme \u2014 all while presenting a rosy picture to investors. A securities fraud class action has now been filed following an 8% stock drop when the truth surfaced. The patients suffering through this concealment had no such warning.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
+      "date": "2026-10-16",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Healthcare Fraud",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Hit With Federal Fraud Complaint \u2014 FTC Says Company Deceived Patients and Investors Alike",
+      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health, accusing the company and its executives of deceptive practices that misled both investors and patients. A securities class action has followed, with a November 2026 lead plaintiff deadline. The case raises serious questions about how direct-to-consumer telehealth platforms exploit regulatory blind spots to profit at patient expense.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-fraud-class-action-filed-investors-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302905808.html",
+      "date": "2026-10-12",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Telehealth / Consumer Health",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Forced Psychiatric Treatment: The State's Power to Medicate You Against Your Will Is Back on Trial",
+      "summary": "A Reason investigation confronts the legal and ethical machinery that allows governments to forcibly medicate individuals diagnosed with mental illness, stripping them of informed consent rights that every other patient is guaranteed. The piece names the core contradiction: if treatment is beneficial, does that justify compulsion? This question is being answered in courtrooms with zero patient input and massive pharma lobbying in the background.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
+      "date": "2026-10-14",
+      "pillar": "uncaged",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Pancreatic Cancer Cells Continuously Rewire Their Own Genetics to Escape Treatment \u2014 And the Oncology Establishment Has No Answer",
+      "summary": "A landmark analysis of nearly half a million cells from dozens of patient tumors reveals that pancreatic cancer cells are not static targets \u2014 they continuously reshape their genetic makeup to evade every treatment thrown at them. This finding fundamentally challenges the dominant oncology model of fixed tumor genetics and targeted therapy. The implications for why survival rates in pancreatic cancer have barely moved in decades are explosive.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/continuously-evolving-cells-help-pancreatic-cancer-evade-treatment-and-spread-302903284.html",
+      "date": "2026-10-13",
+      "pillar": "suppressed",
+      "category": "Suppressed Research",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Live Vaccines Given to 220 Immunosuppressed IBD Patients \u2014 Zero Cases of Measles, Mumps, or Chickenpox Resulted",
+      "summary": "A real-world study of 220 IBD patients on immune-modifying biologics who accidentally received live vaccines found zero resulting cases of measles, mumps, or chickenpox \u2014 directly challenging the blanket contraindication that has denied this vulnerable population vaccine protection for decades. Medical dogma has classified live vaccines as categorically dangerous for immunosuppressed patients, yet this data suggests the risk calculus has been wrong. The finding demands a formal policy review that official bodies have so far avoided.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ibd-live-vaccine-accidental-biologics-acg-2026-479869",
+      "date": "2026-10-13",
+      "pillar": "vindicated",
+      "category": "Suppressed Research",
+      "topic": "Immunology / Vaccine Policy",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "GDF15 Deficiency in the Placenta Causes Fetal Growth Restriction \u2014 A Finding With Major Implications for Miscarriage and Pregnancy Warnings",
+      "summary": "New research published in PLOS Biology establishes that placenta-specific GDF15 is required for normal fetal growth in mice, with low circulating GDF15 levels already linked to fetal growth restriction in human clinical studies. This biological pathway has been largely ignored in mainstream obstetric research and in pregnancy safety warnings attached to pharmaceutical interventions that may interfere with GDF15 signaling. The suppression of this mechanistic understanding has left pregnant patients without critical information.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004061",
+      "date": "2026-10-16",
+      "pillar": "suppressed",
+      "category": "Suppressed Research",
+      "topic": "Reproductive Health / Pregnancy",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "FTC Catches 'Pharma Bro' Shkreli Trading 60+ Drug Stocks Despite Lifetime Ban \u2014 And Nobody In The Industry Blinked",
       "summary": "The FTC and seven states are seeking contempt charges against Martin Shkreli for allegedly trading stocks in at least 60 pharmaceutical companies in direct violation of a court-ordered lifetime industry ban. Shkreli, already convicted of securities fraud, appears to have operated openly while regulators looked the other way for years. The case exposes the revolving-door impunity that defines pharma's relationship with federal enforcement.",
@@ -230,18 +326,6 @@
       "age": ""
     },
     {
-      "title": "Hims & Hers Hit With Federal Fraud Complaint \u2014 FTC Says Company Deceived Patients and Investors Alike",
-      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health, accusing the telehealth giant of deceptive practices that misled both patients and investors. A securities class action has followed, with the lead plaintiff deadline set for November 2026. The case raises urgent questions about how DTC telehealth platforms market compounded and off-label drugs to vulnerable patients with inadequate informed consent.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-fraud-class-action-filed-investors-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302905808.html",
-      "date": "2026-10-12",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Telehealth / Drug Marketing",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
       "title": "Pancreatic Cancer Cells Continuously Rewrite Their Own Genome to Escape Treatment \u2014 And Oncologists Are Just Now Catching Up",
       "summary": "A sweeping analysis of nearly half a million cells from pancreatic tumor patients reveals that cancer cells don't just mutate at diagnosis \u2014 they continuously reshape their genetic architecture to evade every treatment thrown at them. This challenges the static tumor model that underpins most chemotherapy protocols and explains why pancreatic cancer remains a near-certain death sentence. The question the oncology establishment must answer: how long has this been known, and why hasn't the treatment paradigm shifted?",
       "source": "PRNewswire",
@@ -275,90 +359,6 @@
       "category": "Suppressed Research",
       "topic": "Reproductive Health / Maternal Medicine",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Shkreli Defies Lifetime Pharma Ban \u2014 FTC Says He Traded 60+ Drug Stocks Anyway",
-      "summary": "The FTC and seven states are moving to hold Martin Shkreli in contempt after alleging he traded stocks in at least 60 pharmaceutical companies in direct violation of a court-ordered lifetime ban. Shkreli, convicted of securities fraud in 2017, appears to have treated his ban as a suggestion rather than a legal boundary. Regulators are demanding disgorgement of profits and surrender of all pharma holdings.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Regulatory Enforcement",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Beta Bionics Hid iLet Device Safety Failures From Investors \u2014 Stock Craters 37%",
-      "summary": "Beta Bionics faces a securities fraud class action after allegedly concealing safety and efficacy problems with its iLet automated insulin delivery device from investors. The stock collapsed over 37% once the FDA compliance issues surfaced, suggesting the company knew what it was hiding and when. This is the medical device industry's accountability gap laid bare: patients and investors both kept in the dark.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/beta-bionics-nasdaq-bbnx-faces-securities-fraud-class-action-amid-ilet-fda-compliance-302905809.html",
-      "date": "2026-10-12",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Medical Devices",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Ensign Group Buried Patient Neglect, Falsified Staffing Data, and Billed Feds Anyway",
-      "summary": "Ensign Group, a major long-term care operator, is accused of concealing systematic patient neglect, understaffing, manipulated quality metrics, and an administrator-license rental scheme \u2014 all while billing federal programs. The stock dropped 8% when the truth broke through the corporate PR firewall. This is elder care fraud with a body count.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
-      "date": "2026-10-16",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Healthcare Fraud",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Hit With FTC Fraud Complaint \u2014 The Telehealth Boom Has a Deception Problem",
-      "summary": "The FTC has filed a sweeping complaint against Hims & Hers Health, triggering a securities class action over alleged misrepresentations to investors about the company's business practices. The case raises urgent questions about whether the direct-to-consumer telehealth model is being used to bypass the protections patients expect. When profit drives prescribing, the patient is the last priority.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-fraud-class-action-filed-investors-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302905808.html",
-      "date": "2026-10-12",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Telehealth / Regulatory",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Accidental Live Vaccines in 220 Immunocompromised Patients \u2014 Zero Cases. The Guidelines Haven't Caught Up.",
-      "summary": "A study of 220 IBD patients on immune-modifying biologics who accidentally received live vaccines for measles, mumps, or chickenpox found zero resulting infections \u2014 directly challenging the blanket prohibitions that have stood for decades. The medical establishment continues to withhold these vaccines from vulnerable patients based on theoretical risk, not observed data. Real-world evidence keeps vindicating what official guidance refuses to update.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/ibd-live-vaccine-accidental-biologics-acg-2026-479869",
-      "date": "2026-10-13",
-      "pillar": "vindicated",
-      "category": "Suppressed Research",
-      "topic": "Immunology / Vaccine Policy",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Pancreatic Cancer's Shape-Shifting Cells Are Outsmarting Every Drug We Throw at Them",
-      "summary": "Analysis of nearly half a million cells across dozens of pancreatic tumor patients reveals that cancer cells are continuously and dynamically rewriting their own genetic code, enabling them to evade treatment in real time. This fundamentally challenges the static tumor model that has driven oncology drug development for decades. The implications for why so many late-stage cancer trials fail \u2014 and why the industry keeps running them anyway \u2014 are damning.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/continuously-evolving-cells-help-pancreatic-cancer-evade-treatment-and-spread-302903284.html",
-      "date": "2026-10-13",
-      "pillar": "suppressed",
-      "category": "Suppressed Research",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "GDF15 Deficiency Drives Fetal Growth Restriction \u2014 What Does This Mean for Pregnancy Interventions?",
-      "summary": "New research shows that placenta-specific GDF15 is essential for fetal growth, operating through the fetal hepatic STAT3-IGF2 axis \u2014 and that low circulating levels are linked to fetal growth restriction in clinical studies. This mechanistic pathway has been largely overlooked by obstetric research priorities dominated by pharmaceutical intervention targets. Understanding what suppresses GDF15 in human pregnancy \u2014 including drugs, environmental exposures, and nutritional deficiencies \u2014 is a question the system has not been eager to fund.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004061",
-      "date": "2026-10-16",
-      "pillar": "suppressed",
-      "category": "Suppressed Research",
-      "topic": "Reproductive Medicine / Fetal Health",
-      "suppression_score": 2,
       "age": ""
     }
   ]
