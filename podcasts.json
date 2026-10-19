@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-16T20:40:40.816665+00:00",
+  "updated": "2026-10-19T12:33:12.078440+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "412 \u2012 The evolving science of cancer: emerging approaches to prevention and early detection, & more",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=xKB5GTsaKKs",
+      "date": "2026-10-19T04:00:05+00:00",
+      "age": "8 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Two Updates you NEED to know to build Chrome Extensions with Antigravity",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=fs89fhQCfj4",
       "date": "2026-08-17T04:00:07+00:00",
       "age": "8 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Stop Checking the Weather (Code This Instead) \u2614",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=1W1PGkwEiIg",
-      "date": "2026-08-14T17:32:32+00:00",
-      "age": "1 hrs ago"
     }
   ]
 }
