@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-19T12:33:12.078440+00:00",
+  "updated": "2026-10-19T22:07:41.239634+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "97: Invokers and commands",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=tKiYgvuCWXk",
+      "date": "2026-10-19T18:54:36+00:00",
+      "age": "3 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Answering your questions about WebMCP",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=bG5Dwkz65Es",
+      "date": "2026-10-19T16:17:29+00:00",
+      "age": "5 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "412 \u2012 The evolving science of cancer: emerging approaches to prevention and early detection, & more",
@@ -379,26 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/Essbq01Xb1E",
       "date": "2026-08-20T16:30:29+00:00",
-      "age": "8 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "MDMA and psilocybin for PTSD and depression | Linus Abrams, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/g72jo0LdEO0",
-      "date": "2026-08-19T16:30:40+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "404 \u2012 Mental health beyond neurotransmitters: hormones in psychiatry, psychedelic therapies, & more",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=fs89fhQCfj4",
-      "date": "2026-08-17T04:00:07+00:00",
       "age": "8 hrs ago"
     }
   ]
