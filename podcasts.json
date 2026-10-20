@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-19T22:07:41.239634+00:00",
+  "updated": "2026-10-20T16:33:19.778896+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance in your AI workflow:Modal dialog transitions",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=WccuSkL7KOQ",
+      "date": "2026-10-20T15:55:34+00:00",
+      "age": "37 min ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance in your AI workflow: Declarative dialog",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=hmgkOaJCBcc",
+      "date": "2026-10-13T15:55:07+00:00",
+      "age": "7 days ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "97: Invokers and commands",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/watch?v=H5poN8Q4cuk",
       "date": "2026-08-27T18:08:30+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Metabolic liver health: how to assess risk, catch dysfunction early, and more (AMA 88 sneak peek)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=9FMwKc4DfSM",
-      "date": "2026-08-24T04:00:15+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Mental health and the price of modernity | Linus Abrams, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/Essbq01Xb1E",
-      "date": "2026-08-20T16:30:29+00:00",
-      "age": "8 hrs ago"
     }
   ]
 }
