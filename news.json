@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-21T16:51:00.721209+00:00",
+  "updated": "2026-10-21T21:24:53.002180+00:00",
   "articles": [
+    {
+      "title": "Martin Shkreli Caught Trading 60+ Pharma Stocks Despite Lifetime Ban \u2014 FTC and Seven States Demand Contempt",
+      "summary": "The FTC and seven state attorneys general allege that Martin Shkreli \u2014 already barred for life from the pharmaceutical industry \u2014 secretly traded stocks in at least 60 drug companies in flagrant violation of court orders. The motion for contempt exposes how industry bad actors exploit regulatory gaps to maintain financial influence over drug markets. If proven, this represents a direct subversion of the enforcement mechanisms meant to protect the public from predatory pharma insiders.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
+      "date": "2026-10-16",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Regulatory Capture",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Theranos Whistleblower Tyler Shultz Slams Holmes Documentary for Sanitizing a Convicted Fraudster",
+      "summary": "Tyler Shultz, the Theranos insider who risked everything to expose Elizabeth Holmes' blood-testing fraud, says the new documentary 'You Can See Everything' presents an 'almost unrecognizable' version of the woman he watched deceive patients and investors for years. Shultz's critique cuts to the heart of how media narratives can rehabilitate bad actors before accountability is complete. The suppression of accurate scientific fraud history benefits those who profit from blurring the line between innovation and deception.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/theranos-whistleblower-tyler-shultz-elizabeth-holmes-documentary-broken-woman/",
+      "date": "2026-10-16",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "Diagnostics Fraud",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Forced Psychiatric Treatment Under Fire: Mental Illness Diagnosis Does Not Erase Informed Consent",
+      "summary": "A damning legal and ethical analysis at Reason magazine challenges the government's expanding authority to forcibly medicate individuals diagnosed with mental illness, regardless of their expressed wishes. The piece names the core tension: if a psychiatric label can strip a person of the right to refuse treatment, the diagnosis itself becomes a weapon of coercion. This argument has been systematically marginalized by a psychiatric establishment with direct financial ties to the drugs being mandated.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
+      "date": "2026-10-14",
+      "pillar": "uncaged",
+      "category": "Psychiatry",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Estrogen, Serotonin, and Endotoxin: The Metabolic Framework Mainstream Medicine Refuses to Teach",
+      "summary": "Researcher Georgi Dinkov lays out a bioenergetic framework linking estrogen dominance, histamine dysregulation, serotonin excess, and endotoxin accumulation to a cascade of modern chronic diseases \u2014 a model almost entirely absent from medical school curricula. Standard hormonal panels are exposed as inadequate, routinely missing tissue-level estrogen excess even when blood levels appear normal. This metabolic lens challenges the pharmaceutical model's reliance on symptom suppression over root-cause resolution.",
+      "source": "Activist Post",
+      "url": "https://activistpost.com/estrogen-histamine-serotonin-and-endotoxin-with-georgi-dinkov/",
+      "date": "2026-10-19",
+      "pillar": "suppressed",
+      "category": "Metabolic Research",
+      "topic": "Endocrinology",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Theranos Insider Who Blew the Whistle Says Fraud Documentary Made Him Want to Scream",
+      "summary": "A former Theranos employee who witnessed the company's fraudulent diagnostic science firsthand says watching the new Holmes documentary produced a visceral reaction of disbelief at how the narrative was framed. The account underscores a recurring pattern: whistleblowers who sacrifice careers and safety to expose medical fraud are then sidelined as entertainment media repackages the perpetrators as complex, sympathetic figures. Scientific fraud in diagnostics has direct patient harm consequences that no documentary softening can undo.",
+      "source": "CinemaBlend",
+      "url": "https://www.cinemablend.com/movies/former-theranos-employee-watch-you-can-see-everything-what-saw-made-want-scream-screen",
+      "date": "2026-10-16",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "Diagnostics Fraud",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Hims & Hers Hit With Securities Fraud Lawsuit After FTC Accuses Company of Deceptive Health Claims",
+      "summary": "A securities class action has been filed against Hims & Hers Health following an FTC federal complaint alleging the telehealth company made deceptive claims to consumers about its medical products and services. The lawsuit exposes how direct-to-consumer health platforms can monetize patient desperation while misrepresenting clinical evidence. Investors and patients alike were allegedly kept in the dark while executives profited.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-class-action-filed-investors-with-losses-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302911339.html",
+      "date": "2026-10-16",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Telehealth / Consumer Health",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "Forced Psychiatric Treatment Is Forced Treatment: The State Has No Right to Medicate You Against Your Will",
       "summary": "A Reason investigation confronts the government's growing appetite to override patient refusal of psychiatric drugs \u2014 a power with no legitimate medical or ethical basis. The piece names the core issue mainstream psychiatry refuses to: coercive treatment is not care, it is control. When diagnosis becomes a mechanism for stripping civil liberties, the entire edifice of psychiatric 'science' deserves scrutiny.",
@@ -287,78 +359,6 @@
       "category": "Pharma Fraud",
       "topic": "Regulatory Enforcement",
       "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Theranos Whistleblower Speaks: The System That Enabled Holmes Is Still Running",
-      "summary": "Tyler Shultz, who risked everything to expose Theranos fraud, is back in the news as a new documentary whitewashes Elizabeth Holmes. Shultz's original whistleblowing revealed how investors, regulators, and media failed catastrophically to catch years of deadly diagnostic fraud. The structural conditions that allowed Theranos to operate unchecked \u2014 regulatory capture, media capture, VC hype over patient safety \u2014 remain entirely unreformed.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/theranos-whistleblower-tyler-shultz-elizabeth-holmes-documentary-broken-woman/",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Whistleblower",
-      "topic": "Diagnostics / Medical Fraud",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Pharma Bro Shkreli Allegedly Trading Drug Stocks Under a Lifetime Ban \u2014 FTC and Seven States Want Him in Contempt",
-      "summary": "Martin Shkreli, banned for life from the pharmaceutical industry, allegedly traded stocks in at least 60 drug companies in direct violation of federal court orders. The FTC and seven state attorneys general are now seeking contempt sanctions and forfeiture of profits. This case exposes how pharma insiders treat regulatory penalties as minor inconveniences rather than meaningful deterrents.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Pharmaceutical Industry / Regulatory Enforcement",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Beta Bionics Hid Safety Failures on Its iLet Device \u2014 Stock Cratered 37% When Truth Emerged",
-      "summary": "Beta Bionics allegedly misled investors and patients about the safety, efficacy, and commercial performance of its iLet medical device, triggering a securities fraud class action after shares collapsed over 37%. If the allegations hold, this is a textbook case of a medical device company burying red flags to protect its stock price at the expense of patient safety. The FDA's failure to catch or publicize these issues ahead of the crash demands scrutiny.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bbnx-stock-alert-beta-bionics-medical-device-safety-issues-and-subsequent-37-stock-drop-trigger-securities-fraud-class-action-for-investors-302905973.html",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Medical Devices / Patient Safety",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Ensign Group Allegedly Manipulated Patient Safety Data While Patients Were Neglected \u2014 Now Facing Fraud Suit",
-      "summary": "Ensign Group, a major long-term care operator, faces securities fraud allegations after reports surfaced that it concealed patient neglect, systematic understaffing, manipulated quality metrics, and ran an illegal administrator-license rental scheme. If true, this means regulators and investors were given falsified safety data while vulnerable patients suffered the consequences. The stock dropped 8% when the truth began leaking out.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/ensg-stock-alert-ensign-group-neglect-issues-and-subsequent-8-stock-drop-trigger-securities-fraud-class-action-for-investors-302906293.html",
-      "date": "2026-10-13",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Long-Term Care / Patient Safety",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Hims & Hers Faces FTC Fraud Complaint \u2014 Telehealth Giant Accused of Deceiving Patients and Investors",
-      "summary": "The FTC has filed a sweeping federal complaint against Hims & Hers Health, alleging the company deceived consumers and investors about its products and practices, now spawning a securities class action. This is a direct challenge to the booming direct-to-consumer telehealth model, which critics say prioritizes revenue over rigorous medical standards. Patients who trusted the platform's marketing deserve to know what was allegedly hidden from them.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hims--hers-health-hims-alert-securities-class-action-filed-investors-with-losses-encouraged-to-contact-hagens-berman-before-november-2-2026-lead-plaintiff-deadline-302911339.html",
-      "date": "2026-10-16",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "Telehealth / Consumer Health Fraud",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Forced Psychiatric Treatment: Courts Are Stripping Mental Illness Patients of the Right to Refuse Drugs",
-      "summary": "Reason examines the growing legal and political push to mandate psychiatric treatment for individuals deemed mentally ill, raising the question of whether a diagnosis strips a patient of bodily autonomy. Involuntary medication has a documented history of harm, overdiagnosis, and abuse \u2014 and its expansion represents a direct threat to informed consent as a foundational medical principle. The psychiatric establishment's cozy relationship with drug manufacturers who profit from expanded treatment mandates is conspicuously absent from mainstream coverage.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
-      "date": "2026-10-14",
-      "pillar": "uncaged",
-      "category": "Psychiatry",
-      "topic": "Mental Health / Informed Consent",
-      "suppression_score": 4,
       "age": ""
     }
   ]
