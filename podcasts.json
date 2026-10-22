@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-21T21:24:53.641728+00:00",
+  "updated": "2026-10-22T21:19:36.021882+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "HTML-in-canvas: Where interactive content and high performance graphics meet",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=mB0eWkWubuk",
+      "date": "2026-10-22T19:02:00+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Modern Web Guidance in your AI workflow: Modal dialog transitions",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/shorts/ikjwsZHC9ko",
       "date": "2026-09-02T16:30:28+00:00",
       "age": "4 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "406 \u2012 Migraine, cluster headache, and tension headache: symptoms, causes, prevention, and treatment",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=uiNEP8A34SE",
-      "date": "2026-08-31T04:00:22+00:00",
-      "age": "29 min ago"
     }
   ]
 }
