@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-22T21:19:36.021882+00:00",
+  "updated": "2026-10-23T21:09:31.873243+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Strong convictions, loosely held: how Peter\u2019s views have changed (AMA 90 sneak peek)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=6DR8E5QJoCY",
+      "date": "2026-10-12T04:00:13+00:00",
+      "age": "11 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Thyroid health: interpreting symptoms, diagnosing & treating dysfunction (AMA 89 sneak peek)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=6Bhq-PBWG8c",
+      "date": "2026-09-21T04:00:06+00:00",
+      "age": "32 days ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "HTML-in-canvas: Where interactive content and high performance graphics meet",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/shorts/AmSEX2qIv_U",
       "date": "2026-09-04T16:30:15+00:00",
       "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Third-party tools for Chrome DevTools for Agents",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=1ZGlnGUp0XA",
-      "date": "2026-09-03T17:11:10+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "The prevalence and impact of migraine | Brian Grosberg, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/ikjwsZHC9ko",
-      "date": "2026-09-02T16:30:28+00:00",
-      "age": "4 hrs ago"
     }
   ]
 }
