@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-25T20:33:13.843074+00:00",
+  "updated": "2026-10-26T12:29:30.409452+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "413 \u2012 The neuroscience of emotion: challenging conventional theories of emotion and much more",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=0oNeFRTpvUE",
+      "date": "2026-10-26T04:00:06+00:00",
+      "age": "8 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Why Peter changed his mind on Zone 2 training",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/igeLOCTR1MM",
+      "date": "2026-10-25T23:52:38+00:00",
+      "age": "12 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "How Peter\u2019s views have changed over the last 8 years",
@@ -379,26 +399,6 @@
       "topic": "",
       "url": "https://www.youtube.com/shorts/zhEvfhJQTN8",
       "date": "2026-09-05T16:30:19+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "How to use Chrome DevTools for agents with Chrome extensions",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/GAyfTSsOXMI",
-      "date": "2026-09-04T20:46:17+00:00",
-      "age": "13 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Modifiable lifestyle interventions for migraine | Brian Grosberg, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/-Kw_gxbnoIc",
-      "date": "2026-09-04T17:00:33+00:00",
       "age": "3 hrs ago"
     }
   ]
