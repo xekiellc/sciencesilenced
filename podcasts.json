@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-26T22:25:26.279522+00:00",
+  "updated": "2026-10-27T17:43:30.741117+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "What is WebMCP?",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=NERX01dOiEY",
+      "date": "2026-10-27T16:00:43+00:00",
+      "age": "1 hrs ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance in your AI workflow: Break up long tasks",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=_3V3cQf_1r4",
+      "date": "2026-10-27T15:00:32+00:00",
+      "age": "2 hrs ago"
+    },
     {
       "show": "Peter Attia MD",
       "title": "Peter\u2019s current thoughts on rapamycin",
@@ -380,26 +400,6 @@
       "url": "https://www.youtube.com/shorts/OML41EaXFBs",
       "date": "2026-09-10T16:10:41+00:00",
       "age": "4 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Exercise for preserving cognitive function | Peter Attia, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/1RYoai-ec_8",
-      "date": "2026-09-10T19:30:02+00:00",
-      "age": "1 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Blood pressure: how to measure, manage, and treat high blood pressure (AMA #48 rebroadcast)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=n42zMaH2Jgc",
-      "date": "2026-09-07T04:00:30+00:00",
-      "age": "7 hrs ago"
     }
   ]
 }
