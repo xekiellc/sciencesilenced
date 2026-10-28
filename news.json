@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-28T12:22:19.323060+00:00",
+  "updated": "2026-10-28T22:20:43.234860+00:00",
   "articles": [
+    {
+      "title": "FDA Caught Sitting on Evidence of COVID Vaccine Risks in Children \u2014 No Warning Issued, No Action Taken",
+      "summary": "The FDA has suppressed evidence linking COVID-19 vaccines to serious risks in children, including deaths, yet has refused to issue updated warnings or take regulatory action. This is a textbook case of regulatory capture: the agency charged with protecting public safety is actively concealing safety signals that could undermine the vaccine program. Parents and pediatricians have been left in the dark while the evidence sits buried.",
+      "source": "WND",
+      "url": "https://www.wnd.com/2026/10/covid-coverup-fda-suppressing-evidence-vaccines-risks-children/",
+      "date": "2026-10-25",
+      "pillar": "suppressed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Political Interference in Medicine Is Destroying Patient Autonomy \u2014 And Institutions Know It",
+      "summary": "Trust in hospitals and health institutions has collapsed in the wake of COVID-19, and Mercola's editorial traces the direct line between political meddling and the erosion of medical freedom. The piece documents how bureaucratic capture of healthcare decision-making has overridden clinical judgment and patient rights. This is the systemic rot that mainstream outlets refuse to name directly.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "UK Doctor Forced Out of NHS After Raising Alarm on Trans Doctor Prescribing Puberty Blockers to Minors",
+      "summary": "Dr. Redvers, a GP, was subjected to a four-hour 'brutal and oppressive' interrogation and ultimately felt forced to quit the NHS after raising legitimate clinical concerns about a trans doctor prescribing puberty blockers to under-18s. Instead of investigating the clinical safety question, the system turned its machinery against the whistleblower \u2014 labeling her transphobic and silencing the safeguarding concern entirely. This is what medical censorship looks like in 2026.",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
+      "date": "2026-10-25",
+      "pillar": "suppressed",
+      "category": "Whistleblower",
+      "topic": "Mental Health",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Theranos 2.0? Elizabeth Holmes' Partner Is Running a Blood-Testing Startup With No Product and a Missing CTO",
+      "summary": "Billy Evans, partner of convicted fraudster Elizabeth Holmes, is running Haemanthus \u2014 an Austin-based blood-testing startup that has attracted investors and filed patents but has produced no working product and has a CTO who has apparently vanished. The ghost of Theranos haunts every corner of this story, yet investors keep writing checks and regulators remain silent. The diagnostics industry's appetite for fraud appears undiminished.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Diagnostics",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Beta Bionics Faces Securities Fraud Suit Over Hidden FDA Compliance Problems With Its Insulin Device",
+      "summary": "Beta Bionics, maker of the iLet automated insulin delivery system, is now facing a securities fraud class action after allegedly concealing FDA compliance failures from investors. The case raises serious questions about what executives knew about regulatory deficiencies and when \u2014 and whether patients using the device were exposed to undisclosed risks. This is pharma fraud at the intersection of device safety and investor deception.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/beta-bionics-nasdaq-bbnx-faces-securities-fraud-class-action-amid-ilet-fda-compliance--hagens-berman-302915630.html",
+      "date": "2026-10-21",
+      "pillar": "exposed",
+      "category": "Pharma Fraud",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Senator's Top Donor Is Systematically Looting Rural Hospitals \u2014 And No One in Congress Is Talking",
+      "summary": "A major donor to Kansas Senator Roger Marshall has been identified as one of the most aggressive hospital profiteers targeting rural healthcare systems, extracting value while communities lose access to care. Marshall, who sits on health-related Senate committees, has maintained a multilayered financial relationship with this donor while rural hospitals collapse. This is corruption at the intersection of campaign finance and healthcare policy \u2014 the kind the establishment press routinely buries.",
+      "source": "The American Prospect",
+      "url": "https://prospect.org/2026/10/21/a-major-roger-marshall-donor-is-a-hospital-bandit/",
+      "date": "2026-10-21",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Healthcare Policy",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "FDA Caught Suppressing Vaccine Risk Evidence in Children \u2014 Deaths Ignored, Warnings Buried",
       "summary": "The FDA is actively suppressing evidence linking COVID-19 vaccines to deaths in children, according to a WND investigation. Recommendations for safety warnings have been made internally but never acted upon. This is regulatory capture in its most lethal form \u2014 children are dying and the agency charged with protecting them is running cover for the manufacturers.",
@@ -287,78 +359,6 @@
       "category": "NIH Capture",
       "topic": "COVID",
       "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "FDA Caught Burying Vaccine Risk Data for Children \u2014 Deaths Ignored, Warnings Suppressed",
-      "summary": "The FDA has been sitting on evidence of serious risks from COVID vaccines in children, including deaths, while refusing to act on recommendations for warning labels. This is regulatory malfeasance at the highest level \u2014 a federal agency choosing pharma protection over child safety. No accountability, no action, no transparency.",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/10/covid-coverup-fda-suppressing-evidence-vaccines-risks-children/",
-      "date": "2026-10-23",
-      "pillar": "suppressed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
-      "summary": "Former FDA insider and epidemiologist Vinay Prasad delivers a scorching assessment of Anthony Fauci's pandemic leadership, calling out nearly every major policy decision as wrong. Prasad's willingness to name names from inside the system makes this essential \u2014 this is the kind of institutional critique the mainstream press refuses to platform. The public health apparatus is not just broken, it's captured.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "UK Doctor Forced Out of NHS After Raising Alarm Over Trans Doctor Prescribing Puberty Blockers to Minors",
-      "summary": "Dr. Redvers, a British GP, was subjected to a four-hour 'brutal and oppressive' interrogation and ultimately felt forced to quit the NHS after raising clinical concerns about a trans doctor prescribing puberty blockers to under-18s. The case exposes how ideological capture in medicine is being weaponized to silence legitimate patient safety concerns. Doctors who dissent are being destroyed professionally while children are left unprotected.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
-      "date": "2026-10-23",
-      "pillar": "uncaged",
-      "category": "Whistleblower",
-      "topic": "Mental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "The Sunlight They Don't Want You Using: How Modern Lighting Is Quietly Destroying Human Health",
-      "summary": "Mercola's deep dive into artificial lighting exposes a profound and deliberately ignored public health crisis \u2014 the systematic replacement of sunlight with artificial light that disrupts circadian biology, hormonal signaling, and cellular repair. No lobbyists, no patents, no profit \u2014 so sunlight stays buried while blue-light-emitting devices are normalized. This is nutrition science suppression applied to photobiology.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/23/hidden-harms-of-modern-lighting.aspx",
-      "date": "2026-10-23",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Metabolic / Circadian Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Plant Compound Curcumin Selectively Kills Cancer Cells While Sparing Healthy Tissue \u2014 Pharma Has No Interest",
-      "summary": "Researchers at Wroclaw Medical University found curcumin and four other plant compounds capable of disrupting fibrosarcoma cancer cell function while leaving healthy muscle cells largely intact \u2014 a profile that rivals targeted oncology drugs. Because curcumin cannot be patented, this research will never see a clinical trial funded by pharma. The suppression here isn't a memo \u2014 it's a business model.",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/curcumin-shows-balanced-anticancer-profile-according-sarcoma-cell-study/5944307",
-      "date": "2026-10-21",
-      "pillar": "suppressed",
-      "category": "Metabolic Research",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "How Political Capture Destroyed Public Trust in Medicine \u2014 And Why Institutions Are Still Lying About It",
-      "summary": "Trust in hospitals and health agencies collapsed during COVID and has not recovered \u2014 and this analysis argues the culprit is naked political interference in clinical decision-making. From mask mandates to vaccine coercion, medicine was weaponized as a political instrument. The institutions responsible have never been held accountable and continue to operate as if nothing happened.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 3,
       "age": ""
     }
   ]
