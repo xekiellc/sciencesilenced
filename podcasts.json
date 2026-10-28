@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-27T21:56:45.202591+00:00",
+  "updated": "2026-10-28T12:22:19.777589+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "How to evaluate your WebMCP tools",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=2jb6D2yhdis",
+      "date": "2026-10-27T22:01:04+00:00",
+      "age": "14 hrs ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Building effective WebMCP tools",
@@ -390,16 +400,6 @@
       "url": "https://www.youtube.com/watch?v=EuPcbF9YVTo",
       "date": "2026-09-14T04:00:16+00:00",
       "age": "8 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Why healthspan is a crucial component of longevity | Peter Attia, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=y3AZbVMcE20",
-      "date": "2026-09-11T16:30:11+00:00",
-      "age": "4 hrs ago"
     }
   ]
 }
