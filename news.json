@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-30T22:02:15.799274+00:00",
+  "updated": "2026-10-31T04:41:54.160031+00:00",
   "articles": [
+    {
+      "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
+      "summary": "Former FDA insider and epidemiologist Vinay Prasad delivers a systematic indictment of Anthony Fauci's COVID-19 policy record, telling Reason that public health is 'so broken' it may be beyond repair. Prasad names Fauci directly, connecting failed mandates, school closures, and mask guidance to institutional capture rather than science. The interview also addresses RFK Jr.'s reform push at HHS and whether the system can be salvaged from within.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "Fauci",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "CDC Caught in Deliberate Cover-Up of Vaccine Injury Data, Brownstone Investigation Finds",
+      "summary": "Jeffrey Tucker at the Brownstone Institute lays out documented evidence that the CDC actively misrepresented the frequency and severity of COVID shot injuries to the American public. The piece identifies specific methodological manipulations used to obscure adverse event signals that should have triggered regulatory review. This is not incompetence \u2014 Tucker argues it was a coordinated institutional decision to protect the vaccine program over patient safety.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/how-the-cdc-lied-about-shot-injury/",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Doctors Forced to Vaccinate Surgical Patients Perioperatively \u2014 The Ethics Atrocity No One Is Talking About",
+      "summary": "Clayton J. Baker, MD details the coercive practice of administering COVID vaccines to patients immediately before or after surgery \u2014 a window when immune systems are stressed and informed consent is functionally impossible. Baker argues this protocol violated foundational medical ethics and was pushed through hospital systems without independent safety review. The piece names the institutional pressure that silenced physicians who objected.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/the-medical-and-ethical-atrocity-of-perioperative-vaccination/",
+      "date": "2026-10-25",
+      "pillar": "suppressed",
+      "category": "Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Big Pharma's Hostages: How Federal Policy Traps Patients in a Captured Drug System",
+      "summary": "James Bovard writes from personal experience as a patient trapped by pharmaceutical dependency enforced through federal policy, arguing that both parties have protected pharma's market stranglehold at the expense of patient autonomy. The piece challenges Trump-era HHS to follow through on reform rhetoric rather than repeating the pattern of regulatory capture that has defined decades of drug policy. A damning first-person account of what systemic pharma corruption looks like from the inside.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/will-trump-take-millions-of-hostages-like-me-for-big-pharma/",
+      "date": "2026-10-25",
+      "pillar": "uncaged",
+      "category": "Pharma Fraud",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "NHS Silenced a GP for Questioning Gender Medicine Given to Minors \u2014 Then Called Her Transphobic",
+      "summary": "Dr. Redvers, a UK GP, was subjected to a four-hour 'brutal' interrogation after raising clinical concerns about a trans-identified doctor prescribing puberty blockers to under-18s \u2014 interventions now facing international regulatory scrutiny. Rather than investigate the prescribing practices, NHS administrators opened a transphobia investigation against the whistleblower, effectively punishing clinical caution. This is a textbook case of institutional capture silencing doctors who prioritize child safety over ideology.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
+      "date": "2026-10-25",
+      "pillar": "suppressed",
+      "category": "Whistleblower",
+      "topic": "Mental Health",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Texas Forces Children's Hospital to Open Detransition Clinic After $10M Settlement \u2014 The Medical Establishment Wanted This Buried",
+      "summary": "Texas Attorney General Ken Paxton's landmark legal settlement with Texas Children's Hospital has compelled the institution to open the first dedicated detransition care clinic in the country, alongside a $10 million penalty. The hospital had been providing gender transition interventions to minors \u2014 procedures now under scrutiny for long-term harm \u2014 and fought accountability every step of the way. Detransitioners speaking out say this clinic represents the first time the medical system has been forced to acknowledge what it spent years denying.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
+      "date": "2026-10-27",
+      "pillar": "vindicated",
+      "category": "Pharma Fraud",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Mercola: Political Capture of Medicine Is Destroying Patient Trust \u2014 And the Data Proves It",
+      "summary": "Trust in hospitals and health institutions has collapsed in the post-COVID era, and this piece traces that collapse directly to political interference in clinical decision-making, from suppressed early treatment protocols to coerced vaccination policies. The article documents how government coordination with hospital systems overrode physician judgment and patient choice at scale. The public's instinct that something was deeply wrong has now been confirmed by the institutions' own conduct.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Vitamin D Science the Establishment Keeps Downgrading: International Forum Presents Suppressed Evidence",
+      "summary": "The 2024 International Virtual Vitamin D Forum convened independent researchers presenting clinical and mechanistic evidence for vitamin D's role in immune function, disease prevention, and chronic illness \u2014 data that mainstream dietary guidelines have consistently minimized or ignored. Critics argue that institutional bias toward pharmaceutical interventions has systematically suppressed low-cost nutritional solutions backed by decades of research. The forum represents a growing independent scientific community unwilling to wait for official approval of what the data already shows.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
+      "date": "2026-10-27",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
     {
       "title": "NIH Scientist Proposed Engineering Coronavirus for Enhanced Infectivity Weeks Before Pandemic \u2014 Emails Prove It",
       "summary": "NIH virologist Vincent Munster emailed a proposal on October 6, 2019 to engineer a furin cleavage site into a coronavirus spike protein to 'enhance infectivity' \u2014 the exact genetic feature at the center of the lab-leak debate. These emails were not proactively disclosed and directly implicate NIH-funded researchers in pre-pandemic gain-of-function planning. The timing and specificity of the proposal obliterate the 'natural origin' consensus that Fauci and the scientific establishment spent years enforcing.",
@@ -95,18 +191,6 @@
       "category": "Pharma Fraud",
       "topic": "Consumer Health",
       "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
-      "summary": "Former FDA insider and epidemiologist Vinay Prasad tells Reason magazine that Anthony Fauci was wrong on virtually every major COVID policy call \u2014 from masking to school closures to gain-of-function denial. Prasad indicts the entire public health apparatus as institutionally broken and captured by political incentives rather than evidence. This is a credentialed insider confirming what independent scientists were censored for saying in 2020.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Whistleblower",
       "topic": "Pediatric Medicine",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "COVID Surveillance Systematically Undercounted Cases in Poor Minority Neighborhoods \u2014 The Data Was Always Skewed",
-      "summary": "A peer-reviewed analysis of Miami-Dade County COVID-19 surveillance data reveals that passive reporting systems structurally undercounted disease burden in lower-income, minority communities while overcounting in affluent neighborhoods \u2014 distorting the epidemiological record that drove policy decisions. This means the interventions justified by that data were built on a compromised foundation. The implications for how official COVID statistics were used to mandate policies affecting millions deserve far more scrutiny than they have received.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361211",
-      "date": "2026-10-27",
-      "pillar": "exposed",
-      "category": "Replication Crisis",
-      "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Fauci Was Wrong on Every Single Pandemic Policy \u2014 Former FDA Insider Vinay Prasad Names Names",
-      "summary": "Vinay Prasad, a former FDA insider turned fiercest critic of COVID orthodoxy, says Fauci was wrong about 'almost every single pandemic policy he advanced.' Prasad indicts the entire public health apparatus for prioritizing narrative over evidence, costing lives and decimating trust. This is the insider account the legacy media refuses to run in full.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Smoking Gun: NIH Virologist Proposed Engineering Furin Cleavage Site Into Coronavirus Weeks Before Pandemic Began",
-      "summary": "Newly surfaced emails show NIH virologist Vincent Munster proposed in October 2019 \u2014 weeks before the pandemic \u2014 engineering a furin cleavage site into a coronavirus spike protein to 'enhance infectivity,' the precise modification that became a centerpiece of the lab-leak debate. This is not speculation; this is documented NIH correspondence. The agency that funded the research also ran the pandemic response.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-23-nih-scientist-proposed-engineering-coronavirus-more-infectious.html",
-      "date": "2026-10-23",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Political Meddling in Medicine: How Institutions Betrayed Patient Trust and Crushed Dissent",
-      "summary": "Trust in hospitals and health institutions has cratered since COVID-19, and this Mercola deep-dive traces the mechanics of how political interference colonized medical decision-making. The piece documents how approved narratives were enforced not by evidence but by institutional power, silencing clinicians who deviated. The reprint history alone \u2014 originally buried in 2025 \u2014 tells you everything about who controls what you're allowed to read.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
-      "date": "2026-10-25",
-      "pillar": "suppressed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "UK GP Forced Out of NHS After Raising Safety Concerns About Puberty Blockers \u2014 Then Called Transphobic",
-      "summary": "Dr. Redvers raised clinical concerns about a trans-identifying doctor prescribing puberty blockers to under-18s and was subjected to a four-hour 'brutal' interrogation before ultimately feeling forced to quit the NHS. This is textbook medical censorship: a physician follows her oath, questions a practice with a contested evidence base, and gets destroyed professionally. The tribunal record is damning.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Whistleblower",
-      "topic": "Pediatric Medicine",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Vitamin D Forum Exposes What Mainstream Medicine Won't Teach: The Suppressed Science of the Sunshine Vitamin",
-      "summary": "The 2024 International Virtual Vitamin D Forum brought together researchers documenting vitamin D's broad systemic roles \u2014 from immune function to disease prevention \u2014 that institutional medicine has chronically underpromoted while pharma-funded guidelines kept RDAs artificially low. Decades of research linking deficiency to chronic disease have been systematically deprioritized in favor of patentable interventions. This is what nutritional suppression looks like in practice.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
-      "date": "2026-10-27",
-      "pillar": "vindicated",
-      "category": "Nutrition Science",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Curcumin Selectively Kills Cancer Cells While Sparing Healthy Tissue \u2014 So Why Is No One Funding This?",
-      "summary": "A laboratory study from Wroclaw Medical University found curcumin among five plant compounds showing a balanced anticancer profile against fibrosarcoma cells, disrupting tumor biology while leaving healthy muscle cells relatively intact. This kind of selective cytotoxicity is exactly what oncology claims to be searching for \u2014 yet research into unpatentable natural compounds remains chronically underfunded and academically marginalized. Follow the patent trail to understand why.",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/curcumin-shows-balanced-anticancer-profile-according-sarcoma-cell-study/5944307",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Metabolic Research",
-      "topic": "Oncology",
-      "suppression_score": 3,
       "age": ""
     }
   ]
