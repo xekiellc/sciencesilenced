@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-31T11:53:50.152929+00:00",
+  "updated": "2026-10-31T17:00:14.311708+00:00",
   "articles": [
     {
       "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
-      "summary": "Former FDA insider and epidemiologist Vinay Prasad delivers a scathing indictment of Anthony Fauci, stating plainly that nearly every major pandemic policy Fauci championed was wrong. Prasad also takes aim at the structural rot inside public health institutions and weighs in on RFK Jr.'s efforts to dismantle pharma capture at HHS. This is the kind of accountability interview the mainstream media refuses to air.",
+      "summary": "Former FDA insider and epidemiologist Vinay Prasad delivers a scathing indictment of Anthony Fauci's pandemic leadership, stating he was wrong on virtually every major COVID policy. Prasad also takes aim at the broader collapse of public health credibility and what RFK Jr.'s HHS reforms mean for the captured system. This is the kind of accountability the mainstream press has spent years suppressing.",
       "source": "Reason",
       "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
       "date": "2026-10-25",
@@ -11,6 +11,90 @@
       "category": "Fauci",
       "topic": "COVID",
       "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Blood Clots and the Silence: How Institutional Medicine Buried Its Own Safety Signal",
+      "summary": "The Brownstone Institute publishes a direct clinical challenge to the establishment narrative on post-COVID and post-vaccine blood clotting events, authored by a practicing physician. The piece documents how common-sense clinical observations were steamrolled by bureaucratic groupthink during the pandemic. Doctors who raised these signals faced professional retaliation while patients paid with their lives.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/blood-clots-and-the-death-of-common-sense/",
+      "date": "2026-10-25",
+      "pillar": "suppressed",
+      "category": "Whistleblower",
+      "topic": "Cardiovascular",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "NHS GP Forced Out After Raising Alarm on Puberty Blockers for Minors \u2014 Then Branded 'Transphobic'",
+      "summary": "Dr. Redvers, a UK general practitioner, was subjected to a four-hour 'brutal and oppressive' interrogation by NHS investigators after she raised clinical concerns about a trans doctor prescribing puberty blockers to children under 18. She ultimately felt forced to quit the NHS entirely. This is textbook medical censorship: silence the doctor, protect the protocol, ignore the patients.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
+      "date": "2026-10-28",
+      "pillar": "suppressed",
+      "category": "Medical Censorship / Whistleblower",
+      "topic": "Pediatric Medicine",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Texas Children's Hospital Forced to Open Detransition Clinic After $10M Settlement \u2014 The Story Media Buried",
+      "summary": "Texas Attorney General Ken Paxton's landmark legal action against Texas Children's Hospital resulted in a $10 million settlement and the mandatory creation of the first detransition care clinic in the country. The hospital had been performing gender-transition interventions on minors, and it took a state AG \u2014 not a medical board, not the FDA \u2014 to force accountability. The mainstream medical press has largely ignored what this settlement implies about institutional harm.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
+      "date": "2026-10-27",
+      "pillar": "exposed",
+      "category": "NIH Capture / Medical Censorship",
+      "topic": "Pediatric Medicine",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Mercola: Political Capture of Health Institutions Is a Direct Threat to Patient Freedom \u2014 And the Data Bears It Out",
+      "summary": "Trust in hospitals and health institutions has cratered since COVID-19, and this Mercola deep-dive names why: systematic political interference in clinical decision-making, suppression of dissenting physicians, and the transformation of public health agencies into enforcement arms of pharmaceutical interests. The piece traces the structural mechanisms by which medical freedom is being quietly dismantled. Dismissed by the establishment press, the underlying evidence is no longer fringe.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture / Medical Censorship",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Vitamin D Science Is Being Ignored at Scale \u2014 International Forum Delivers What the FDA Won't",
+      "summary": "The 2024 International Virtual Vitamin D Forum aggregated substantial peer-reviewed evidence linking vitamin D deficiency to immune dysfunction, chronic disease, and mortality \u2014 none of which has penetrated official dietary guidance or clinical protocols in any meaningful way. While the FDA fast-tracks billion-dollar biologics, a cheap, evidence-backed micronutrient intervention sits buried. This is nutrition science suppression hiding in plain sight.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
+      "date": "2026-10-27",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Immune / Metabolic",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Pandemic Preparedness Frameworks Are Built on Unaccountable Power \u2014 And Someone Finally Said It",
+      "summary": "Brownstone Institute's Ramesh Thakur dismantles the equity-washing language embedded in global pandemic preparedness frameworks, arguing they concentrate power without any genuine accountability mechanism. The WHO and affiliated bodies have positioned themselves to override national sovereignty and individual medical rights under the guise of equity. When preparedness becomes a blank check for bureaucratic control, patients and citizens are the last priority.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/equity-with-accountability-in-pandemic-preparedness/",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "ENO2-Driven Tumor Glycolysis Study Validates Metabolic Cancer Theory the Oncology Establishment Has Long Minimized",
+      "summary": "New research in PLOS ONE identifies ENO2-driven glycolysis as a key driver of hepatocellular carcinoma progression, lending further mechanistic weight to the metabolic theory of cancer that challenges the dominant gene-mutation-only model. For decades, researchers who pursued Warburg-adjacent metabolic frameworks were sidelined in favor of immunotherapy and targeted therapy pipelines with massive pharma backing. This data will not be making it into oncology grand rounds anytime soon.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361057",
+      "date": "2026-10-25",
+      "pillar": "vindicated",
+      "category": "Metabolic Research",
+      "topic": "Oncology",
+      "suppression_score": 2,
       "age": ""
     },
     {
@@ -274,90 +358,6 @@
       "pillar": "exposed",
       "category": "Pharma Fraud",
       "topic": "Consumer Health",
-      "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Smoking Gun: NIH Scientist Proposed Engineering Furin Cleavage Site Into Coronavirus Weeks Before Pandemic",
-      "summary": "Newly surfaced emails show NIH virologist Vincent Munster proposed engineering a furin cleavage site into a coronavirus spike protein on October 6, 2019 \u2014 weeks before the pandemic began \u2014 to 'enhance infectivity.' This modification is the exact genetic feature at the center of the lab-leak debate, and it directly implicates NIH-funded research in the architecture of SARS-CoV-2. The emails contradict years of official denial and raise unresolved questions about whether NIH-linked scientists had foreknowledge of or involvement in engineering the pandemic pathogen.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-23-nih-scientist-proposed-engineering-coronavirus-more-infectious.html",
-      "date": "2026-10-23",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Doctor 'Forced Out of NHS' After Being Labeled Transphobic for Questioning Puberty Blockers Given to Minors",
-      "summary": "Dr. Redvers, a UK GP, was subjected to a brutal four-hour interrogation and ultimately driven from her NHS position after raising clinical concerns about a trans-identified doctor prescribing puberty blockers to children under 18. The case is a textbook example of institutional medicine silencing dissent not on scientific grounds but on ideological ones. When raising child safety concerns costs a physician her career, the system has abandoned medicine for activism.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Whistleblower",
-      "topic": "Pediatric / Gender Medicine",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Political Capture of Medicine Is Not a Conspiracy Theory \u2014 It's Killing People",
-      "summary": "A Mercola analysis drawing on post-pandemic institutional data documents the collapse of public trust in hospitals, the CDC, and the FDA \u2014 trust that was systematically destroyed by politicized COVID mandates, suppressed early treatment data, and revolving-door regulatory corruption. The piece names the mechanisms: agency capture, media coordination, and financial conflicts of interest that turned health institutions into enforcement arms of pharmaceutical policy. What was once called paranoia is now documented institutional failure.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Vitamin D Science Has Been Systematically Undervalued \u2014 International Forum Pushes Back",
-      "summary": "The 2024 International Virtual Vitamin D Forum aggregated research demonstrating vitamin D's broad immune, skeletal, and metabolic roles that far exceed the minimal standards set by government dietary guidelines. Decades of research linking vitamin D deficiency to cancer, autoimmune disease, and respiratory infection vulnerability have been sidelined in favor of pharmaceutical interventions that cost far more and carry greater risk. The suppression of low-cost nutritional interventions in favor of patentable drugs remains one of the most consequential conflicts of interest in modern medicine.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Immune / Metabolic",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Plant Compound Curcumin Selectively Kills Cancer Cells \u2014 Unprofitable, So It Stays in the Lab",
-      "summary": "Researchers at Wroclaw Medical University found that curcumin \u2014 a non-patentable plant compound \u2014 demonstrated selective anticancer activity against fibrosarcoma cells while sparing healthy muscle tissue, outperforming or matching several other natural compounds tested. This kind of research consistently fails to attract NIH funding or clinical trial investment because there is no patent value and therefore no return for pharmaceutical sponsors. The data accumulates in journals; the oncology establishment ignores it.",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/curcumin-shows-balanced-anticancer-profile-according-sarcoma-cell-study/5944307",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Metabolic Research",
-      "topic": "Oncology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Texas Forces Children's Hospital to Open Detransition Clinic After $10M Settlement \u2014 The Medical Establishment Called This Impossible",
-      "summary": "Texas Attorney General Ken Paxton secured a landmark $10 million settlement with Texas Children's Hospital that included a legally mandated requirement to open the state's first detransition clinic \u2014 providing care for patients harmed by gender transition interventions. For years, mainstream medicine denied that detransition was a significant phenomenon and marginalized clinicians who documented harm. This settlement forces institutional medicine to confront the patients it created and then abandoned.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
-      "date": "2026-10-27",
-      "pillar": "vindicated",
-      "category": "Whistleblower",
-      "topic": "Pediatric / Gender Medicine",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "COVID Surveillance Systematically Undercounted Cases in Poor Minority Neighborhoods \u2014 The Data Was Always Biased",
-      "summary": "A peer-reviewed PLOS ONE study of Miami-Dade County reveals that passive COVID-19 surveillance systems structurally undercounted infection burden in low-income and minority communities, while affluent neighborhoods with greater healthcare access dominated reported case counts. This matters because the skewed data shaped policy, resource allocation, and the public narrative about who COVID was actually hitting hardest. Epidemiological decisions made on corrupted surveillance data produced inequitable and scientifically invalid public health responses.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361211",
-      "date": "2026-10-27",
-      "pillar": "exposed",
-      "category": "Replication Crisis",
-      "topic": "COVID",
       "suppression_score": 2,
       "age": ""
     }
