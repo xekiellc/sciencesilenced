@@ -1,16 +1,100 @@
 {
-  "updated": "2026-11-01T05:01:54.763732+00:00",
+  "updated": "2026-11-01T12:53:04.355625+00:00",
   "articles": [
     {
       "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
-      "summary": "Former FDA insider and epidemiologist Vinay Prasad tells Reason magazine that Anthony Fauci was wrong on virtually every major COVID-19 policy call \u2014 from masking to school closures to lockdowns. Prasad also takes aim at RFK Jr. and the broken institutional apparatus of public health that enabled Fauci's unchecked authority for decades. This is a senior scientist on record saying the emperor had no clothes.",
+      "summary": "Former FDA insider and epidemiologist Vinay Prasad tells Reason magazine that Anthony Fauci was wrong on nearly every major COVID-19 policy call \u2014 from lockdowns to masking to school closures. Prasad indicts the entire public health apparatus as fundamentally broken, captured, and unaccountable. This is a credentialed insider confirming what independent scientists were censored for saying in 2020.",
       "source": "Reason",
       "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
       "date": "2026-10-25",
       "pillar": "exposed",
       "category": "Fauci",
       "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Brownstone Institute Asks the Question Big Media Won't: Why Weren't We Warned?",
+      "summary": "The Brownstone Institute publishes a damning accountability piece demanding to know why the public was never warned about the known harms of pandemic-era interventions \u2014 from lockdown consequences to suppressed adverse event data. The piece names the institutional failures that allowed unproven policies to be imposed without informed consent. This is the kind of post-mortem that legacy outlets refuse to run.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/why-werent-we-warned/",
+      "date": "2026-10-25",
+      "pillar": "suppressed",
+      "category": "NIH Capture",
+      "topic": "COVID",
       "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Mercola: Political Meddling in Medicine Destroyed Institutional Trust \u2014 And the Patients Are Paying",
+      "summary": "A republished deep-dive from Mercola.com documents how politically driven interference in hospital and public health decision-making during COVID shattered patient trust in ways that will take decades to reverse. The piece connects ideological capture of health institutions to measurable declines in care-seeking behavior and public compliance. What the mainstream calls 'misinformation concerns' is actually a rational response to institutional betrayal.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Vitamin D Research the Establishment Keeps Sidelining: International Forum Presents What Mainstream Medicine Ignores",
+      "summary": "The 2024 International Virtual Vitamin D Forum compiled evidence across immune function, bone health, and systemic disease that continues to be systematically underfunded and underemphasized by mainstream clinical guidelines. Decades of data showing vitamin D's broad therapeutic potential have been dismissed while patent-protected drugs receive preferential research dollars. This is nutrition science suppression in plain sight.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
+      "date": "2026-10-27",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Texas Children's Hospital Pays $10M, Opens Detransition Clinic After Paxton Settlement \u2014 A Whistleblower's Vindication",
+      "summary": "Texas Children's Hospital has been forced to open a first-of-its-kind detransition clinic and pay $10 million following AG Ken Paxton's historic legal settlement \u2014 a direct consequence of a whistleblower who exposed the hospital's concealed gender intervention program. The whistleblower faced retaliation; the hospital faced accountability. This is what happens when institutions are forced to answer for procedures they were quietly running while publicly denying.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
+      "date": "2026-10-27",
+      "pillar": "vindicated",
+      "category": "Whistleblower",
+      "topic": "Pediatric Medicine",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Glycolysis-Driven Tumor Progression in Liver Cancer: Metabolic Research That Should Be Reshaping Oncology",
+      "summary": "New research in PLOS ONE identifies ENO2-driven glycolytic activity as a key driver of hepatocellular carcinoma progression, adding to the growing body of evidence supporting metabolic theories of cancer over the conventional gene-mutation-only paradigm. This research validates what metabolic oncology researchers like Thomas Seyfried have argued for years \u2014 that cancer is fundamentally a metabolic disease. The question is how long mainstream oncology will continue to ignore it.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361057",
+      "date": "2026-10-25",
+      "pillar": "vindicated",
+      "category": "Metabolic Research",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Pediatric ICUs Vanishing Nationwide as Medicaid Cuts Bite \u2014 The Hidden Cost of a Captured Health System",
+      "summary": "KFF Health News reports that hospitals across the United States are shutting down pediatric intensive care units as federal Medicaid funding cuts force impossible triage decisions. The closure wave is hitting rural and underserved communities hardest, where children in crisis will now face hours-long transport times to reach critical care. This is what health system capture looks like when the budget ax finally falls on the most vulnerable.",
+      "source": "Kffhealthnews.org",
+      "url": "https://kffhealthnews.org/republish/health-industry/picu-hospital-beds-disappearing-sick-children-intensive-care-montana/",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "Pediatric Medicine",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Longevity Protocols Built for Men Are Being Sold to Women \u2014 Doctors Sound the Alarm on the Data Gap",
+      "summary": "Physicians are calling out the longevity influencer industry for pushing protocols \u2014 from fasting regimens to resistance training frameworks \u2014 that were developed almost exclusively from male physiology data and are being uncritically applied to women. The hormonal complexity of female biology, particularly around estrogen and muscle metabolism, is routinely ignored in studies that form the basis of popular longevity advice. This is the replication crisis and the sex-data gap colliding in real time.",
+      "source": "mindbodygreen.com",
+      "url": "https://www.mindbodygreen.com/articles/popular-longevity-protocols-werent-designed-for-womens-bodies-we-cant-forget-about-muscle",
+      "date": "2026-10-25",
+      "pillar": "uncaged",
+      "category": "Replication Crisis",
+      "topic": "Longevity",
+      "suppression_score": 2,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "Metabolic Research",
       "topic": "Oncology",
       "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Blood Clots, Vaccines, and the Institutional Silence That's Killing People",
-      "summary": "Brownstone Institute publishes a clinical-level breakdown of thromboembolic events and the collapse of medical reasoning in the post-COVID era. Dr. Joseph Varon argues that common-sense clinical signals were deliberately ignored by health authorities protecting a preferred narrative. The piece names the systemic failure that has allowed preventable deaths to be waved away as coincidence.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/blood-clots-and-the-death-of-common-sense/",
-      "date": "2026-10-25",
-      "pillar": "suppressed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Doctors Are Being Forced Out for Telling the Truth: UK GP Investigated as 'Transphobic' After Raising Safety Concerns",
-      "summary": "A British GP, Dr. Redvers, was subjected to a four-hour 'brutal' interrogation and effectively driven out of the NHS after raising legitimate clinical concerns about a trans-identified doctor administering puberty blockers to minors. The tribunal process was weaponized not to protect patients but to silence dissent. This is medical censorship with a new ideological veneer.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Whistleblower",
-      "topic": "Pediatric Medicine",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Perioperative Vaccination: The Medical Establishment Is Running Experiments on Surgical Patients Without Calling It That",
-      "summary": "Dr. Clayton J. Baker at Brownstone Institute exposes the push to vaccinate patients in the perioperative window \u2014 immediately before or after surgery \u2014 a practice with no rigorous safety evidence and profound ethical violations. Administering immunologically active agents to anesthetized or post-surgical patients without meaningful informed consent is not medicine; it is coercion dressed in a white coat. The medical literature supporting this practice is thin, the conflicts of interest are thick.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-medical-and-ethical-atrocity-of-perioperative-vaccination/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "How Political Meddling Destroyed American Medicine \u2014 And the Institutions That Were Supposed to Protect It",
-      "summary": "Mercola.com republishes a sweeping analysis of how COVID-19 exposed the depth of political capture inside U.S. health institutions, tracing the collapse of public trust directly to agency decisions that prioritized narrative over evidence. The piece documents how hospitals, the FDA, CDC, and NIH functioned as enforcement arms of a political agenda rather than scientific bodies. Trust has not recovered \u2014 because the institutions have not changed.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Texas Forces Children's Hospital to Open Detransition Clinic After $10M Settlement \u2014 The Medical Establishment Fought This Every Step of the Way",
-      "summary": "Texas Attorney General Ken Paxton's landmark settlement with Texas Children's Hospital has resulted in the opening of the first detransition clinic in the state, a direct rebuke of a hospital system that was performing gender interventions on minors. The $10 million penalty and mandated clinic represent the first time a major U.S. pediatric institution has been held legally accountable for gender medicine harms. Detransitioners who were failed by the system are now speaking out.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
-      "date": "2026-10-27",
-      "pillar": "vindicated",
-      "category": "Whistleblower",
-      "topic": "Pediatric Medicine",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Vitamin D Research the Mainstream Won't Touch: International Forum Presents Data Agencies Have Ignored for Years",
-      "summary": "The 2024 International Virtual Vitamin D Forum compiled decades of suppressed and marginalized research demonstrating vitamin D's critical role across immune function, chronic disease prevention, and mortality reduction. This is research that should be driving public health guidance but instead gets buried under guidelines written by committees with pharmaceutical ties. The RDA remains criminally low while the data screams otherwise.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Immunology",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Pandemic Preparedness Is a Power Grab in Disguise: Accountability Has Been Engineered Out of the System",
-      "summary": "Ramesh Thakur at Brownstone Institute dismantles the global pandemic preparedness framework, showing how 'equity' language is being used to launder WHO and globalist power grabs that insulate health bureaucrats from any accountability for their decisions. The WHO's pandemic treaty push and the IHRS amendments represent the greatest transfer of medical sovereignty in history \u2014 and it's being done with virtually no public debate. Those who raise objections are smeared as anti-science.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/equity-with-accountability-in-pandemic-preparedness/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 4,
       "age": ""
     }
   ]
