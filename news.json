@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-31T21:11:39.001760+00:00",
+  "updated": "2026-11-01T05:01:54.763732+00:00",
   "articles": [
+    {
+      "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
+      "summary": "Former FDA insider and epidemiologist Vinay Prasad tells Reason magazine that Anthony Fauci was wrong on virtually every major COVID-19 policy call \u2014 from masking to school closures to lockdowns. Prasad also takes aim at RFK Jr. and the broken institutional apparatus of public health that enabled Fauci's unchecked authority for decades. This is a senior scientist on record saying the emperor had no clothes.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "Fauci",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Brownstone MD Exposes the Dangerous Absurdity of Vaccinating Surgical Patients Perioperatively",
+      "summary": "Clayton J. Baker, MD, writing for the Brownstone Institute, dissects the medical and ethical train wreck of administering vaccines to patients in the perioperative window \u2014 a practice with no solid safety evidence and serious physiological risks. The piece argues this protocol was driven by institutional vaccine-push mandates, not patient welfare. Informed consent was effectively abolished under the cover of surgical prep.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/the-medical-and-ethical-atrocity-of-perioperative-vaccination/",
+      "date": "2026-10-27",
+      "pillar": "suppressed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Blood Clots and the Death of Common Sense: A Physician Breaks Ranks on Vaccine-Associated Coagulopathy",
+      "summary": "Joseph Varon, a critical care physician writing at the Brownstone Institute, confronts the institutional silence around blood clotting events and their link to COVID-era interventions. The piece argues that clinicians who raised early red flags were steamrolled by narrative enforcers inside medicine's regulatory bodies. Common sense clinical observation was sacrificed on the altar of approved messaging.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/blood-clots-and-the-death-of-common-sense/",
+      "date": "2026-10-27",
+      "pillar": "exposed",
+      "category": "Whistleblower",
+      "topic": "Cardiovascular",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Mercola: How Political Capture of Medicine Is Destroying Patient Freedom and Institutional Trust",
+      "summary": "A widely-read analysis republished at Mercola.com documents the sharp collapse in public trust in hospitals and health institutions since COVID-19 \u2014 and traces it directly to political interference in clinical decision-making. The piece names the mechanisms: regulatory capture, suppression of dissenting physicians, and weaponized licensing boards. The healthcare system chose narrative management over patient outcomes.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
+      "date": "2026-10-25",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Vitamin D Research the Establishment Won't Amplify: International Forum Reveals Suppressed Therapeutic Potential",
+      "summary": "The 2024 International Virtual Vitamin D Forum compiled mounting evidence that vitamin D plays a far broader therapeutic role than official dietary guidelines acknowledge \u2014 covering immune function, chronic disease prevention, and pandemic resilience. This research has been systematically marginalized by institutions with financial ties to pharmaceutical interventions that vitamin D would render unnecessary. The sunshine vitamin remains cheap, unpatentable, and inconvenient.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
+      "date": "2026-10-27",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Texas Children's Hospital Forced to Open Detransition Clinic After $10M Settlement \u2014 The Medical Establishment Didn't Do This Voluntarily",
+      "summary": "Texas Attorney General Ken Paxton extracted a landmark $10 million settlement from Texas Children's Hospital and mandated the opening of the first detransition clinic in the country \u2014 a service the medical establishment has actively resisted providing. The hospital had been performing gender transition interventions on minors while suppressing internal whistleblower concerns. This clinic exists because of legal force, not medical ethics.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
+      "date": "2026-10-27",
+      "pillar": "vindicated",
+      "category": "Whistleblower",
+      "topic": "Mental Health",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "ENO2-Driven Glycolysis in Liver Cancer Points to Metabolic Tumor Theories Mainstream Oncology Still Ignores",
+      "summary": "New research published in PLOS ONE identifies ENO2 as a key driver of the Warburg-effect glycolytic metabolism fueling hepatocellular carcinoma progression \u2014 lending further weight to metabolic theories of cancer that have been sidelined for decades in favor of genetic mutation paradigms. The study maps ENO2's prognostic relevance and functional role in tumor growth and survival. Every paper like this is another brick in the wall that orthodox oncology refuses to look at.",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361057",
+      "date": "2026-10-27",
+      "pillar": "vindicated",
+      "category": "Metabolic Research",
+      "topic": "Oncology",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Pandemic Preparedness Framework Exposed: Accountability Has Been Written Out of the Equity Agenda",
+      "summary": "Ramesh Thakur, writing for the Brownstone Institute, dismantles the global pandemic preparedness architecture being built under the banner of 'equity' \u2014 arguing it systematically removes accountability mechanisms while concentrating power in unelected international health bodies. The WHO-led framework would repeat and entrench every failure of the COVID response with zero consequences for those who got it catastrophically wrong. Equity without accountability is just power without oversight.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/equity-with-accountability-in-pandemic-preparedness/",
+      "date": "2026-10-27",
+      "pillar": "exposed",
+      "category": "NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
     {
       "title": "Former FDA Insider Vinay Prasad: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
       "summary": "Epidemiologist and former FDA insider Vinay Prasad delivers a blunt verdict on Anthony Fauci's pandemic leadership, stating he was wrong on virtually every major policy call. Prasad also takes aim at the broader collapse of public health credibility and weighs in on RFK Jr.'s reform efforts at HHS. This is the kind of institutional autopsy that mainstream science media refuses to publish.",
@@ -95,18 +191,6 @@
       "category": "Metabolic Research",
       "topic": "Oncology",
       "suppression_score": 2,
-      "age": ""
-    },
-    {
-      "title": "Vinay Prasad Unloads: 'Fauci Was Wrong About Almost Every Single Pandemic Policy He Advanced'",
-      "summary": "Former FDA insider and epidemiologist Vinay Prasad delivers a scathing indictment of Anthony Fauci's pandemic leadership, stating he was wrong on virtually every major COVID policy. Prasad also takes aim at the broader collapse of public health credibility and what RFK Jr.'s HHS reforms mean for the captured system. This is the kind of accountability the mainstream press has spent years suppressing.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "Fauci",
-      "topic": "COVID",
-      "suppression_score": 4,
       "age": ""
     },
     {
@@ -275,90 +359,6 @@
       "category": "NIH Capture",
       "topic": "COVID",
       "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "CDC Caught in Deliberate Cover-Up of Vaccine Injury Data, Brownstone Investigation Finds",
-      "summary": "Jeffrey Tucker at the Brownstone Institute lays out documented evidence that the CDC actively misrepresented the frequency and severity of COVID shot injuries to the American public. The piece identifies specific methodological manipulations used to obscure adverse event signals that should have triggered regulatory review. This is not incompetence \u2014 Tucker argues it was a coordinated institutional decision to protect the vaccine program over patient safety.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/how-the-cdc-lied-about-shot-injury/",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Doctors Forced to Vaccinate Surgical Patients Perioperatively \u2014 The Ethics Atrocity No One Is Talking About",
-      "summary": "Clayton J. Baker, MD details the coercive practice of administering COVID vaccines to patients immediately before or after surgery \u2014 a window when immune systems are stressed and informed consent is functionally impossible. Baker argues this protocol violated foundational medical ethics and was pushed through hospital systems without independent safety review. The piece names the institutional pressure that silenced physicians who objected.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-medical-and-ethical-atrocity-of-perioperative-vaccination/",
-      "date": "2026-10-25",
-      "pillar": "suppressed",
-      "category": "Whistleblower",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Big Pharma's Hostages: How Federal Policy Traps Patients in a Captured Drug System",
-      "summary": "James Bovard writes from personal experience as a patient trapped by pharmaceutical dependency enforced through federal policy, arguing that both parties have protected pharma's market stranglehold at the expense of patient autonomy. The piece challenges Trump-era HHS to follow through on reform rhetoric rather than repeating the pattern of regulatory capture that has defined decades of drug policy. A damning first-person account of what systemic pharma corruption looks like from the inside.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/will-trump-take-millions-of-hostages-like-me-for-big-pharma/",
-      "date": "2026-10-25",
-      "pillar": "uncaged",
-      "category": "Pharma Fraud",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "NHS Silenced a GP for Questioning Gender Medicine Given to Minors \u2014 Then Called Her Transphobic",
-      "summary": "Dr. Redvers, a UK GP, was subjected to a four-hour 'brutal' interrogation after raising clinical concerns about a trans-identified doctor prescribing puberty blockers to under-18s \u2014 interventions now facing international regulatory scrutiny. Rather than investigate the prescribing practices, NHS administrators opened a transphobia investigation against the whistleblower, effectively punishing clinical caution. This is a textbook case of institutional capture silencing doctors who prioritize child safety over ideology.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16235043/GP-quits-NHS-transphobic-concerns-trans-doctor.html",
-      "date": "2026-10-25",
-      "pillar": "suppressed",
-      "category": "Whistleblower",
-      "topic": "Mental Health",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Texas Forces Children's Hospital to Open Detransition Clinic After $10M Settlement \u2014 The Medical Establishment Wanted This Buried",
-      "summary": "Texas Attorney General Ken Paxton's landmark legal settlement with Texas Children's Hospital has compelled the institution to open the first dedicated detransition care clinic in the country, alongside a $10 million penalty. The hospital had been providing gender transition interventions to minors \u2014 procedures now under scrutiny for long-term harm \u2014 and fought accountability every step of the way. Detransitioners speaking out say this clinic represents the first time the medical system has been forced to acknowledge what it spent years denying.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
-      "date": "2026-10-27",
-      "pillar": "vindicated",
-      "category": "Pharma Fraud",
-      "topic": "Mental Health",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Mercola: Political Capture of Medicine Is Destroying Patient Trust \u2014 And the Data Proves It",
-      "summary": "Trust in hospitals and health institutions has collapsed in the post-COVID era, and this piece traces that collapse directly to political interference in clinical decision-making, from suppressed early treatment protocols to coerced vaccination policies. The article documents how government coordination with hospital systems overrode physician judgment and patient choice at scale. The public's instinct that something was deeply wrong has now been confirmed by the institutions' own conduct.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/25/how-politics-threaten-your-medical-freedom.aspx",
-      "date": "2026-10-25",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Vitamin D Science the Establishment Keeps Downgrading: International Forum Presents Suppressed Evidence",
-      "summary": "The 2024 International Virtual Vitamin D Forum convened independent researchers presenting clinical and mechanistic evidence for vitamin D's role in immune function, disease prevention, and chronic illness \u2014 data that mainstream dietary guidelines have consistently minimized or ignored. Critics argue that institutional bias toward pharmaceutical interventions has systematically suppressed low-cost nutritional solutions backed by decades of research. The forum represents a growing independent scientific community unwilling to wait for official approval of what the data already shows.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
-      "date": "2026-10-27",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 3,
       "age": ""
     }
   ]
