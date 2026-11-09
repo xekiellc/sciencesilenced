@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-30T22:02:16.493905+00:00",
+  "updated": "2026-11-09T05:19:30.810057+00:00",
   "items": [
+    {
+      "show": "Chrome for Developers",
+      "title": "Memory debugging with agents",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=StAhZk_YVkE",
+      "date": "2026-11-05T20:03:47+00:00",
+      "age": "3 days ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance: Interactive content in 3D scenes",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=G-zNSCp1UGo",
+      "date": "2026-11-05T17:00:51+00:00",
+      "age": "3 days ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Modern Web Guidance in your AI workflow: Global holidays",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=1OFArx0XEKE",
+      "date": "2026-11-03T17:05:50+00:00",
+      "age": "5 days ago"
+    },
+    {
+      "show": "Chrome for Developers",
+      "title": "Debug WebMCP with Chrome DevTools",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=SxHnHFwjpI0",
+      "date": "2026-11-02T18:18:10+00:00",
+      "age": "6 days ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "How to build safer WebMCP tools for AI agents",
@@ -360,46 +400,6 @@
       "url": "https://www.youtube.com/shorts/TM90xQSGxHI",
       "date": "2026-09-27T16:30:17+00:00",
       "age": "8 min ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Navigating subclinical hypothyroidism | Peter Attia, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/6KXdPnGLQrM",
-      "date": "2026-09-25T18:57:29+00:00",
-      "age": "2 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "93: State queries in 2025",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=nwauFPVDVEY",
-      "date": "2026-09-24T18:02:51+00:00",
-      "age": "3 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Modern Web Guidance: Swipe to remove",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=9U4D5m24mhc",
-      "date": "2026-09-22T16:01:12+00:00",
-      "age": "32 min ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Thyroid health: interpreting symptoms, diagnosing & treating dysfunction, & navigating the gray zone",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=6Bhq-PBWG8c",
-      "date": "2026-09-21T04:00:06+00:00",
-      "age": "8 hrs ago"
     }
   ]
 }
