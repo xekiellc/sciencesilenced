@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-09T05:19:30.810057+00:00",
+  "updated": "2026-11-09T15:35:48.817160+00:00",
   "items": [
+    {
+      "show": "Peter Attia MD",
+      "title": "Understanding lab testing: what blood work can & cannot tell you (AMA 91 sneak peek)",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=HhTirnNCxxE",
+      "date": "2026-11-09T05:00:12+00:00",
+      "age": "10 hrs ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "How to effectively train your abdominal muscles | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=drDjOsO9-Cw",
+      "date": "2026-11-07T17:30:16+00:00",
+      "age": "Yesterday"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "The difference between psychological and mechanical limits in lifting | Jeff Cavaliere",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Kst46m2gyLA",
+      "date": "2026-11-06T17:30:19+00:00",
+      "age": "2 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Jeff\u2019s exercise graveyard | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/shorts/Ni9Uwvafuq8",
+      "date": "2026-11-05T19:38:39+00:00",
+      "age": "3 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "Understanding reps in reserve | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=e1RoRmKWsEE",
+      "date": "2026-11-04T19:32:48+00:00",
+      "age": "4 days ago"
+    },
+    {
+      "show": "Peter Attia MD",
+      "title": "414 \u2012 Resistance training as we age: exercise selection, training intensity, and much more",
+      "guest": "",
+      "type": "video",
+      "topic": "",
+      "url": "https://www.youtube.com/watch?v=8IuHv7nYkDs",
+      "date": "2026-11-02T05:00:20+00:00",
+      "age": "7 days ago"
+    },
     {
       "show": "Chrome for Developers",
       "title": "Memory debugging with agents",
@@ -340,66 +400,6 @@
       "url": "https://www.youtube.com/shorts/BFdsi7mimUI",
       "date": "2026-10-01T16:38:51+00:00",
       "age": "5 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "What's New: Chrome DevTools 151-153",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=vukchAoaTdE",
-      "date": "2026-09-30T16:10:37+00:00",
-      "age": "5 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "Modern Web Guidance: Scroll-driven entry and exit effects",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=kbjHnZOQgkQ",
-      "date": "2026-09-29T16:05:58+00:00",
-      "age": "5 hrs ago"
-    },
-    {
-      "show": "Chrome for Developers",
-      "title": "94: CSS carousels (and scroll)",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=btIOhb6AiOc",
-      "date": "2026-09-28T18:49:22+00:00",
-      "age": "4 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "Risks associated with thyroid supplements | Peter Attia, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/ySqrXczYpVg",
-      "date": "2026-09-28T16:30:20+00:00",
-      "age": "6 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "409 \u2012 Inside modern drug development: the science, economics, and regulatory hurdles",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/watch?v=GoNjdK-I0Bc",
-      "date": "2026-09-28T04:00:11+00:00",
-      "age": "9 hrs ago"
-    },
-    {
-      "show": "Peter Attia MD",
-      "title": "The nuances of diagnosing and treating thyroid dysfunction | Peter Attia, M.D.",
-      "guest": "",
-      "type": "video",
-      "topic": "",
-      "url": "https://www.youtube.com/shorts/TM90xQSGxHI",
-      "date": "2026-09-27T16:30:17+00:00",
-      "age": "8 min ago"
     }
   ]
 }
