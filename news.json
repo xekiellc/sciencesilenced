@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-10T01:18:28.250240+00:00",
+  "updated": "2026-11-10T14:32:19.392357+00:00",
   "articles": [
     {
       "title": "FDA Knew COVID Vaccine Safety System Was Broken \u2014 Then Buried the Whistleblower Who Said So",
-      "summary": "Internal emails from New York's medical examiner office reveal officials privately questioned vaccine safety while publicly declaring the shots safe. A 16-year-old died four days after his second Pfizer dose with cardiac abnormalities consistent with vaccine injury \u2014 yet the FDA suppressed the whistleblower raising alarms about the flawed surveillance system. This is institutional cover-up at the highest level of public health authority.",
+      "summary": "Internal emails from New York's medical examiner office reveal FDA officials privately acknowledged the vaccine safety surveillance system was flawed while publicly declaring the shots safe. A 16-year-old died four days after his second Pfizer dose with cardiac abnormalities consistent with vaccine injury \u2014 a case officials debated internally but never amplified publicly. This is textbook institutional suppression: know the risk, hide the data, protect the narrative.",
       "source": "Naturalnews.com",
       "url": "https://www.naturalnews.com/2026-11-05-fda-officials-knew-covid-vaccine-safety-system-was-flawed-suppressed-whistleblower-investigations-reveal.html",
       "date": "2026-11-05",
@@ -11,6 +11,90 @@
       "category": "Whistleblower / NIH Capture",
       "topic": "COVID",
       "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Pharma Whistleblower Claims Madrigal Forced Out Its Own Clinical Chief to Bury Liver Injury Data on FDA-Approved Drug Rezdiffra",
+      "summary": "Former clinical chief Michael Charlton alleges Madrigal Pharmaceuticals retaliated against him after he raised alarms about liver-injury signals tied to their flagship drug Rezdiffra \u2014 which the FDA approved anyway. This follows a pattern of executives being silenced precisely when safety data threatens a profitable product launch. The FDA's warnings remain on the label, but the man who tried to stop the cover-up lost his job.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/madrigal-executive-lawsuit-rezdiffra-liver-injury-data-480896",
+      "date": "2026-11-06",
+      "pillar": "exposed",
+      "category": "Pharma Fraud / Whistleblower",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Epidemiologist Nicolas Hulscher Calls mRNA Shots the Deadliest Product in Human History \u2014 and Names the Flu Vaccine Fraud Running Alongside It",
+      "summary": "McCullough Foundation epidemiologist Nicolas Hulscher delivers a systematic indictment of mRNA COVID vaccines, alleging mortality signals that dwarf any product in pharmacological history, while simultaneously exposing the statistical sleight-of-hand propping up annual flu vaccine efficacy claims. He also addresses suppressed metabolic approaches to cancer treatment that the oncology establishment refuses to fund or examine. This is the kind of interview mainstream science journalism will not touch.",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/the-deadliest-product-in-history-what-nicolas-hulscher-taught-me-about-mrna-shots-flu-vaccine-fraud-and-natural-cancer-cures/",
+      "date": "2026-11-06",
+      "pillar": "suppressed",
+      "category": "Pharma Fraud / Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Broken by Mandate: Canadian Healthcare Workers Recount Moral Injury, Job Loss, and the Price of Refusing an Experimental Injection",
+      "summary": "Canadian healthcare professionals detail the psychological devastation and career destruction that followed refusal to comply with COVID vaccine mandates \u2014 a phenomenon researchers are now calling 'moral injury.' These are not fringe anti-vaxxers; these are trained clinicians who read the data, raised concerns through proper channels, and were fired for it. Their stories represent a systematic purge of medical dissent that institutional medicine has never answered for.",
+      "source": "Thefocalpoints.com",
+      "url": "https://www.thefocalpoints.com/p/broken-on-the-battlefield-of-public",
+      "date": "2026-11-06",
+      "pillar": "suppressed",
+      "category": "Whistleblower / NIH Capture",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Robert Malone at Brownstone: The Scientific Establishment Is Running a Protection Racket, Not a Research Enterprise",
+      "summary": "mRNA technology pioneer Dr. Robert Malone \u2014 deplatformed, stripped of credentials, and smeared by the same institutions that built careers on his patents \u2014 delivers his Brownstone Institute conference speech outlining how regulatory capture and elite consensus enforcement have replaced actual science. Malone names specific mechanisms by which NIH funding structures punish heterodox research and reward compliance. If the system worked, they wouldn't need to silence the man who invented the core technology.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/notes-on-my-brownstone-annual-conference-speech/",
+      "date": "2026-11-06",
+      "pillar": "uncaged",
+      "category": "NIH Capture / Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "The Miracle Vitamin Mainstream Medicine Refuses to Revisit \u2014 And Why the Recommended Dose Is Deliberately Wrong",
+      "summary": "Researcher Jeff T. Bowles makes a documented case that official recommended doses for a critical vitamin are set orders of magnitude below therapeutic levels \u2014 not by accident, but by institutional inertia protecting a treatment paradigm that profits from deficiency-linked chronic disease. The medical establishment's refusal to fund or replicate high-dose trials is not scientific caution; it is the replication crisis applied selectively to anything that cannot be patented. The suppression score here reflects decades of stonewalling.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/11/the-miracle-vitamin-that-modern-science-refuses-to-re-examine/",
+      "date": "2026-11-06",
+      "pillar": "suppressed",
+      "category": "Nutrition Science / Replication Crisis",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Urolithin A and Mitochondrial Renewal: The Longevity Science Big Pharma Has No Financial Reason to Fund",
+      "summary": "Emerging research on Urolithin A \u2014 a gut-metabolite compound derived from polyphenol-rich foods \u2014 shows meaningful signals for mitochondrial autophagy and immune cell renewal in aging populations. Because Urolithin A cannot be patented in its natural form, NIH and pharma funding for large-scale clinical trials is effectively nonexistent. Mercola's coverage surfaces what peer-reviewed journals quietly acknowledge: the most promising longevity interventions are systematically underfunded because they threaten the pharmaceutical maintenance-drug model.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/11/06/urolithin-a-immune-system-benefits.aspx",
+      "date": "2026-11-06",
+      "pillar": "suppressed",
+      "category": "Longevity / Metabolic Research",
+      "topic": "Cardiovascular",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Aaron Kheriaty on Sex Differences in Psychiatry: The Science Being Erased for Ideological Compliance",
+      "summary": "Bioethicist and former UCI Medical School professor Aaron Kheriaty \u2014 fired for refusing the COVID vaccine mandate \u2014 examines how biological sex differences in neurology and psychiatric drug response are being systematically written out of clinical guidelines under ideological pressure. The consequences are not abstract: women and men metabolize psychiatric medications differently, and protocols that ignore this cause measurable harm. This is what happens when institutional medicine serves political consensus instead of patients.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/sex-differences-perspectives-from-biology-medicine-and-psychiatry/",
+      "date": "2026-11-06",
+      "pillar": "uncaged",
+      "category": "Psychiatry / Medical Censorship",
+      "topic": "Mental Health",
+      "suppression_score": 3,
       "age": ""
     },
     {
@@ -274,90 +358,6 @@
       "pillar": "vindicated",
       "category": "Longevity",
       "topic": "Cardiovascular",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Brownstone's Kheriaty: Sex Differences in Psychiatry Are Real \u2014 and the Field Has Been Lying About Them",
-      "summary": "Dr. Aaron Kheriaty examines how biological sex differences in medicine and psychiatry have been systematically downplayed or ideologically suppressed, distorting clinical outcomes for both men and women. Drug trials historically designed around male physiology, then applied universally, have produced documented harms that regulators minimized. The convergence of political pressure and pharmaceutical convenience has made honest sex-stratified science nearly impossible to publish.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/sex-differences-perspectives-from-biology-medicine-and-psychiatry/",
-      "date": "2026-11-06",
-      "pillar": "suppressed",
-      "category": "Psychiatry / Replication Crisis",
-      "topic": "Mental Health",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Blood Clots and Buried Science: What the Medical Establishment Refused to Tell You",
-      "summary": "Brownstone Institute's Joseph Varon dissects how common-sense warnings about blood clot risks were systematically ignored or suppressed during the COVID era. The piece names institutional failures that left patients uninformed and unprotected. When clinical reality contradicts approved narrative, it is patients who pay the price in blood.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/blood-clots-and-the-death-of-common-sense/",
-      "date": "2026-10-29",
-      "pillar": "suppressed",
-      "category": "Whistleblower",
-      "topic": "Cardiovascular",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Why Weren't We Warned? The Institutional Silence That Killed Informed Consent",
-      "summary": "Alan Cassels at Brownstone Institute confronts the deliberate failure of public health authorities to warn the public about known medical risks \u2014 a pattern of omission that constitutes a fundamental breach of informed consent. The piece challenges why regulators and media suppressed safety signals that were visible to independent researchers. This is not incompetence; it is a policy of silence.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/why-werent-we-warned/",
-      "date": "2026-10-29",
-      "pillar": "exposed",
-      "category": "NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Vaccinating Surgical Patients: The Ethical Atrocity Being Normalized in Hospital Wards",
-      "summary": "Clayton J. Baker, MD, tears apart the practice of 'perioperative vaccination' \u2014 administering vaccines to patients in the perioperative window when immune systems are compromised and informed consent is most vulnerable. Baker argues this practice violates foundational medical ethics and exposes patients to compounded risks that are never disclosed. The fact that this is being normalized without outcry from medical boards is itself the scandal.",
-      "source": "Brownstone Institute",
-      "url": "https://brownstone.org/articles/the-medical-and-ethical-atrocity-of-perioperative-vaccination/",
-      "date": "2026-10-29",
-      "pillar": "exposed",
-      "category": "Pharma Fraud",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Vitamin D Research the Mainstream Won't Amplify: What the 2024 International Forum Actually Found",
-      "summary": "Mercola.com covers the 2024 International Virtual Vitamin D Forum, presenting peer-reviewed evidence on vitamin D's systemic role in immune function, disease prevention, and overall health \u2014 research that receives a fraction of the funding and media attention lavished on patentable pharmaceuticals. The suppression of low-cost nutritional interventions in favor of high-margin drugs is not accidental. Follow the money.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/27/power-of-vitamin-d.aspx",
-      "date": "2026-10-27",
-      "pillar": "vindicated",
-      "category": "Nutrition Science",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Texas Children's Hospital Forced to Open Detransition Clinic After $10M Settlement \u2014 The Medical Scandal They Hoped Would Stay Quiet",
-      "summary": "Texas Attorney General Ken Paxton's historic settlement with Texas Children's Hospital has compelled the institution to open the first-of-its-kind detransition clinic, serving patients harmed by gender transition interventions the hospital performed on minors. The $10 million penalty and clinic requirement are a direct indictment of a medical establishment that performed irreversible procedures while suppressing detransitioner outcomes data. This is what accountability looks like when regulators finally act.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/10/27/exclusive-detransitioners-speak-out-on-paxtons-historic-clinic-victory-as-he-faces-pro-transgender-talarico/",
-      "date": "2026-10-27",
-      "pillar": "exposed",
-      "category": "Whistleblower",
-      "topic": "Oncology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "ENO2-Driven Glycolysis in Liver Cancer: Metabolic Research That Challenges the Standard Oncology Playbook",
-      "summary": "New research published in PLOS ONE identifies ENO2-driven glycolytic metabolism as a key driver of hepatocellular carcinoma progression, lending further weight to metabolic theories of cancer that have long been sidelined by the oncology establishment in favor of genetic mutation frameworks. The study maps ENO2's prognostic relevance and functional role, opening therapeutic angles that go beyond conventional chemotherapy targets. Warburg-era metabolic science keeps being vindicated \u2014 and keeps being ignored.",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361057",
-      "date": "2026-10-29",
-      "pillar": "vindicated",
-      "category": "Metabolic Research",
-      "topic": "Oncology",
       "suppression_score": 3,
       "age": ""
     }
