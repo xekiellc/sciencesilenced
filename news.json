@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-10T14:32:19.392357+00:00",
+  "updated": "2026-11-10T22:58:38.041437+00:00",
   "articles": [
     {
       "title": "FDA Knew COVID Vaccine Safety System Was Broken \u2014 Then Buried the Whistleblower Who Said So",
-      "summary": "Internal emails from New York's medical examiner office reveal FDA officials privately acknowledged the vaccine safety surveillance system was flawed while publicly declaring the shots safe. A 16-year-old died four days after his second Pfizer dose with cardiac abnormalities consistent with vaccine injury \u2014 a case officials debated internally but never amplified publicly. This is textbook institutional suppression: know the risk, hide the data, protect the narrative.",
+      "summary": "Internal emails from New York's medical examiner office reveal FDA officials privately acknowledged the vaccine safety surveillance system was flawed while publicly declaring the shots safe. A 16-year-old died four days after his second Pfizer dose with cardiac abnormalities consistent with vaccine injury \u2014 a case officials debated internally while the public narrative remained unbroken. This is textbook institutional suppression: the science was known, the death was real, and the silence was deliberate.",
       "source": "Naturalnews.com",
       "url": "https://www.naturalnews.com/2026-11-05-fda-officials-knew-covid-vaccine-safety-system-was-flawed-suppressed-whistleblower-investigations-reveal.html",
       "date": "2026-11-05",
@@ -11,6 +11,90 @@
       "category": "Whistleblower / NIH Capture",
       "topic": "COVID",
       "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Pharma Whistleblower Alleges Madrigal Buried Liver Injury Data to Protect Rezdiffra's FDA Approval",
+      "summary": "Former clinical chief Michael Charlton claims Madrigal Pharmaceuticals forced him out after he raised alarms about liver-injury data tied to their flagship drug Rezdiffra \u2014 which the FDA approved anyway. The lawsuit follows a now-familiar pattern: raise safety concerns internally, get fired, watch the drug sail through approval. Charlton's account names names and puts the FDA's due diligence squarely in the crosshairs.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/madrigal-executive-lawsuit-rezdiffra-liver-injury-data-480896",
+      "date": "2026-11-05",
+      "pillar": "exposed",
+      "category": "Pharma Fraud / Whistleblower",
+      "topic": "Oncology",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "mRNA Shots, Flu Vaccine Fraud, and Natural Cancer Cures: Epidemiologist Nicolas Hulscher Names What the Industry Won't",
+      "summary": "McCullough Foundation epidemiologist Nicolas Hulscher sits down for a sweeping indictment of the mRNA vaccine program, historical flu vaccine efficacy fraud, and suppressed natural cancer research. Hulscher draws on published data the mainstream press refuses to aggregate, connecting mass-casualty signals in VAERS to institutional capture at the FDA and NIH. The interview covers ground that gets researchers deplatformed \u2014 which is exactly why it matters.",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/the-deadliest-product-in-history-what-nicolas-hulscher-taught-me-about-mrna-shots-flu-vaccine-fraud-and-natural-cancer-cures/",
+      "date": "2026-11-05",
+      "pillar": "suppressed",
+      "category": "Pharma Fraud / Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 5,
+      "age": ""
+    },
+    {
+      "title": "Canada's Vaccine Mandate Casualties: Health Workers Broken, Fired, and Abandoned for Refusing Coerced Injection",
+      "summary": "Canadian healthcare workers describe moral injury, job loss, and psychological destruction after refusing COVID vaccine mandates imposed without informed consent or exemption pathways. These are trained medical professionals \u2014 nurses, physicians, researchers \u2014 erased from the system not for incompetence but for exercising bodily autonomy. The human cost of public health authoritarianism is documented here in first-person accounts the legacy media will not carry.",
+      "source": "Thefocalpoints.com",
+      "url": "https://www.thefocalpoints.com/p/broken-on-the-battlefield-of-public",
+      "date": "2026-11-05",
+      "pillar": "exposed",
+      "category": "Medical Censorship / Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "Robert Malone at Brownstone: The mRNA Architect Speaks on What Was Done \u2014 and Who Did It",
+      "summary": "Dr. Robert Malone, one of the foundational scientists behind mRNA technology, delivered a speech at the Brownstone Institute annual conference cataloguing the institutional failures, scientific suppression, and coordinated censorship of the COVID era. Malone was deplatformed from Twitter, smeared by Reuters and the Atlantic, and had his credentials attacked \u2014 all after speaking publicly about vaccine risks. His presence at Brownstone is itself an act of defiance the credentialed class has never forgiven.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/notes-on-my-brownstone-annual-conference-speech/",
+      "date": "2026-11-05",
+      "pillar": "uncaged",
+      "category": "Medical Censorship / Whistleblower",
+      "topic": "COVID",
+      "suppression_score": 4,
+      "age": ""
+    },
+    {
+      "title": "The Vitamin the Medical Establishment Refuses to Revisit \u2014 And Why That Silence Is Killing People",
+      "summary": "A deep dive into a widely available vitamin whose therapeutic ceiling has been systematically underexamined by mainstream medicine \u2014 with dosing guidelines set decades ago and never seriously updated despite accumulating evidence of broader benefit. The piece argues that institutional inertia, combined with the absence of patent-based profit motive, has locked life-saving research out of clinical guidelines. This is nutrition science suppression hiding in plain sight.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/11/the-miracle-vitamin-that-modern-science-refuses-to-re-examine/",
+      "date": "2026-11-06",
+      "pillar": "suppressed",
+      "category": "Nutrition Science",
+      "topic": "Dietary Guidelines",
+      "suppression_score": 3,
+      "age": ""
+    },
+    {
+      "title": "Urolithin A and Mitochondrial Renewal: The Longevity Science Big Pharma Has No Pill For",
+      "summary": "Research into Urolithin A \u2014 a gut-metabolite compound shown to stimulate mitophagy and renew aging immune cells \u2014 represents exactly the kind of non-patentable, mechanism-grounded longevity science that gets buried beneath blockbuster drug pipelines. Mercola's coverage outlines the mitochondrial renewal pathway and its implications for immune aging, inflammation, and energy decline. No pharma sponsor, no approved narrative \u2014 just the data.",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/11/06/urolithin-a-immune-system-benefits.aspx",
+      "date": "2026-11-06",
+      "pillar": "vindicated",
+      "category": "Longevity",
+      "topic": "Cardiovascular",
+      "suppression_score": 2,
+      "age": ""
+    },
+    {
+      "title": "Sex Differences in Psychiatry: Aaron Kheriaty on the Biological Truths Medicine's Ideological Capture Won't Allow",
+      "summary": "Dr. Aaron Kheriaty \u2014 fired from UC Irvine for opposing vaccine mandates \u2014 examines suppressed biological and psychiatric research on sex differences that institutional medicine has sidelined under ideological pressure. The piece draws on data from biology, clinical medicine, and psychiatry to argue that denying sex-based physiological differences produces worse patient outcomes and corrupted research. Kheriaty is one of the few credentialed psychiatrists willing to say this publicly after paying the professional price for dissent.",
+      "source": "Brownstone Institute",
+      "url": "https://brownstone.org/articles/sex-differences-perspectives-from-biology-medicine-and-psychiatry/",
+      "date": "2026-11-05",
+      "pillar": "uncaged",
+      "category": "Psychiatry / Medical Censorship",
+      "topic": "Mental Health",
+      "suppression_score": 3,
       "age": ""
     },
     {
@@ -274,90 +358,6 @@
       "pillar": "exposed",
       "category": "Fauci / NIH Capture",
       "topic": "COVID",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "FDA Knew Its COVID Vaccine Safety System Was Broken \u2014 Then Buried the Whistleblower Who Said So",
-      "summary": "Internal emails from New York's medical examiner office reveal FDA officials privately acknowledged flaws in vaccine safety surveillance while publicly insisting the shots were safe. A 16-year-old died four days after his second Pfizer dose with cardiac abnormalities consistent with vaccine injury \u2014 and the system designed to catch it failed by design. The whistleblower who raised alarms was suppressed, not elevated.",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-05-fda-officials-knew-covid-vaccine-safety-system-was-flawed-suppressed-whistleblower-investigations-reveal.html",
-      "date": "2026-11-05",
-      "pillar": "exposed",
-      "category": "Whistleblower / NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Pharma Whistleblower: Madrigal Pushed Out Its Own Clinical Chief After He Flagged Liver Injury Data on FDA-Approved Drug Rezdiffra",
-      "summary": "Former clinical chief Michael Charlton alleges Madrigal Pharmaceuticals retaliated against him after he raised internal concerns about liver-injury signals tied to Rezdiffra \u2014 a drug the FDA approved anyway. The lawsuit exposes the classic pharma playbook: silence the insider, ship the product, let regulators rubberstamp the rest. If the clinical chief can't speak freely, no one inside can.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/madrigal-executive-lawsuit-rezdiffra-liver-injury-data-480896",
-      "date": "2026-11-06",
-      "pillar": "exposed",
-      "category": "Pharma Fraud / Whistleblower",
-      "topic": "Hepatology",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Biden White House and Pfizer Colluded to Kill Cheap COVID Treatment While Profiting from Patented Pill, Persecuted Doctor Alleges",
-      "summary": "A physician who promoted an effective, low-cost COVID treatment claims the Biden administration coordinated with Pfizer to suppress it \u2014 clearing the market for Paxlovid, a patented alternative that generated billions. The doctor faced professional retaliation for speaking out, a pattern repeated across dozens of clinicians during the pandemic. This is what regulatory capture looks like when it has a body count.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/11/exclusive-biden-pfizer-banned-life-saving-covid-treatment/",
-      "date": "2026-11-06",
-      "pillar": "exposed",
-      "category": "Pharma Fraud / NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "Vaccine Mandates Broke People \u2014 Canada's Healthcare Workers Describe the Moral Wreckage Left Behind",
-      "summary": "Canadian healthcare professionals who refused COVID vaccine mandates describe job loss, psychological trauma, and what researchers are now calling moral injury \u2014 the damage done when institutions force individuals to act against their conscience under threat of livelihood. These are not fringe cases; they are a documented public health cost that official bodies refuse to account for. The human wreckage of coercive policy is being quietly erased from the record.",
-      "source": "Thefocalpoints.com",
-      "url": "https://www.thefocalpoints.com/p/broken-on-the-battlefield-of-public",
-      "date": "2026-11-06",
-      "pillar": "suppressed",
-      "category": "Whistleblower / NIH Capture",
-      "topic": "COVID",
-      "suppression_score": 4,
-      "age": ""
-    },
-    {
-      "title": "Epidemiologist Hulscher Names mRNA Shots as the Deadliest Product in History \u2014 Mainstream Science Won't Touch It",
-      "summary": "McCullough Foundation epidemiologist Nicolas Hulscher lays out a systematic case \u2014 drawing on excess mortality data, VAERS signals, and flu vaccine efficacy fraud \u2014 that mRNA COVID shots represent an unprecedented safety catastrophe. He also examines suppressed metabolic and natural approaches to cancer that the oncology establishment refuses to investigate. This is the conversation peer review won't host.",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/the-deadliest-product-in-history-what-nicolas-hulscher-taught-me-about-mrna-shots-flu-vaccine-fraud-and-natural-cancer-cures/",
-      "date": "2026-11-06",
-      "pillar": "suppressed",
-      "category": "Pharma Fraud / Whistleblower",
-      "topic": "COVID",
-      "suppression_score": 5,
-      "age": ""
-    },
-    {
-      "title": "The Miracle Vitamin Medical Consensus Has Refused to Re-Examine for Decades",
-      "summary": "Researcher Jeff T. Bowles argues that official dosing guidelines for a widely available vitamin are not just wrong but dangerously low \u2014 and that the medical establishment has systematically avoided revisiting the evidence. The suppression isn't dramatic; it's bureaucratic inertia protecting a paradigm that makes cheap interventions invisible. When the answer costs nothing, no one funds the trial.",
-      "source": "Americanthinker.com",
-      "url": "https://www.americanthinker.com/articles/2026/11/the-miracle-vitamin-that-modern-science-refuses-to-re-examine/",
-      "date": "2026-11-06",
-      "pillar": "suppressed",
-      "category": "Nutrition Science",
-      "topic": "Dietary Guidelines",
-      "suppression_score": 3,
-      "age": ""
-    },
-    {
-      "title": "Urolithin A and Mitochondrial Renewal: The Longevity Science Big Pharma Has No Patent Interest In",
-      "summary": "Emerging research on Urolithin A \u2014 a compound derived from gut metabolism of polyphenols \u2014 shows meaningful support for mitochondrial autophagy in aging immune cells, a pathway implicated in inflammation, energy decline, and immune senescence. This research is funded outside the pharma pipeline precisely because it cannot be patented at scale. The establishment's silence on mitochondrial renewal science is proportional to its unprofitability.",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/11/06/urolithin-a-immune-system-benefits.aspx",
-      "date": "2026-11-06",
-      "pillar": "vindicated",
-      "category": "Longevity",
-      "topic": "Cardiovascular",
       "suppression_score": 3,
       "age": ""
     }
